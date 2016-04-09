@@ -1,0 +1,9986 @@
+<S>
+Şampiyonlar:1
+P:     şampiyon+Noun+A3pl+Pnon+Nom
+P:     şampiyon+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+Ligi'ndeki:1
+P:     lig+Noun+Prop+A3sg+P3sg+Loc^DB+Adj+Rel
+P:     lig+Noun+Prop+A3sg+P2sg+Loc^DB+Adj+Rel
+P:     Ligi+Noun+Prop+A3sg+Pnon+Loc^DB+Adj+Rel
+
+temsilcilerimiz:2
+D:     temsil+Noun+A3sg+Pnon+Nom^DB+Noun+Agt+A3pl+P1sg+Nom^DB+Verb+Zero+Pres+A1pl
+P:     temsil+Noun+A3sg+Pnon+Nom^DB+Noun+Agt+A3pl+P1pl+Nom
+
+5.:1
+P:     5.+Num+Ord
+
+sınavlarına:4
+P:     sınav+Noun+A3pl+P3sg+Dat
+D:     sınav+Noun+A3pl+P2sg+Dat
+D:     sınav+Noun+A3sg+P3pl+Dat
+P:     sınav+Noun+A3pl+P3pl+Dat
+
+çıkıyor:1
+P:     çık+Verb+Pos+Prog1+A3sg
+
+Futbolda:1
+P:     futbol+Noun+A3sg+Pnon+Loc
+P:     futbolda+Noun+Prop+A3sg+Pnon+Nom
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+Şampiyonlar:1
+P:     şampiyon+Noun+A3pl+Pnon+Nom
+D:     şampiyon+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+D:     şampiyonlar+Noun+Prop+A3sg+Pnon+Nom
+
+Ligi'nin:1
+P:     lig+Noun+Prop+A3sg+P3sg+Gen
+D:     lig+Noun+Prop+A3sg+P2sg+Gen
+D:     Ligi+Noun+Prop+A3sg+Pnon+Gen
+D:     Ligi+Noun+Prop+A3sg+Pnon+Gen
+
+1.:1
+P:     1.+Num+Ord
+
+tur:1
+P:     tur+Noun+A3sg+Pnon+Nom
+
+gruplarında:1
+P:     grup+Noun+A3pl+P3sg+Loc
+D:     grup+Noun+A3pl+P2sg+Loc
+D:     grup+Noun+A3sg+P3pl+Loc
+D:     grup+Noun+A3pl+P3pl+Loc
+
+5.:1
+P:     5.+Num+Ord
+
+hafta:2
+D:     haf+Noun+A3sg+Pnon+Loc
+P:     hafta+Noun+A3sg+Pnon+Nom
+
+müsabakaları:1
+P:     müsabaka+Noun+A3pl+P3sg+Nom
+D:     müsabaka+Noun+A3pl+Pnon+Acc
+D:     müsabaka+Noun+A3sg+P3pl+Nom
+D:     müsabaka+Noun+A3pl+P3pl+Nom
+
+,:1
+P:     ,+Punc
+
+yarın:6
+D:     yar+Noun+A3sg+P2sg+Nom
+P:     yar+Noun+A3sg+Pnon+Gen
+D:     yarı+Noun+A3sg+P2sg+Nom
+P:     yarın+Noun+A3sg+Pnon+Nom
+D:     yar+Verb+Pos+Imp+A2pl
+P:     yarın+Adverb
+D:     yarı+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+
+ve:1
+P:     ve+Conj
+
+24:1
+P:     24+Num+Card
+
+Ekim:4
+P:     ekim+Noun+A3sg+Pnon+Nom
+D:     ek+Adj^DB+Noun+Zero+A3sg+P1sg+Nom
+D:     ek+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+P:     ekim+Noun+Prop+A3sg+Pnon+Nom
+
+Çarşamba:3
+P:     çarşamba+Noun+A3sg+Pnon+Nom
+P:     carşamba+Noun+Prop+A3sg+Pnon+Nom
+P:     çarşamba+Noun+Prop+A3sg+Pnon+Nom
+
+günü:1
+P:     gün+Noun+A3sg+P3sg+Nom
+D:     gün+Noun+A3sg+Pnon+Acc
+D:     günü+Noun+A3sg+Pnon+Nom
+
+yapılacak:2
+D:     yap+Verb^DB+Verb+Pass+Pos^DB+Adj+FutPart
+P:     yap+Verb^DB+Verb+Pass+Pos+Fut+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Ligde:1
+P:     lig+Noun+A3sg+Pnon+Loc
+
+5.:1
+P:     5.+Num+Ord
+
+hafta:2
+D:     haf+Noun+A3sg+Pnon+Loc
+P:     hafta+Noun+A3sg+Pnon+Nom
+
+maçları:1
+P:     maç+Noun+A3pl+P3sg+Nom
+D:     maç+Noun+A3pl+Pnon+Acc
+D:     maç+Noun+A3sg+P3pl+Nom
+D:     maç+Noun+A3pl+P3pl+Nom
+
+,:1
+P:     ,+Punc
+
+E:2
+P:     e+Interj
+D:     e+Noun+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+F:2
+P:     f+Noun+Prop+A3sg+Pnon+Nom
+D:     f+Noun+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+G:2
+P:     g+Noun+Prop+A3sg+Pnon+Nom
+D:     g+Noun+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+H:2
+P:     h+Noun+Prop+A3sg+Pnon+Nom
+D:     h+Noun+A3sg+Pnon+Nom
+
+gruplarında:1
+P:     grup+Noun+A3pl+P3sg+Loc
+D:     grup+Noun+A3pl+P2sg+Loc
+D:     grup+Noun+A3sg+P3pl+Loc
+D:     grup+Noun+A3pl+P3pl+Loc
+
+yarın:6
+D:     yar+Noun+A3sg+P2sg+Nom
+P:     yar+Noun+A3sg+Pnon+Gen
+D:     yarı+Noun+A3sg+P2sg+Nom
+P:     yarın+Noun+A3sg+Pnon+Nom
+D:     yar+Verb+Pos+Imp+A2pl
+P:     yarın+Adverb
+D:     yarı+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+
+,:1
+P:     ,+Punc
+
+A:2
+P:     a+Interj
+D:     a+Noun+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+B:2
+P:     b+Noun+Prop+A3sg+Pnon+Nom
+D:     b+Noun+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+C:2
+P:     c+Num+Card
+D:     c+Noun+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+D:2
+P:     d+Num+Card
+D:     d+Noun+A3sg+Pnon+Nom
+
+gruplarında:4
+P:     grup+Noun+A3pl+P3sg+Loc
+D:     grup+Noun+A3pl+P2sg+Loc
+D:     grup+Noun+A3sg+P3pl+Loc
+P:     grup+Noun+A3pl+P3pl+Loc
+
+ise:3
+D:     is+Noun+A3sg+Pnon+Dat
+D:     i+Verb+Pos+Desr+A3sg
+P:     ise+Conj
+
+24:1
+P:     24+Num+Card
+
+Ekim:4
+P:     ekim+Noun+A3sg+Pnon+Nom
+D:     ek+Adj^DB+Noun+Zero+A3sg+P1sg+Nom
+D:     ek+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+P:     ekim+Noun+Prop+A3sg+Pnon+Nom
+
+Çarşamba:3
+P:     çarşamba+Noun+A3sg+Pnon+Nom
+P:     carşamba+Noun+Prop+A3sg+Pnon+Nom
+P:     çarşamba+Noun+Prop+A3sg+Pnon+Nom
+
+günü:1
+P:     gün+Noun+A3sg+P3sg+Nom
+D:     gün+Noun+A3sg+Pnon+Acc
+D:     günü+Noun+A3sg+Pnon+Nom
+
+gerçekleştirilecek:4
+D:     gerçek+Noun+A3sg+Pnon+Nom^DB+Verb+Become^DB+Verb+Caus^DB+Verb+Pass+Pos^DB+Adj+FutPart
+P:     gerçek+Noun+A3sg+Pnon+Nom^DB+Verb+Become^DB+Verb+Caus^DB+Verb+Pass+Pos+Fut+A3sg
+D:     gerçekleş+Verb^DB+Verb+Caus^DB+Verb+Pass+Pos^DB+Adj+FutPart
+P:     gerçekleş+Verb^DB+Verb+Caus^DB+Verb+Pass+Pos+Fut+A3sg
+D:     gerçek+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Become^DB+Verb+Caus^DB+Verb+Pass+Pos^DB+Adj+FutPart
+P:     gerçek+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Become^DB+Verb+Caus^DB+Verb+Pass+Pos+Fut+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Ligde:1
+P:     lig+Noun+A3sg+Pnon+Loc
+
+Türkiye'yi:1
+P:     türkiye+Noun+Prop+A3sg+Pnon+Acc
+P:     türkiye'yi+Noun+Prop+A3sg+Pnon+Nom
+
+temsil eden:1
+P:     temsil et+Verb+Pos^DB+Adj+PresPart
+
+takımlardan:1
+P:     takım+Noun+A3pl+Pnon+Abl
+
+F:1
+P:     f+Noun+Prop+A3sg+Pnon+Nom
+
+Grubu'nda:1
+P:     grup+Noun+Prop+A3sg+P3sg+Loc
+D:     grup+Noun+Prop+A3sg+P2sg+Loc
+D:     Grubu+Noun+Prop+A3sg+Pnon+Loc
+
+puansız:1
+P:     puan+Noun+A3sg+Pnon+Nom^DB+Adj+Without
+
+son:2
+D:     son+Noun+A3sg+Pnon+Nom
+P:     son+Adj
+
+sırada:1
+P:     sıra+Noun+A3sg+Pnon+Loc
+D:     sıra+Adj^DB+Noun+Zero+A3sg+Pnon+Loc
+
+bulunan:2
+P:     bul+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+P:     bulun+Verb+Pos^DB+Adj+PresPart
+
+ve:1
+P:     ve+Conj
+
+tüm:1
+P:     tüm+Noun+A3sg+Pnon+Nom
+D:     tüm+Adj
+
+şansını:1
+P:     şans+Noun+A3sg+P3sg+Acc
+D:     şans+Noun+A3sg+P2sg+Acc
+
+yitiren:1
+P:     yit+Verb^DB+Verb+Caus+Pos^DB+Adj+PresPart
+
+Fenerbahçe:1
+P:     fenerbahçe+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+yarın:6
+D:     yar+Noun+A3sg+P2sg+Nom
+P:     yar+Noun+A3sg+Pnon+Gen
+D:     yarı+Noun+A3sg+P2sg+Nom
+P:     yarın+Noun+A3sg+Pnon+Nom
+D:     yar+Verb+Pos+Imp+A2pl
+P:     yarın+Adverb
+D:     yarı+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+
+9:1
+P:     9+Num+Card
+
+puanlı:1
+P:     puan+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+grup:1
+P:     grup+Noun+A3sg+Pnon+Nom
+
+ikincisi:1
+P:     iki+Num+Ord^DB+Noun+Zero+A3sg+P3sg+Nom
+
+rakibi:1
+P:     rakip+Noun+A3sg+P3sg+Nom
+P:     rakip+Noun+A3sg+Pnon+Acc
+
+Almanya'nın:2
+D:     almanya+Noun+Prop+A3sg+P2sg+Gen
+P:     almanya+Noun+Prop+A3sg+Pnon+Gen
+P:     almanya'nın+Noun+Prop+A3sg+Pnon+Nom
+
+TSV:1
+P:     tsv+Noun+Prop+A3sg+Pnon+Nom
+
+Bayer:1
+P:     bayer+Noun+Prop+A3sg+Pnon+Nom
+
+04:1
+P:     04+Num+Card
+
+Leverkusen:1
+P:     leverkusen+Noun+Prop+A3sg+Pnon+Nom
+
+takımını:1
+P:     takım+Noun+A3sg+P3sg+Acc
+D:     takım+Noun+A3sg+P2sg+Acc
+
+İstanbul:1
+P:     istanbul+Noun+Prop+A3sg+Pnon+Nom
+
+FB:1
+P:     fb+Noun+Prop+A3sg+Pnon+Nom
+
+Şükrü:3
+P:     şükür+Noun+A3sg+P3sg+Nom
+D:     şükür+Noun+A3sg+Pnon+Acc
+D:     sükrü+Noun+Prop+A3sg+Pnon+Nom
+D:     şükrü+Noun+Prop+A3sg+Pnon+Nom
+
+Saraçoğlu:1
+P:     saraçoğlu+Noun+Prop+A3sg+Pnon+Nom
+
+Stadı'nda:1
+P:     stat+Noun+Prop+A3sg+P3sg+Loc
+D:     stat+Noun+Prop+A3sg+P2sg+Loc
+D:     Stadı+Noun+Prop+A3sg+Pnon+Loc
+
+ağırlayacak:2
+D:     ağırla+Verb+Pos^DB+Adj+FutPart
+P:     ağırla+Verb+Pos+Fut+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+2:1
+P:     2+Num+Card
+
+takım:2
+D:     takı+Noun+A3sg+P1sg+Nom
+P:     takım+Noun+A3sg+Pnon+Nom
+D:     tak+Noun+A3sg+P1sg+Nom
+D:     tak+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+
+arasında:1
+P:     ara+Adj^DB+Noun+Zero+A3sg+P3sg+Loc
+P:     ara+Noun+A3sg+P3sg+Loc
+
+Almanya'da:1
+P:     almanya+Noun+Prop+A3sg+Pnon+Loc
+P:     almanya'da+Noun+Prop+A3sg+Pnon+Nom
+
+yapılan:2
+D:     yapı+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Imp+A2sg
+P:     yap+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+
+ilk:3
+P:     ilk+Noun+A3sg+Pnon+Nom
+D:     ilk+Adverb
+D:     ilk+Adj
+
+maçı:1
+P:     maç+Noun+A3sg+P3sg+Nom
+D:     maç+Noun+A3sg+Pnon+Acc
+
+,:1
+P:     ,+Punc
+
+Alman:4
+P:     alman+Noun+A3sg+Pnon+Nom
+D:     al+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom
+D:     alman+Adj
+P:     alman+Noun+Prop+A3sg+Pnon+Nom
+
+ekibi:1
+P:     ekip+Noun+A3sg+P3sg+Nom
+D:     ekip+Noun+A3sg+Pnon+Acc
+
+2-1:1
+P:     2-1+Num+Range
+
+kazanmıştı:2
+P:     kazan+Verb+Pos^DB+Adj+Zero^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     kazan+Verb+Pos+Narr+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+D:2
+P:     d+Num+Card
+D:     d+Noun+Prop+A3sg+Pnon+Nom
+
+Grubu'nda:1
+D:     grup+Noun+Prop+A3sg+P3sg+Loc
+D:     grup+Noun+Prop+A3sg+P2sg+Loc
+P:     Grubu+Noun+Prop+A3sg+Pnon+Loc
+
+7:1
+P:     7+Num+Card
+
+puan:1
+P:     puan+Noun+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+averajla:1
+P:     averaj+Noun+A3sg+Pnon+Ins
+
+lider:1
+P:     lider+Noun+A3sg+Pnon+Nom
+
+durumda:1
+P:     durum+Noun+A3sg+Pnon+Loc
+D:     duru+Adj^DB+Noun+Zero+A3sg+P1sg+Loc
+
+bulunan:2
+P:     bul+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+P:     bulun+Verb+Pos^DB+Adj+PresPart
+
+Galatasaray:1
+P:     galatasaray+Noun+Prop+A3sg+Pnon+Nom
+
+ise:3
+D:     is+Noun+A3sg+Pnon+Dat
+D:     i+Verb+Pos+Desr+A3sg
+P:     ise+Conj
+
+5.:1
+P:     5.+Num+Ord
+
+maçını:1
+P:     maç+Noun+A3sg+P3sg+Acc
+D:     maç+Noun+A3sg+P2sg+Acc
+
+,:1
+P:     ,+Punc
+
+İstanbul'da:1
+P:     istanbul+Noun+Prop+A3sg+Pnon+Loc
+P:     istanbul'da+Noun+Prop+A3sg+Pnon+Nom
+
+1-0:1
+P:     1-0+Num+Range
+
+yendiği:3
+P:     ye+Verb^DB+Verb+Pass+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+P:     ye+Verb^DB+Verb+Pass+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+P:     yen+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+P:     yen+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+3:1
+P:     3+Num+Card
+
+puanlı:1
+P:     puan+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+grup:1
+P:     grup+Noun+A3sg+Pnon+Nom
+
+sonuncusu:1
+P:     sonuncu+Noun+A3sg+P3sg+Nom
+
+İtalyan:2
+P:     italyan+Noun+A3sg+Pnon+Nom
+P:     italyan+Noun+Prop+A3sg+Pnon+Nom
+D:     italyan+Adj
+
+rakibi:1
+P:     rakip+Noun+A3sg+P3sg+Nom
+D:     rakip+Noun+A3sg+Pnon+Acc
+
+SS:1
+P:     ss+Noun+Prop+A3sg+Pnon+Nom
+
+Lazio:1
+P:     lazio+Noun+Prop+A3sg+Pnon+Nom
+
+Roma:2
+D:     rom+Noun+A3sg+Pnon+Dat
+P:     roma+Noun+Prop+A3sg+Pnon+Nom
+
+ile:3
+D:     il+Noun+A3sg+Pnon+Dat
+P:     ile+Conj
+D:     ile+Postp
+
+deplasmanda:1
+P:     deplasman+Noun+A3sg+Pnon+Loc
+
+yapacak:2
+D:     yap+Verb+Pos^DB+Adj+FutPart
+P:     yap+Verb+Pos+Fut+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Karşılaşma:4
+D:     karşı+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Neg+Imp+A2sg
+P:     karşı+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+D:     karşı+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Become+Neg+Imp+A2sg
+P:     karşı+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+başkent:1
+P:     başkent+Noun+A3sg+Pnon+Nom
+
+Roma'daki:1
+P:     roma+Noun+Prop+A3sg+Pnon+Loc^DB+Adj+Rel
+D:     roma'daki+Noun+Prop+A3sg+Pnon+Nom
+
+Olimpiyat:1
+P:     olimpiyat+Noun+A3sg+Pnon+Nom
+P:     olimpiyat+Noun+Prop+A3sg+Pnon+Nom
+
+Stadı'nda:4
+P:     stat+Noun+Prop+A3sg+P3sg+Loc
+D:     stat+Noun+Prop+A3sg+P2sg+Loc
+D:     Stadı+Noun+Prop+A3sg+Pnon+Loc
+D:     stad+Noun+Prop+A3sg+P3sg+Loc
+
+oynanacak:2
+D:     oyna+Verb^DB+Verb+Pass+Pos^DB+Adj+FutPart
+P:     oyna+Verb^DB+Verb+Pass+Pos+Fut+A3sg
+D:     oynan+Verb+Pos^DB+Adj+FutPart
+P:     oynan+Verb+Pos+Fut+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Her:1
+P:     her+Adj
+
+2:1
+P:     2+Num+Card
+
+karşılaşma:4
+D:     karşı+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Neg+Imp+A2sg
+P:     karşı+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+D:     karşı+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Become+Neg+Imp+A2sg
+P:     karşı+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+
+da:1
+P:     de+Conj
+
+saat:1
+P:     saat+Noun+A3sg+Pnon+Nom
+
+21.45'te:1
+P:     21.45+Num+Real^DB+Noun+Zero+A3sg+Pnon+Loc
+
+başlayacak:2
+D:     başla+Verb+Pos^DB+Adj+FutPart
+P:     başla+Verb+Pos+Fut+A3sg
+
+ve:1
+P:     ve+Conj
+
+Star:2
+P:     star+Noun+A3sg+Pnon+Nom
+P:     star+Noun+Prop+A3sg+Pnon+Nom
+
+TV'den:1
+P:     TV+Noun+Prop+A3sg+Pnon+Abl
+P:     tv'den+Noun+Prop+A3sg+Pnon+Nom
+
+naklen:1
+P:     naklen+Noun+A3sg+Pnon+Nom
+P:     naklen+Adverb
+
+yayınlanacak:4
+D:     yayın+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos^DB+Adj+FutPart
+D:     yayın+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Fut+A3sg
+D:     yayınla+Verb^DB+Verb+Pass+Pos^DB+Adj+FutPart
+P:     yayınla+Verb^DB+Verb+Pass+Pos+Fut+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Ligde:1
+P:     lig+Noun+A3sg+Pnon+Loc
+
+5.:1
+P:     5.+Num+Ord
+
+maçlar:1
+P:     maç+Noun+A3pl+Pnon+Nom
+D:     maç+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+öncesinde:1
+P:     önce+Noun+A3sg+P3sg+Loc
+
+A:2
+P:     a+Interj
+D:     a+Noun+Prop+A3sg+Pnon+Nom
+
+Grubu'nda:1
+P:     grup+Noun+Prop+A3sg+P3sg+Loc
+D:     grup+Noun+Prop+A3sg+P2sg+Loc
+P:     Grubu+Noun+Prop+A3sg+Pnon+Loc
+
+12:1
+P:     12+Num+Card
+
+puanlı:1
+P:     puan+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+İspanya'nın:2
+D:     ispanya+Noun+Prop+A3sg+P2sg+Gen
+P:     ispanya+Noun+Prop+A3sg+Pnon+Gen
+P:     ispanya'nın+Noun+Prop+A3sg+Pnon+Nom
+
+Real:1
+P:     real+Noun+Prop+A3sg+Pnon+Nom
+
+Madrid:1
+P:     madrid+Noun+Prop+A3sg+Pnon+Nom
+
+CF:1
+P:     cf+Noun+Prop+A3sg+Pnon+Nom
+
+ile:2
+D:     il+Noun+A3sg+Pnon+Dat
+P:     ile+Conj
+D:     ile+Postp
+
+H:1
+P:     h+Noun+Prop+A3sg+Pnon+Nom
+
+Grubu'nda:1
+P:     grup+Noun+Prop+A3sg+P3sg+Loc
+D:     grup+Noun+Prop+A3sg+P2sg+Loc
+D:     Grubu+Noun+Prop+A3sg+Pnon+Loc
+
+10:1
+P:     10+Num+Card
+
+puanlı:1
+P:     puan+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+Çek:5
+D:     çek+Noun+A3sg+Pnon+Nom
+D:     çek+Verb+Pos+Imp+A2sg
+D:     cek+Noun+Prop+A3sg+Pnon+Nom
+P:     çek+Adj
+D:     çek+Noun+Prop+A3sg+Pnon+Nom
+
+Cumhuriyeti'nin:1
+D:     cumhuriyet+Noun+Prop+A3sg+P3sg+Gen
+D:     cumhuriyet+Noun+Prop+A3sg+P2sg+Gen
+P:     Cumhuriyeti+Noun+Prop+A3sg+Pnon+Gen
+P:     Cumhuriyeti+Noun+Prop+A3sg+Pnon+Gen
+
+AC:1
+P:     ac+Noun+Prop+A3sg+Pnon+Nom
+
+Sparta:1
+P:     sparta+Noun+Prop+A3sg+Pnon+Nom
+
+Prag:1
+P:     prag+Noun+Prop+A3sg+Pnon+Nom
+
+takımları:1
+P:     takım+Noun+A3pl+P3sg+Nom
+D:     takım+Noun+A3pl+Pnon+Acc
+D:     takım+Noun+A3sg+P3pl+Nom
+D:     takım+Noun+A3pl+P3pl+Nom
+
+,:1
+P:     ,+Punc
+
+2.:1
+P:     2.+Num+Ord
+
+tura:1
+P:     tur+Noun+A3sg+Pnon+Dat
+P:     tura+Noun+A3sg+Pnon+Nom
+
+çıkmayı:1
+P:     çık+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Acc
+
+garantilemiş:1
+P:     garantile+Verb+Pos^DB+Adj+Zero
+D:     garantile+Verb+Pos+Narr+A3sg
+
+durumda:1
+P:     durum+Noun+A3sg+Pnon+Loc
+D:     duru+Adj^DB+Noun+Zero+A3sg+P1sg+Loc
+
+.:1
+P:     .+Punc
+
+<S>
+Ayrıca:3
+D:     ayrıca+Noun+A3sg+Pnon+Nom
+D:     ayrıç+Noun+A3sg+Pnon+Dat
+P:     ayrı+Adj^DB+Noun+Zero+A3sg+Pnon^DB+Adverb+Ly
+
+9'ar:2
+P:     9'ar+Noun+Prop+A3sg+Pnon+Nom
+D:     9'ar+Noun+A3sg+Pnon+Nom
+
+puanla:1
+P:     puan+Noun+A3sg+Pnon+Ins
+D:     puanla+Verb+Pos+Imp+A2sg
+
+C:2
+P:     c+Num+Card
+D:     c+Noun+Prop+A3sg+Pnon+Nom
+
+Grubu'nda:1
+D:     grup+Noun+Prop+A3sg+P3sg+Loc
+D:     grup+Noun+Prop+A3sg+P2sg+Loc
+P:     Grubu+Noun+Prop+A3sg+Pnon+Loc
+
+Panathinakios:1
+P:     panathinakios+Noun+Prop+A3sg+Pnon+Nom
+
+Yunanistan:1
+P:     yunanistan+Noun+Prop+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+F:1
+P:     f+Noun+Prop+A3sg+Pnon+Nom
+
+Grubu'nda:1
+P:     grup+Noun+Prop+A3sg+P3sg+Loc
+D:     grup+Noun+Prop+A3sg+P2sg+Loc
+D:     Grubu+Noun+Prop+A3sg+Pnon+Loc
+
+FC:1
+P:     fc+Noun+Prop+A3sg+Pnon+Nom
+
+Barcelona:1
+P:     barcelona+Noun+Prop+A3sg+Pnon+Nom
+
+İspanya:2
+P:     ispanya+Noun+A3sg+Pnon+Nom
+P:     ispanya+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+8'er:2
+P:     8'er+Noun+Prop+A3sg+Pnon+Nom
+D:     8'er+Noun+A3sg+Pnon+Nom
+
+puanla:1
+P:     puan+Noun+A3sg+Pnon+Ins
+D:     puanla+Verb+Pos+Imp+A2sg
+
+da:1
+P:     de+Conj
+
+B:1
+P:     b+Noun+Prop+A3sg+Pnon+Nom
+
+Grubu'nda:1
+P:     grup+Noun+Prop+A3sg+P3sg+Loc
+D:     grup+Noun+Prop+A3sg+P2sg+Loc
+D:     Grubu+Noun+Prop+A3sg+Pnon+Loc
+
+FC:1
+P:     fc+Noun+Prop+A3sg+Pnon+Nom
+
+Liverpool:1
+P:     liverpool+Noun+Prop+A3sg+Pnon+Nom
+
+İngiltere:1
+P:     ingiltere+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+E:2
+P:     e+Interj
+D:     e+Noun+Prop+A3sg+Pnon+Nom
+
+Grubu'nda:4
+P:     grup+Noun+Prop+A3sg+P3sg+Loc
+D:     grup+Noun+Prop+A3sg+P2sg+Loc
+P:     Grubu+Noun+Prop+A3sg+Pnon+Loc
+D:     grup+Non+Prop+A3sg+P3sg+Loc
+
+FC:1
+P:     fc+Noun+Prop+A3sg+Pnon+Nom
+
+Juventus:1
+P:     juventus+Noun+Prop+A3sg+Pnon+Nom
+
+Torino:1
+P:     torino+Noun+Prop+A3sg+Pnon+Nom
+
+İtalya:1
+P:     italya+Noun+Prop+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+G:1
+P:     g+Noun+Prop+A3sg+Pnon+Nom
+
+Grubu'nda:1
+P:     grup+Noun+Prop+A3sg+P3sg+Loc
+D:     grup+Noun+Prop+A3sg+P2sg+Loc
+D:     Grubu+Noun+Prop+A3sg+Pnon+Loc
+
+Deportivo:1
+P:     deportivo+Noun+Prop+A3sg+Pnon+Nom
+
+La:2
+P:     la+Noun+A3sg+Pnon+Nom
+P:     la+Noun+Prop+A3sg+Pnon+Nom
+
+Coruna:1
+P:     coruna+Noun+Prop+A3sg+Pnon+Nom
+
+İspanya:2
+P:     ispanya+Noun+A3sg+Pnon+Nom
+P:     ispanya+Noun+Prop+A3sg+Pnon+Nom
+
+liderliklerini:4
+P:     lider+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3pl+P3sg+Acc
+D:     lider+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3pl+P2sg+Acc
+D:     lider+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3pl+Acc
+P:     lider+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3pl+P3pl+Acc
+
+sürdürüyorlar:1
+P:     sür+Verb^DB+Verb+Caus+Pos+Prog1+A3pl
+
+.:1
+P:     .+Punc
+
+<S>
+1.:1
+P:     1.+Num+Ord
+
+tur:1
+P:     tur+Noun+A3sg+Pnon+Nom
+
+gruplarında:1
+P:     grup+Noun+A3pl+P3sg+Loc
+D:     grup+Noun+A3pl+P2sg+Loc
+D:     grup+Noun+A3sg+P3pl+Loc
+D:     grup+Noun+A3pl+P3pl+Loc
+
+gelecek:2
+D:     gelecek+Adj
+P:     gel+Verb+Pos^DB+Adj+FutPart
+D:     gel+Verb+Pos+Fut+A3sg
+
+hafta:2
+P:     haf+Noun+A3sg+Pnon+Loc
+P:     hafta+Noun+A3sg+Pnon+Nom
+
+sona erecek:1
+P:     sona er+Verb+Pos^DB+Adj+FutPart
+D:     sona er+Verb+Pos+Fut+A3sg
+
+mücadele:1
+P:     mücadele+Noun+A3sg+Pnon+Nom
+
+sonunda:1
+P:     son+Noun+A3sg+P3sg+Loc
+D:     son+Noun+A3sg+P2sg+Loc
+D:     sonunda+Adverb
+P:     son+Adj^DB+Noun+Zero+A3sg+P3sg+Loc
+D:     son+Adj^DB+Noun+Zero+A3sg+P2sg+Loc
+
+ilk:3
+P:     ilk+Noun+A3sg+Pnon+Nom
+P:     ilk+Adverb
+P:     ilk+Adj
+
+2:1
+P:     2+Num+Card
+
+sırayı:1
+P:     sıra+Noun+A3sg+Pnon+Acc
+D:     sıra+Adj^DB+Noun+Zero+A3sg+Pnon+Acc
+
+alacak:2
+D:     alacak+Noun+A3sg+Pnon+Nom
+P:     al+Verb+Pos^DB+Adj+FutPart
+D:     al+Verb+Pos+Fut+A3sg
+
+toplam:2
+D:     topla+Noun+A3sg+P1sg+Nom
+P:     toplam+Noun+A3sg+Pnon+Nom
+
+16:1
+P:     16+Num+Card
+
+takım:2
+D:     takı+Noun+A3sg+P1sg+Nom
+P:     takım+Noun+A3sg+Pnon+Nom
+D:     tak+Noun+A3sg+P1sg+Nom
+D:     tak+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+
+,:1
+P:     ,+Punc
+
+2.:1
+P:     2.+Num+Ord
+
+tur:1
+P:     tur+Noun+A3sg+Pnon+Nom
+
+grup:1
+P:     grup+Noun+A3sg+Pnon+Nom
+
+mücadelesine:1
+P:     mücadele+Noun+A3sg+P3sg+Dat
+
+katılmaya:2
+D:     kat+Verb^DB+Verb+Pass+Neg+Opt+A3sg
+P:     kat+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+Pnon+Dat
+
+hak:1
+P:     hak+Noun+A3sg+Pnon+Nom
+P:     hak+Noun+Prop+A3sg+Pnon+Nom
+P:     hak+Adj
+
+kazanacak:2
+D:     kazan+Verb+Pos^DB+Adj+FutPart
+P:     kazan+Verb+Pos+Fut+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Basketbol:1
+P:     basketbol+Noun+A3sg+Pnon+Nom
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+kupalarında:1
+P:     kupa+Noun+A3pl+P3sg+Loc
+D:     kupa+Noun+A3pl+P2sg+Loc
+D:     kupa+Noun+A3sg+P3pl+Loc
+D:     kupa+Noun+A3pl+P3pl+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P3sg+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P2sg+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3sg+P3pl+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P3pl+Loc
+
+kalpler:2
+P:     kalpler+Noun+A3sg+Pnon+Nom
+D:     kalp+Noun+A3pl+Pnon+Nom
+
+çarşamba:1
+P:     çarşamba+Noun+A3sg+Pnon+Nom
+P:     carşamba+Noun+Prop+A3sg+Pnon+Nom
+
+günü:1
+P:     gün+Noun+A3sg+P3sg+Nom
+D:     gün+Noun+A3sg+Pnon+Acc
+D:     günü+Noun+A3sg+Pnon+Nom
+
+atacak:1
+P:     at+Verb+Pos^DB+Adj+FutPart
+D:     at+Verb+Pos+Fut+A3sg
+
+Basketbolda:1
+P:     basketbol+Noun+A3sg+Pnon+Loc
+P:     basketbolda+Noun+Prop+A3sg+Pnon+Nom
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+Kupaları:1
+P:     kupa+Noun+A3pl+P3sg+Nom
+D:     kupa+Noun+A3pl+Pnon+Acc
+D:     kupa+Noun+A3sg+P3pl+Nom
+D:     kupa+Noun+A3pl+P3pl+Nom
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P3sg+Nom
+D:     kupa+Adj^DB+Noun+Zero+A3pl+Pnon+Acc
+D:     kupa+Adj^DB+Noun+Zero+A3sg+P3pl+Nom
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P3pl+Nom
+D:     kupaları+Noun+Prop+A3sg+Pnon+Nom
+
+heyecanı:1
+P:     heyecan+Noun+A3sg+P3sg+Nom
+P:     heyecan+Noun+A3sg+Pnon+Acc
+
+,:1
+P:     ,+Punc
+
+bu:2
+D:     bu+Pron+A3sg+Pnon+Nom
+P:     bu+Adj
+
+hafta:2
+P:     haf+Noun+A3sg+Pnon+Loc
+D:     hafta+Noun+A3sg+Pnon+Nom
+
+da:1
+P:     de+Conj
+
+sürecek:2
+D:     sür+Verb+Pos^DB+Adj+FutPart
+P:     sür+Verb+Pos+Fut+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Ülkerspor:1
+P:     ülkerspor+Noun+Prop+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+Efes:1
+P:     efes+Noun+Prop+A3sg+Pnon+Nom
+
+Pilsen:2
+P:     pil+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Cond+A2sg
+P:     pilsen+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Erkekler:3
+P:     erkek+Noun+A3pl+Pnon+Nom
+P:     erkek+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+P:     erkek+Adj^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     erkek+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+P:     erkekler+Noun+Prop+A3sg+Pnon+Nom
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+Ligi'nde:1
+P:     lig+Noun+Prop+A3sg+P3sg+Loc
+D:     lig+Noun+Prop+A3sg+P2sg+Loc
+D:     Ligi+Noun+Prop+A3sg+Pnon+Loc
+
+gruplarında:4
+P:     grup+Noun+A3pl+P3sg+Loc
+D:     grup+Noun+A3pl+P2sg+Loc
+D:     grup+Noun+A3sg+P3pl+Loc
+P:     grup+Noun+A3pl+P3pl+Loc
+
+3.:1
+P:     3.+Num+Ord
+
+maçlarına:4
+P:     maç+Noun+A3pl+P3sg+Dat
+D:     maç+Noun+A3pl+P2sg+Dat
+D:     maç+Noun+A3sg+P3pl+Dat
+P:     maç+Noun+A3pl+P3pl+Dat
+
+çıkarken:2
+P:     çıkar+Noun+A3sg+Pnon+Nom^DB+Verb+Zero^DB+Adverb+While
+P:     çık+Verb+Pos+Aor+A3sg^DB+Adverb+While
+
+,:1
+P:     ,+Punc
+
+Beşiktaş:1
+P:     beşiktaş+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Fenerbahçe:1
+P:     fenerbahçe+Noun+Prop+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+Ankara:1
+P:     ankara+Noun+Prop+A3sg+Pnon+Nom
+
+Büyük:1
+P:     büyük+Adj
+D:     büyük+Noun+Prop+A3sg+Pnon+Nom
+
+Kolej:1
+P:     kolej+Noun+A3sg+Pnon+Nom
+P:     kolej+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Radivoj:1
+P:     radivoj+Noun+Prop+A3sg+Pnon+Nom
+
+Koraç:1
+P:     koraç+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Beşiktaş:1
+P:     beşiktaş+Noun+Prop+A3sg+Pnon+Nom
+
+bayan:1
+P:     bayan+Noun+A3sg+Pnon+Nom
+
+takımı:2
+D:     takı+Noun+A3sg+P1sg+Acc
+P:     takım+Noun+A3sg+P3sg+Nom
+D:     takım+Noun+A3sg+Pnon+Acc
+D:     tak+Noun+A3sg+P1sg+Acc
+
+da:1
+P:     de+Conj
+
+Liliana:1
+P:     liliana+Noun+Prop+A3sg+Pnon+Nom
+
+Ronchetti:1
+P:     ronchetti+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası'nda:1
+P:     kupa+Noun+Prop+A3sg+P3sg+Loc
+D:     Kupası+Noun+Prop+A3sg+Pnon+Loc
+
+2.:1
+P:     2.+Num+Ord
+
+tur:1
+P:     tur+Noun+A3sg+Pnon+Nom
+
+rövanşlarında:1
+P:     rövanş+Noun+A3pl+P3sg+Loc
+D:     rövanş+Noun+A3pl+P2sg+Loc
+D:     rövanş+Noun+A3sg+P3pl+Loc
+D:     rövanş+Noun+A3pl+P3pl+Loc
+
+tur:1
+P:     tur+Noun+A3sg+Pnon+Nom
+
+vizesi:1
+P:     vize+Noun+A3sg+P3sg+Nom
+
+arayacak:2
+D:     ara+Verb+Pos^DB+Adj+FutPart
+P:     ara+Verb+Pos+Fut+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Bu:2
+D:     bu+Pron+A3sg+Pnon+Nom
+P:     bu+Adj
+
+maçların:2
+D:     maç+Noun+A3pl+P2sg+Nom
+P:     maç+Noun+A3pl+Pnon+Gen
+
+tümü:1
+P:     tüm+Noun+A3sg+P3sg+Nom
+D:     tüm+Noun+A3sg+Pnon+Acc
+D:     tüm+Adj^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     tüm+Adj^DB+Noun+Zero+A3sg+Pnon+Acc
+
+,:1
+P:     ,+Punc
+
+24:1
+P:     24+Num+Card
+
+Ekim:4
+P:     ekim+Noun+A3sg+Pnon+Nom
+D:     ek+Adj^DB+Noun+Zero+A3sg+P1sg+Nom
+D:     ek+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+P:     ekim+Noun+Prop+A3sg+Pnon+Nom
+
+Çarşamba:3
+P:     çarşamba+Noun+A3sg+Pnon+Nom
+P:     carşamba+Noun+Prop+A3sg+Pnon+Nom
+P:     çarşamba+Noun+Prop+A3sg+Pnon+Nom
+
+günü:1
+P:     gün+Noun+A3sg+P3sg+Nom
+D:     gün+Noun+A3sg+Pnon+Acc
+D:     günü+Noun+A3sg+Pnon+Nom
+
+yapılacak:2
+D:     yap+Verb^DB+Verb+Pass+Pos^DB+Adj+FutPart
+P:     yap+Verb^DB+Verb+Pass+Pos+Fut+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Erkekler:3
+P:     erkek+Noun+A3pl+Pnon+Nom
+P:     erkek+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+P:     erkek+Adj^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     erkek+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+Avupa:1
+P:     avupa+Noun+Prop+A3sg+Pnon+Nom
+
+Ligi'nde:1
+P:     lig+Noun+Prop+A3sg+P3sg+Loc
+D:     lig+Noun+Prop+A3sg+P2sg+Loc
+D:     Ligi+Noun+Prop+A3sg+Pnon+Loc
+
+B:1
+P:     b+Noun+Prop+A3sg+Pnon+Nom
+
+Grubu'nda:1
+P:     grup+Noun+Prop+A3sg+P3sg+Loc
+D:     grup+Noun+Prop+A3sg+P2sg+Loc
+D:     Grubu+Noun+Prop+A3sg+Pnon+Loc
+
+4:1
+P:     4+Num+Card
+
+puan:1
+P:     puan+Noun+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+averajla:1
+P:     averaj+Noun+A3sg+Pnon+Ins
+
+2.:1
+P:     2.+Num+Ord
+
+sırada:1
+P:     sıra+Noun+A3sg+Pnon+Loc
+P:     sıra+Adj^DB+Noun+Zero+A3sg+Pnon+Loc
+
+bulunan:2
+P:     bul+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+P:     bulun+Verb+Pos^DB+Adj+PresPart
+
+Ülkerspor:1
+P:     ülkerspor+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+deplasmanda:1
+P:     deplasman+Noun+A3sg+Pnon+Loc
+
+4:1
+P:     4+Num+Card
+
+puan:1
+P:     puan+Noun+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+averajla:1
+P:     averaj+Noun+A3sg+Pnon+Ins
+
+lider:1
+P:     lider+Noun+A3sg+Pnon+Nom
+
+İtalya'nın:2
+D:     italya+Noun+Prop+A3sg+P2sg+Gen
+P:     italya+Noun+Prop+A3sg+Pnon+Gen
+P:     italya'nın+Noun+Prop+A3sg+Pnon+Nom
+
+Kinder:1
+P:     kinder+Noun+Prop+A3sg+Pnon+Nom
+
+Bologna:1
+P:     bologna+Noun+Prop+A3sg+Pnon+Nom
+
+takımıyla:1
+P:     takım+Noun+A3sg+P3sg+Ins
+
+karşılaşacak:4
+D:     karşı+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Adj+FutPart
+P:     karşı+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos+Fut+A3sg
+D:     karşı+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Adj+FutPart
+P:     karşı+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Become+Pos+Fut+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Bologna'da:1
+P:     Bologna+Noun+Prop+A3sg+Pnon+Loc
+P:     Bologna+Adj^DB+Noun+Prop+Zero+A3sg+Pnon+Loc
+
+yapılacak:1
+P:     yap+Verb^DB+Verb+Pass+Pos^DB+Adj+FutPart
+D:     yap+Verb^DB+Verb+Pass+Pos+Fut+A3sg
+
+maç:1
+P:     maç+Noun+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+TSİ:1
+P:     tsi+Noun+Prop+A3sg+Pnon+Nom
+
+21.30'da:1
+P:     21.30+Num+Real^DB+Noun+Zero+A3sg+Pnon+Loc
+P:     21.30+Adj^DB+Num+Real^DB+Noun+Zero+Zero+A3sg+Pnon+Loc
+
+başlayacak:2
+D:     başla+Verb+Pos^DB+Adj+FutPart
+P:     başla+Verb+Pos+Fut+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+A:2
+P:     a+Interj
+D:     a+Noun+Prop+A3sg+Pnon+Nom
+
+Grubu'nda:1
+P:     grup+Noun+Prop+A3sg+P3sg+Loc
+D:     grup+Noun+Prop+A3sg+P2sg+Loc
+P:     Grubu+Noun+Prop+A3sg+Pnon+Loc
+
+3:1
+P:     3+Num+Card
+
+puan:1
+P:     puan+Noun+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+averajla:1
+P:     averaj+Noun+A3sg+Pnon+Ins
+
+6.:1
+P:     6.+Num+Ord
+
+sırada:1
+P:     sıra+Noun+A3sg+Pnon+Loc
+P:     sıra+Adj^DB+Noun+Zero+A3sg+Pnon+Loc
+
+yer alan:1
+P:     yer al+Verb+Pos^DB+Adj+PresPart
+
+Efes:1
+P:     efes+Noun+Prop+A3sg+Pnon+Nom
+
+Pilsen:2
+P:     pil+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Cond+A2sg
+P:     pilsen+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+İstanbul'da:1
+P:     istanbul+Noun+Prop+A3sg+Pnon+Loc
+P:     istanbul'da+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+2:1
+P:     2+Num+Card
+
+maç:1
+P:     maç+Noun+A3sg+Pnon+Nom
+
+sonunda:1
+P:     son+Noun+A3sg+P3sg+Loc
+D:     son+Noun+A3sg+P2sg+Loc
+D:     sonunda+Adverb
+P:     son+Adj^DB+Noun+Zero+A3sg+P3sg+Loc
+D:     son+Adj^DB+Noun+Zero+A3sg+P2sg+Loc
+
+henüz:2
+P:     henüz+Noun+A3sg+Pnon+Nom
+P:     henüz+Adverb
+
+galibiyet:1
+P:     galibiyet+Noun+A3sg+Pnon+Nom
+
+alamayan:1
+P:     al+Verb^DB+Verb+AbleNeg+Neg^DB+Adj+PresPart
+
+grup:1
+P:     grup+Noun+A3sg+Pnon+Nom
+
+sonuncusu:1
+P:     sonuncu+Noun+A3sg+P3sg+Nom
+
+Almanya'nın:2
+D:     almanya+Noun+Prop+A3sg+P2sg+Gen
+P:     almanya+Noun+Prop+A3sg+Pnon+Gen
+P:     almanya'nın+Noun+Prop+A3sg+Pnon+Nom
+
+Alba:1
+P:     alba+Noun+Prop+A3sg+Pnon+Nom
+
+Berlin:1
+P:     berlin+Noun+Prop+A3sg+Pnon+Nom
+
+takımıyla:1
+P:     takım+Noun+A3sg+P3sg+Ins
+
+mücadele edecek:2
+D:     mücadele et+Verb+Pos^DB+Adj+FutPart
+P:     mücadele et+Verb+Pos+Fut+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Süleyman:1
+P:     süleyman+Noun+Prop+A3sg+Pnon+Nom
+
+Seba:1
+P:     seba+Noun+Prop+A3sg+Pnon+Nom
+
+Spor:1
+D:     spor+Noun+A3sg+Pnon+Nom
+P:     spor+Adj
+D:     spor+Noun+Prop+A3sg+Pnon+Nom
+
+Salonu'nda:1
+D:     salon+Noun+Prop+A3sg+P3sg+Loc
+D:     salon+Noun+Prop+A3sg+P2sg+Loc
+P:     Salonu+Noun+Prop+A3sg+Pnon+Loc
+
+yapılacak:2
+P:     yap+Verb^DB+Verb+Pass+Pos^DB+Adj+FutPart
+D:     yap+Verb^DB+Verb+Pass+Pos+Fut+A3sg
+
+maç:1
+P:     maç+Noun+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+20.00'de:1
+P:     20.00+Num+Real^DB+Noun+Zero+A3sg+Pnon+Loc
+
+başlayacak:2
+D:     başla+Verb+Pos^DB+Adj+FutPart
+P:     başla+Verb+Pos+Fut+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Aynı:4
+D:     ayn+Noun+A3sg+P3sg+Nom
+D:     ayn+Noun+A3sg+Pnon+Acc
+D:     aynı+Noun+A3sg+Pnon+Nom
+P:     aynı+Adj
+
+kupada:1
+P:     kupa+Noun+A3sg+Pnon+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3sg+Pnon+Loc
+
+ilk:3
+D:     ilk+Noun+A3sg+Pnon+Nom
+D:     ilk+Adverb
+P:     ilk+Adj
+
+maçta:1
+P:     maç+Noun+A3sg+Pnon+Loc
+
+71-62:1
+P:     71-62+Num+Range
+
+yenilen:1
+P:     yen+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+D:     yenile+Verb^DB+Verb+Pass+Pos+Imp+A2sg
+D:     yeni+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Imp+A2sg
+
+Fenerbahçe:1
+P:     fenerbahçe+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+İstanbul'da:1
+P:     istanbul+Noun+Prop+A3sg+Pnon+Loc
+P:     istanbul'da+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Rusya'nın:2
+D:     rusya+Noun+Prop+A3sg+P2sg+Gen
+P:     rusya+Noun+Prop+A3sg+Pnon+Gen
+P:     rusya'nın+Noun+Prop+A3sg+Pnon+Nom
+
+EURAS:1
+P:     euras+Noun+Prop+A3sg+Pnon+Nom
+
+Ekaterinburg:1
+P:     ekaterinburg+Noun+Prop+A3sg+Pnon+Nom
+
+takımıyla:1
+P:     takım+Noun+A3sg+P3sg+Ins
+
+saat:1
+P:     saat+Noun+A3sg+Pnon+Nom
+
+18.30'da:1
+P:     18.30+Num+Real^DB+Noun+Zero+A3sg+Pnon+Loc
+P:     18.30+Adj^DB+Num+Real^DB+Noun+Zero+Zero+A3sg+Pnon+Loc
+
+Haldun:1
+P:     haldun+Noun+Prop+A3sg+Pnon+Nom
+
+Alagaş:1
+P:     alagaş+Noun+Prop+A3sg+Pnon+Nom
+
+Spor:1
+D:     spor+Noun+A3sg+Pnon+Nom
+P:     spor+Adj
+D:     spor+Noun+Prop+A3sg+Pnon+Nom
+
+Salonu'nda:1
+D:     salon+Noun+Prop+A3sg+P3sg+Loc
+D:     salon+Noun+Prop+A3sg+P2sg+Loc
+P:     Salonu+Noun+Prop+A3sg+Pnon+Loc
+
+karşı:4
+D:     karşı+Noun+A3sg+Pnon+Nom
+D:     karşı+Adverb
+P:     karşı+Adj
+D:     karşı+Postp
+
+karşıya:2
+P:     karşı+Noun+A3sg+Pnon+Dat
+P:     karşı+Adj^DB+Noun+Zero+A3sg+Pnon+Dat
+
+gelecek:3
+D:     gelecek+Adj
+D:     gel+Verb+Pos^DB+Adj+FutPart
+P:     gel+Verb+Pos+Fut+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Ankara:1
+P:     ankara+Noun+Prop+A3sg+Pnon+Nom
+
+Büyük:1
+P:     büyük+Adj
+D:     büyük+Noun+Prop+A3sg+Pnon+Nom
+
+Kolej:1
+P:     kolej+Noun+A3sg+Pnon+Nom
+P:     kolej+Noun+Prop+A3sg+Pnon+Nom
+
+de:3
+D:     de+Noun+A3sg+Pnon+Nom
+D:     de+Verb+Pos+Imp+A2sg
+P:     de+Conj
+
+ilk:3
+D:     ilk+Noun+A3sg+Pnon+Nom
+D:     ilk+Adverb
+P:     ilk+Adj
+
+maçta:1
+P:     maç+Noun+A3sg+Pnon+Loc
+
+deplasmanda:1
+P:     deplasman+Noun+A3sg+Pnon+Loc
+
+68-54:1
+P:     68-54+Num+Range
+
+yendiği:3
+P:     ye+Verb^DB+Verb+Pass+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+P:     ye+Verb^DB+Verb+Pass+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+P:     yen+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+P:     yen+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+Bosna:1
+P:     bosna+Noun+Prop+A3sg+Pnon+Nom
+
+Hersek'in:2
+P:     Hersek+Noun+Prop+A3sg+Pnon+Nom
+P:     Hersek+Noun+Prop+A3sg+Pnon+Gen
+
+Zenica:1
+P:     zenica+Noun+Prop+A3sg+Pnon+Nom
+
+Celik:1
+P:     celik+Noun+Prop+A3sg+Pnon+Nom
+
+takımını:1
+P:     takım+Noun+A3sg+P3sg+Acc
+D:     takım+Noun+A3sg+P2sg+Acc
+
+Ankara'da:1
+P:     ankara+Noun+Prop+A3sg+Pnon+Loc
+P:     ankara'da+Noun+Prop+A3sg+Pnon+Nom
+
+ağırlayacak:2
+D:     ağırla+Verb+Pos^DB+Adj+FutPart
+P:     ağırla+Verb+Pos+Fut+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Atatürk:1
+P:     atatürk+Noun+Prop+A3sg+Pnon+Nom
+
+Spor:1
+P:     spor+Noun+A3sg+Pnon+Nom
+D:     spor+Adj
+P:     spor+Noun+Prop+A3sg+Pnon+Nom
+
+Salonu'ndaki:1
+P:     salon+Noun+Prop+A3sg+P3sg+Loc^DB+Adj+Rel
+D:     salon+Noun+Prop+A3sg+P2sg+Loc^DB+Adj+Rel
+D:     Salonu+Noun+Prop+A3sg+Pnon+Loc^DB+Adj+Rel
+
+bu:2
+D:     bu+Pron+A3sg+Pnon+Nom
+P:     bu+Adj
+
+maç:1
+P:     maç+Noun+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+20.30'da:1
+P:     20.30+Num+Real^DB+Noun+Zero+A3sg+Pnon+Loc
+P:     20.30+Adj^DB+Num+Real^DB+Noun+Zero+Zero+A3sg+Pnon+Loc
+
+başlayacak:2
+D:     başla+Verb+Pos^DB+Adj+FutPart
+P:     başla+Verb+Pos+Fut+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+Bayanlar:1
+P:     bayan+Noun+A3pl+Pnon+Nom
+P:     bayan+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+P:     bayanlar+Noun+Prop+A3sg+Pnon+Nom
+
+Liliana:1
+P:     liliana+Noun+Prop+A3sg+Pnon+Nom
+
+Ronchetti:1
+P:     ronchetti+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası'nda:1
+P:     kupa+Noun+Prop+A3sg+P3sg+Loc
+D:     Kupası+Noun+Prop+A3sg+Pnon+Loc
+
+ise:3
+D:     is+Noun+A3sg+Pnon+Dat
+D:     i+Verb+Pos+Desr+A3sg
+P:     ise+Conj
+
+Beşiktaş:1
+P:     beşiktaş+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+İsrail'in:2
+D:     israil+Noun+Prop+A3sg+P2sg+Nom
+P:     israil+Noun+Prop+A3sg+Pnon+Gen
+P:     israil'in+Noun+Prop+A3sg+Pnon+Nom
+
+Maccabi:1
+P:     maccabi+Noun+Prop+A3sg+Pnon+Nom
+
+Raanana:1
+P:     raanana+Noun+Prop+A3sg+Pnon+Nom
+
+takımı:2
+D:     takı+Noun+A3sg+P1sg+Acc
+P:     takım+Noun+A3sg+P3sg+Nom
+D:     takım+Noun+A3sg+Pnon+Acc
+D:     tak+Noun+A3sg+P1sg+Acc
+
+karşısında:2
+P:     karşı+Noun+A3sg+P3sg+Loc
+D:     karşı+Adj^DB+Noun+Zero+A3sg+P3sg+Loc
+
+zor:3
+P:     zor+Noun+A3sg+Pnon+Nom
+P:     zor+Adverb
+P:     zor+Adj
+
+da:1
+P:     de+Conj
+
+olsa:1
+P:     ol+Verb+Pos+Desr+A3sg
+P:     ol+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Cond+A3sg
+
+İstanbul'da:1
+P:     istanbul+Noun+Prop+A3sg+Pnon+Loc
+P:     istanbul'da+Noun+Prop+A3sg+Pnon+Nom
+
+tur:1
+P:     tur+Noun+A3sg+Pnon+Nom
+
+arayacak:2
+D:     ara+Verb+Pos^DB+Adj+FutPart
+P:     ara+Verb+Pos+Fut+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+İlk:3
+P:     ilk+Noun+A3sg+Pnon+Nom
+D:     ilk+Adverb
+D:     ilk+Adj
+
+maçı:2
+P:     maç+Noun+A3sg+P3sg+Nom
+D:     maç+Noun+A3sg+Pnon+Acc
+
+76-42:1
+P:     76-42+Num+Range
+
+yitiren:1
+P:     yit+Verb^DB+Verb+Caus+Pos^DB+Adj+PresPart
+
+siyah:2
+P:     siyah+Noun+A3sg+Pnon+Nom
+D:     siyah+Adj
+
+-:1
+P:     -+Punc
+
+beyazlıların:4
+D:     beyaz+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+P2sg+Nom
+P:     beyaz+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Gen
+D:     beyaz+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+P2sg+Nom
+P:     beyaz+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Gen
+
+Süleyman:1
+P:     süleyman+Noun+Prop+A3sg+Pnon+Nom
+
+Spor:1
+P:     spor+Noun+A3sg+Pnon+Nom
+D:     spor+Adj
+P:     spor+Noun+Prop+A3sg+Pnon+Nom
+
+Salonu'ndaki:1
+P:     salon+Noun+Prop+A3sg+P3sg+Loc^DB+Adj+Rel
+D:     salon+Noun+Prop+A3sg+P2sg+Loc^DB+Adj+Rel
+D:     Salonu+Noun+Prop+A3sg+Pnon+Loc^DB+Adj+Rel
+
+bu:2
+D:     bu+Pron+A3sg+Pnon+Nom
+P:     bu+Adj
+
+mücadelesi:1
+P:     mücadele+Noun+A3sg+P3sg+Nom
+
+de:3
+D:     de+Noun+A3sg+Pnon+Nom
+D:     de+Verb+Pos+Imp+A2sg
+P:     de+Conj
+
+18.00'de:1
+P:     18.00+Num+Real^DB+Noun+Zero+A3sg+Pnon+Loc
+
+başlayacak:2
+D:     başla+Verb+Pos^DB+Adj+FutPart
+P:     başla+Verb+Pos+Fut+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+Radivoj:1
+P:     radivoj+Noun+Prop+A3sg+Pnon+Nom
+
+Koraç:1
+P:     koraç+Noun+Prop+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+Bayanlar:1
+P:     bayan+Noun+A3pl+Pnon+Nom
+P:     bayan+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+P:     bayanlar+Noun+Prop+A3sg+Pnon+Nom
+
+Liliana:1
+P:     liliana+Noun+Prop+A3sg+Pnon+Nom
+
+Ronchetti:1
+P:     ronchetti+Noun+Prop+A3sg+Pnon+Nom
+
+Kupalarında:4
+P:     kupa+Noun+A3pl+P3sg+Loc
+D:     kupa+Noun+A3pl+P2sg+Loc
+D:     kupa+Noun+A3sg+P3pl+Loc
+D:     kupa+Noun+A3pl+P3pl+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P3sg+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P2sg+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3sg+P3pl+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P3pl+Loc
+D:     kupalarında+Noun+Prop+A3sg+Pnon+Nom
+
+bu:2
+D:     bu+Pron+A3sg+Pnon+Nom
+P:     bu+Adj
+
+turu:2
+P:     tur+Noun+A3sg+P3sg+Nom
+P:     tur+Noun+A3sg+Pnon+Acc
+
+geçen:1
+P:     geç+Verb+Pos^DB+Adj+PresPart
+
+takımlar:2
+D:     takı+Noun+A3sg+P1sg+Nom^DB+Verb+Zero+Pres+A3pl
+P:     takım+Noun+A3pl+Pnon+Nom
+D:     takım+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+D:     tak+Noun+A3sg+P1sg+Nom^DB+Verb+Zero+Pres+A3pl
+
+,:1
+P:     ,+Punc
+
+grup:1
+P:     grup+Noun+A3sg+Pnon+Nom
+
+müsabakalarına:3
+P:     müsabaka+Noun+A3pl+P3sg+Dat
+D:     müsabaka+Noun+A3pl+P2sg+Dat
+D:     müsabaka+Noun+A3sg+P3pl+Dat
+D:     müsabaka+Noun+A3pl+P3pl+Dat
+
+katılmaya:2
+D:     kat+Verb^DB+Verb+Pass+Neg+Opt+A3sg
+P:     kat+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+Pnon+Dat
+
+hak:1
+D:     hak+Noun+A3sg+Pnon+Nom
+D:     hak+Noun+Prop+A3sg+Pnon+Nom
+P:     hak+Adj
+
+kazanacaklar:3
+P:     kazan+Verb+Pos^DB+Adj+FutPart^DB+Noun+Zero+A3pl+Pnon+Nom
+D:     kazan+Verb+Pos^DB+Adj+FutPart^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+D:     kazan+Verb+Pos+Fut+A3pl
+
+.:1
+P:     .+Punc
+
+<S>
+Fenerbahçe:1
+P:     fenerbahçe+Noun+Prop+A3sg+Pnon+Nom
+
+yarın:6
+D:     yar+Noun+A3sg+P2sg+Nom
+P:     yar+Noun+A3sg+Pnon+Gen
+D:     yarı+Noun+A3sg+P2sg+Nom
+P:     yarın+Noun+A3sg+Pnon+Nom
+D:     yar+Verb+Pos+Imp+A2pl
+P:     yarın+Adverb
+D:     yarı+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+
+Avrupa'da:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Loc
+P:     avrupa'da+Noun+Prop+A3sg+Pnon+Nom
+
+97.:1
+P:     97.+Num+Ord
+
+randevusuna:1
+P:     randevu+Noun+A3sg+P3sg+Dat
+
+çıkıyor:1
+P:     çık+Verb+Pos+Prog1+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+.:1
+P:     .+Punc
+
+<S>
+.:1
+P:     .+Punc
+
+<S>
+Futbolda:1
+P:     futbol+Noun+A3sg+Pnon+Loc
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+Şampiyonlar:1
+P:     şampiyon+Noun+A3pl+Pnon+Nom
+D:     şampiyon+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+D:     şampiyonlar+Noun+Prop+A3sg+Pnon+Nom
+
+Ligi:1
+P:     lig+Noun+A3sg+P3sg+Nom
+D:     lig+Noun+A3sg+Pnon+Acc
+D:     ligi+Noun+Prop+A3sg+Pnon+Nom
+
+F:1
+P:     f+Noun+Prop+A3sg+Pnon+Nom
+
+Grubu'nda:1
+P:     grup+Noun+Prop+A3sg+P3sg+Loc
+D:     grup+Noun+Prop+A3sg+P2sg+Loc
+D:     Grubu+Noun+Prop+A3sg+Pnon+Loc
+
+mücadele eden:1
+P:     mücadele et+Verb+Pos^DB+Adj+PresPart
+
+Fenerbahçe:1
+P:     fenerbahçe+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Almanya'nın:2
+D:     almanya+Noun+Prop+A3sg+P2sg+Gen
+P:     almanya+Noun+Prop+A3sg+Pnon+Gen
+P:     almanya'nın+Noun+Prop+A3sg+Pnon+Nom
+
+Bayer:1
+P:     bayer+Noun+Prop+A3sg+Pnon+Nom
+
+Leverkusen:1
+P:     leverkusen+Noun+Prop+A3sg+Pnon+Nom
+
+takımı:3
+D:     takı+Noun+A3sg+P1sg+Acc
+P:     takım+Noun+A3sg+P3sg+Nom
+D:     takım+Noun+A3sg+Pnon+Acc
+D:     tak+Noun+A3sg+P1sg+Acc
+
+ile:3
+D:     il+Noun+A3sg+Pnon+Dat
+D:     ile+Conj
+P:     ile+Postp
+
+yarın:6
+D:     yar+Noun+A3sg+P2sg+Nom
+D:     yar+Noun+A3sg+Pnon+Gen
+D:     yarı+Noun+A3sg+P2sg+Nom
+D:     yarın+Noun+A3sg+Pnon+Nom
+P:     yar+Verb+Pos+Imp+A2pl
+D:     yarın+Adverb
+D:     yarı+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+
+yapacağı:1
+P:     yap+Verb+Pos^DB+Adj+FutPart^DB+Noun+Zero+A3sg+P3sg+Nom
+P:     yap+Verb+Pos^DB+Adj+FutPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+maçla:1
+P:     maç+Noun+A3sg+Pnon+Ins
+
+birlikte:7
+P:     bir+Num+Card^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Loc
+P:     bir+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Loc
+P:     birlik+Noun+A3sg+Pnon+Loc
+P:     birlikte+Noun+A3sg+Pnon+Nom
+P:     birlikte+Adverb
+P:     bir+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Loc
+D:     birlikte+Postp
+
+,:1
+P:     ,+Punc
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+kupalarındaki:1
+P:     kupa+Noun+A3pl+P3sg+Loc^DB+Adj+Rel
+D:     kupa+Noun+A3pl+P2sg+Loc^DB+Adj+Rel
+D:     kupa+Noun+A3sg+P3pl+Loc^DB+Adj+Rel
+D:     kupa+Noun+A3pl+P3pl+Loc^DB+Adj+Rel
+P:     kupa+Adj^DB+Noun+Zero+A3pl+P3sg+Loc^DB+Adj+Rel
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P2sg+Loc^DB+Adj+Rel
+D:     kupa+Adj^DB+Noun+Zero+A3sg+P3pl+Loc^DB+Adj+Rel
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P3pl+Loc^DB+Adj+Rel
+
+97.:1
+P:     97.+Num+Ord
+
+maçına:1
+P:     maç+Noun+A3sg+P3sg+Dat
+D:     maç+Noun+A3sg+P2sg+Dat
+
+çıkacak:3
+D:     çıkacak+Noun+A3sg+Pnon+Nom
+D:     çık+Verb+Pos^DB+Adj+FutPart
+P:     çık+Verb+Pos+Fut+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Sarı:2
+P:     sarı+Noun+A3sg+Pnon+Nom
+P:     sarı+Adj
+
+-:1
+P:     -+Punc
+
+lacivertliler:3
+P:     lacivert+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     lacivert+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+P:     lacivert+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     lacivert+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+,:1
+P:     ,+Punc
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+kupalarında:1
+P:     kupa+Noun+A3pl+P3sg+Loc
+D:     kupa+Noun+A3pl+P2sg+Loc
+D:     kupa+Noun+A3sg+P3pl+Loc
+D:     kupa+Noun+A3pl+P3pl+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P3sg+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P2sg+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3sg+P3pl+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P3pl+Loc
+
+şimdiye:1
+P:     şimdi+Noun+A3sg+Pnon+Dat
+
+kadar:2
+P:     kadar+Adverb+AdjMdfy
+P:     kadar+Postp
+
+yaptıkları:4
+P:     yap+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3pl+P3sg+Nom
+P:     yap+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3pl+Pnon+Acc
+D:     yap+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3pl+Nom
+P:     yap+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3pl+P3pl+Nom
+
+96:1
+P:     96+Num+Card
+
+karşılaşmanın:4
+D:     karşı+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf2+A3sg+P2sg+Gen
+P:     karşı+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf2+A3sg+Pnon+Gen
+D:     karşı+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf2+A3sg+P2sg+Gen
+P:     karşı+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf2+A3sg+Pnon+Gen
+
+30'undan:1
+P:     30+Num+Card^DB+Noun+Zero+A3sg+P3sg+Abl
+D:     30+Num+Card^DB+Noun+Zero+A3sg+P2sg+Abl
+
+galip:1
+P:     galip+Noun+A3sg+Pnon+Nom
+P:     galip+Adj
+
+ayrılırken:1
+P:     ayır+Verb^DB+Verb+Pass+Pos+Aor+A3sg^DB+Adverb+While
+P:     ayrıl+Verb+Pos+Aor+A3sg^DB+Adverb+While
+
+,:1
+P:     ,+Punc
+
+kez:1
+P:     kez+Noun+A3sg+Pnon+Nom
+
+yenildi:1
+P:     yen+Verb^DB+Verb+Pass+Pos+Past+A3sg
+
+,:1
+P:     ,+Punc
+
+13:1
+P:     13+Num+Card
+
+kez:1
+P:     kez+Noun+A3sg+Pnon+Nom
+
+de:3
+D:     de+Noun+A3sg+Pnon+Nom
+D:     de+Verb+Pos+Imp+A2sg
+P:     de+Conj
+
+berabere:1
+P:     beraber+Noun+A3sg+Pnon+Dat
+P:     beraber+Adj^DB+Noun+Zero+A3sg+Pnon+Dat
+
+kaldı:2
+P:     kal+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     kal+Verb+Pos+Past+A3sg
+D:     kaldı+Conj
+
+.:1
+P:     .+Punc
+
+<S>
+Fenerbahçe:1
+P:     fenerbahçe+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Avrupa'da:1
+D:     avrupa+Noun+Prop+A3sg+Pnon+Loc
+P:     avrupa'da+Noun+Prop+A3sg+Pnon+Nom
+
+attığı:1
+P:     at+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     at+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+toplam:2
+D:     topla+Noun+A3sg+P1sg+Nom
+P:     toplam+Noun+A3sg+Pnon+Nom
+
+98:1
+P:     98+Num+Card
+
+gole:1
+P:     gol+Noun+A3sg+Pnon+Dat
+
+karşılık:4
+P:     karşı+Noun+A3sg+Pnon+Nom^DB+Adj+FitFor
+P:     karşı+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom
+P:     karşı+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+FitFor
+P:     karşı+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+kalesinde:1
+P:     kale+Noun+A3sg+P3sg+Loc
+
+162:1
+P:     162+Num+Card
+
+gol:1
+P:     gol+Noun+A3sg+Pnon+Nom
+
+gördü:1
+P:     gör+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+':1
+P:     '+Punc
+
+Sarı:2
+D:     sarı+Noun+A3sg+Pnon+Nom
+P:     sarı+Adj
+D:     sarı+Noun+Prop+A3sg+Pnon+Nom
+
+Kanaryalar:1
+P:     kanarya+Noun+A3pl+Pnon+Nom
+D:     kanarya+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+P:     kanaryalar+Noun+Prop+A3sg+Pnon+Nom
+
+':1
+P:     '+Punc
+
+,:1
+P:     ,+Punc
+
+UEFA:1
+P:     UEFA+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası'nda:1
+P:     kupa+Noun+Prop+A3sg+P3sg+Loc
+D:     Kupası+Noun+Prop+A3sg+Pnon+Loc
+
+48:1
+P:     48+Num+Card
+
+,:1
+P:     ,+Punc
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+Şampiyon:2
+P:     şampiyon+Noun+A3sg+Pnon+Nom
+P:     şampiyon+Noun+Prop+A3sg+Pnon+Nom
+
+Kulüpler:1
+P:     kulüp+Noun+A3pl+Pnon+Nom
+D:     kulüp+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+D:     kulüpler+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası'nda:1
+P:     kupa+Noun+Prop+A3sg+P3sg+Loc
+D:     Kupası+Noun+Prop+A3sg+Pnon+Loc
+
+30:1
+P:     30+Num+Card
+
+,:1
+P:     ,+Punc
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+Şampiyonlar:1
+P:     şampiyon+Noun+A3pl+Pnon+Nom
+D:     şampiyon+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+D:     şampiyonlar+Noun+Prop+A3sg+Pnon+Nom
+
+Ligi'nde:1
+P:     lig+Noun+Prop+A3sg+P3sg+Loc
+D:     lig+Noun+Prop+A3sg+P2sg+Loc
+D:     Ligi+Noun+Prop+A3sg+Pnon+Loc
+
+9:1
+P:     9+Num+Card
+
+ve:1
+P:     ve+Conj
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+Kupa:4
+D:     kup+Noun+A3sg+Pnon+Dat
+D:     kupa+Noun+A3sg+Pnon+Nom
+P:     kupa+Adj
+D:     kupa+Noun+Prop+A3sg+Pnon+Nom
+
+Galipleri:1
+D:     galip+Noun+A3pl+P3sg+Nom
+D:     galip+Noun+A3pl+Pnon+Acc
+D:     galip+Noun+A3sg+P3pl+Nom
+D:     galip+Noun+A3pl+P3pl+Nom
+D:     galip+Adj^DB+Noun+Zero+A3pl+P3sg+Nom
+D:     galip+Adj^DB+Noun+Zero+A3pl+Pnon+Acc
+D:     galip+Adj^DB+Noun+Zero+A3sg+P3pl+Nom
+D:     galip+Adj^DB+Noun+Zero+A3pl+P3pl+Nom
+P:     galipleri+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası'nda:1
+P:     kupa+Noun+Prop+A3sg+P3sg+Loc
+D:     Kupası+Noun+Prop+A3sg+Pnon+Loc
+
+da:1
+P:     de+Conj
+
+rakip:2
+D:     rakip+Noun+A3sg+Pnon+Nom
+P:     rakip+Adj
+
+filelere:1
+P:     file+Noun+A3pl+Pnon+Dat
+
+11:1
+P:     11+Num+Card
+
+gol:1
+P:     gol+Noun+A3sg+Pnon+Nom
+
+attı:3
+P:     at+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     ad+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     at+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Sarı:2
+P:     sarı+Noun+A3sg+Pnon+Nom
+P:     sarı+Adj
+
+-:1
+P:     -+Punc
+
+lacivertliler:3
+P:     lacivert+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     lacivert+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+P:     lacivert+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     lacivert+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+,:1
+P:     ,+Punc
+
+kendi:2
+D:     ke+Noun+A3sg+P2sg+Nom^DB+Verb+Zero+Past+A3sg
+P:     kendi+Pron+Reflex+A3sg+P3sg+Nom
+
+kalelerinde:4
+P:     kale+Noun+A3pl+P3sg+Loc
+D:     kale+Noun+A3pl+P2sg+Loc
+D:     kale+Noun+A3sg+P3pl+Loc
+P:     kale+Noun+A3pl+P3pl+Loc
+
+ise:3
+D:     is+Noun+A3sg+Pnon+Dat
+D:     i+Verb+Pos+Desr+A3sg
+P:     ise+Conj
+
+UEFA:1
+P:     UEFA+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası'nda:1
+P:     kupa+Noun+Prop+A3sg+P3sg+Loc
+D:     Kupası+Noun+Prop+A3sg+Pnon+Loc
+
+69:1
+P:     69+Num+Card
+
+,:1
+P:     ,+Punc
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+Şampiyon:1
+P:     şampiyon+Noun+A3sg+Pnon+Nom
+P:     şampiyon+Noun+Prop+A3sg+Pnon+Nom
+
+Kulüpler:1
+P:     kulüp+Noun+A3pl+Pnon+Nom
+D:     kulüp+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+D:     kulüpler+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası'nda:1
+P:     kupa+Noun+Prop+A3sg+P3sg+Loc
+D:     Kupası+Noun+Prop+A3sg+Pnon+Loc
+
+66:1
+P:     66+Num+Card
+
+,:1
+P:     ,+Punc
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+Şampiyonlar:1
+P:     şampiyon+Noun+A3pl+Pnon+Nom
+D:     şampiyon+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+D:     şampiyonlar+Noun+Prop+A3sg+Pnon+Nom
+
+Ligi'nde:1
+P:     lig+Noun+Prop+A3sg+P3sg+Loc
+D:     lig+Noun+Prop+A3sg+P2sg+Loc
+D:     Ligi+Noun+Prop+A3sg+Pnon+Loc
+
+16:1
+P:     16+Num+Card
+
+ve:1
+P:     ve+Conj
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+Kupa:2
+D:     kup+Noun+A3sg+Pnon+Dat
+D:     kupa+Noun+A3sg+Pnon+Nom
+P:     kupa+Adj
+D:     kupa+Noun+Prop+A3sg+Pnon+Nom
+
+Galipleri:1
+D:     galip+Noun+A3pl+P3sg+Nom
+D:     galip+Noun+A3pl+Pnon+Acc
+D:     galip+Noun+A3sg+P3pl+Nom
+D:     galip+Noun+A3pl+P3pl+Nom
+D:     galip+Adj^DB+Noun+Zero+A3pl+P3sg+Nom
+D:     galip+Adj^DB+Noun+Zero+A3pl+Pnon+Acc
+D:     galip+Adj^DB+Noun+Zero+A3sg+P3pl+Nom
+D:     galip+Adj^DB+Noun+Zero+A3pl+P3pl+Nom
+P:     galipleri+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası'nda:1
+P:     kupa+Noun+Prop+A3sg+P3sg+Loc
+D:     Kupası+Noun+Prop+A3sg+Pnon+Loc
+
+da:1
+P:     de+Conj
+
+kalesinde:1
+P:     kale+Noun+A3sg+P3sg+Loc
+
+11:1
+P:     11+Num+Card
+
+gol:1
+P:     gol+Noun+A3sg+Pnon+Nom
+
+gördü:1
+P:     gör+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+En:2
+D:     en+Noun+A3sg+Pnon+Nom
+P:     en+Adverb+AdjMdfy
+
+farklı:1
+P:     fark+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+sonuçlar:1
+P:     sonuç+Noun+A3pl+Pnon+Nom
+D:     sonuç+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+D:     sonuçla+Verb+Pos+Aor+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+.:1
+P:     .+Punc
+
+<S>
+.:1
+P:     .+Punc
+
+<S>
+Fenerbahçe:1
+P:     fenerbahçe+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+kupalarındaki:1
+P:     kupa+Noun+A3pl+P3sg+Loc^DB+Adj+Rel
+D:     kupa+Noun+A3pl+P2sg+Loc^DB+Adj+Rel
+D:     kupa+Noun+A3sg+P3pl+Loc^DB+Adj+Rel
+D:     kupa+Noun+A3pl+P3pl+Loc^DB+Adj+Rel
+P:     kupa+Adj^DB+Noun+Zero+A3pl+P3sg+Loc^DB+Adj+Rel
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P2sg+Loc^DB+Adj+Rel
+D:     kupa+Adj^DB+Noun+Zero+A3sg+P3pl+Loc^DB+Adj+Rel
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P3pl+Loc^DB+Adj+Rel
+
+en:2
+D:     en+Noun+A3sg+Pnon+Nom
+P:     en+Adverb+AdjMdfy
+
+farklı:1
+P:     fark+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+skorlu:1
+P:     skor+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+galibiyetini:1
+P:     galibiyet+Noun+A3sg+P3sg+Acc
+D:     galibiyet+Noun+A3sg+P2sg+Acc
+
+1994-1995:1
+P:     1994-1995+Num+Range
+
+sezonunda:1
+P:     sezon+Noun+A3sg+P3sg+Loc
+D:     sezon+Noun+A3sg+P2sg+Loc
+
+katıldığı:1
+P:     kat+Verb^DB+Verb+Pass+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+P:     kat+Verb^DB+Verb+Pass+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+UEFA:1
+P:     UEFA+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası:1
+P:     kupa+Noun+A3sg+P3sg+Nom
+P:     kupa+Adj^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     kupası+Noun+Prop+A3sg+Pnon+Nom
+
+1.:1
+P:     1.+Num+Ord
+
+tur:1
+P:     tur+Noun+A3sg+Pnon+Nom
+
+ön:1
+D:     ön+Noun+A3sg+Pnon+Nom
+P:     ön+Adj
+
+eleme:3
+P:     elem+Noun+A3sg+Pnon+Dat
+D:     ele+Verb+Neg+Imp+A2sg
+P:     ele+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+
+ilk:3
+P:     ilk+Noun+A3sg+Pnon+Nom
+D:     ilk+Adverb
+D:     ilk+Adj
+
+maçında:1
+P:     maç+Noun+A3sg+P3sg+Loc
+D:     maç+Noun+A3sg+P2sg+Loc
+
+elde etti:1
+P:     elde et+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Sarı:2
+P:     sarı+Noun+A3sg+Pnon+Nom
+P:     sarı+Adj
+
+-:1
+P:     -+Punc
+
+lacivertliler:3
+P:     lacivert+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     lacivert+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+P:     lacivert+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     lacivert+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+,:1
+P:     ,+Punc
+
+İstanbul'daki:1
+P:     istanbul+Noun+Prop+A3sg+Pnon+Loc^DB+Adj+Rel
+P:     istanbul'daki+Noun+Prop+A3sg+Pnon+Nom
+
+ilk:3
+D:     ilk+Noun+A3sg+Pnon+Nom
+D:     ilk+Adverb
+P:     ilk+Adj
+
+maçta:1
+P:     maç+Noun+A3sg+Pnon+Loc
+
+Azerbaycan'ın:2
+D:     azerbaycan+Noun+Prop+A3sg+P2sg+Nom
+P:     azerbaycan+Noun+Prop+A3sg+Pnon+Gen
+P:     azerbaycan'ın+Noun+Prop+A3sg+Pnon+Nom
+
+FC:1
+P:     fc+Noun+Prop+A3sg+Pnon+Nom
+
+Turan:3
+D:     tura+Noun+A3sg+P2sg+Nom
+P:     turan+Noun+A3sg+Pnon+Nom
+P:     turan+Noun+Prop+A3sg+Pnon+Nom
+
+takımını:1
+P:     takım+Noun+A3sg+P3sg+Acc
+D:     takım+Noun+A3sg+P2sg+Acc
+
+5-0:1
+P:     5-0+Num+Range
+
+yenerek:2
+P:     ye+Verb^DB+Verb+Pass+Pos^DB+Adverb+ByDoingSo
+P:     yen+Verb+Pos^DB+Adverb+ByDoingSo
+
+,:1
+P:     ,+Punc
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+kupalarında:1
+P:     kupa+Noun+A3pl+P3sg+Loc
+D:     kupa+Noun+A3pl+P2sg+Loc
+D:     kupa+Noun+A3sg+P3pl+Loc
+D:     kupa+Noun+A3pl+P3pl+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P3sg+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P2sg+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3sg+P3pl+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P3pl+Loc
+
+şimdiye:1
+P:     şimdi+Noun+A3sg+Pnon+Dat
+
+kadarki:1
+P:     kadar+Postp^DB+Adj+Rel
+
+en:2
+D:     en+Noun+A3sg+Pnon+Nom
+P:     en+Adverb+AdjMdfy
+
+farklı:1
+P:     fark+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+skorlu:1
+P:     skor+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+galibiyetine:1
+P:     galibiyet+Noun+A3sg+P3sg+Dat
+D:     galibiyet+Noun+A3sg+P2sg+Dat
+
+imza:1
+P:     imza+Noun+A3sg+Pnon+Nom
+
+attı:3
+P:     at+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     ad+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     at+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Fenerbahçe:1
+P:     fenerbahçe+Noun+Prop+A3sg+Pnon+Nom
+
+ayrıca:3
+D:     ayrıca+Noun+A3sg+Pnon+Nom
+D:     ayrıç+Noun+A3sg+Pnon+Dat
+P:     ayrı+Adj^DB+Noun+Zero+A3sg+Pnon^DB+Adverb+Ly
+
+,:1
+P:     ,+Punc
+
+aynı:4
+D:     ayn+Noun+A3sg+P3sg+Nom
+D:     ayn+Noun+A3sg+Pnon+Acc
+D:     aynı+Noun+A3sg+Pnon+Nom
+P:     aynı+Adj
+
+kupada:1
+P:     kupa+Noun+A3sg+Pnon+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3sg+Pnon+Loc
+
+1973-74:1
+P:     1973-74+Num+Range
+
+sezonunda:1
+P:     sezon+Noun+A3sg+P3sg+Loc
+D:     sezon+Noun+A3sg+P2sg+Loc
+
+İstanbul'da:1
+P:     istanbul+Noun+Prop+A3sg+Pnon+Loc
+P:     istanbul'da+Noun+Prop+A3sg+Pnon+Nom
+
+Romanya'nın:2
+D:     romanya+Noun+Prop+A3sg+P2sg+Gen
+P:     romanya+Noun+Prop+A3sg+Pnon+Gen
+P:     romanya'nın+Noun+Prop+A3sg+Pnon+Nom
+
+Arges:1
+P:     arges+Noun+Prop+A3sg+Pnon+Nom
+
+Piteşti:1
+P:     piteşti+Noun+Prop+A3sg+Pnon+Nom
+
+takımını:1
+P:     takım+Noun+A3sg+P3sg+Acc
+D:     takım+Noun+A3sg+P2sg+Acc
+
+5-1:1
+P:     5-1+Num+Range
+
+,:1
+P:     ,+Punc
+
+1995-96:1
+P:     1995-96+Num+Range
+
+sezonunda:1
+P:     sezon+Noun+A3sg+P3sg+Loc
+D:     sezon+Noun+A3sg+P2sg+Loc
+
+Arnavutluk'un:2
+D:     arnavutluk+Noun+Prop+A3sg+P2sg+Nom
+P:     arnavutluk+Noun+Prop+A3sg+Pnon+Gen
+P:     arnavutluk'un+Noun+Prop+A3sg+Pnon+Nom
+
+FC:1
+P:     fc+Noun+Prop+A3sg+Pnon+Nom
+
+Partizani:1
+P:     partizani+Noun+Prop+A3sg+Pnon+Nom
+
+Tiran:3
+P:     tiran+Noun+A3sg+Pnon+Nom
+D:     tiran+Adj
+P:     tiran+Noun+Prop+A3sg+Pnon+Nom
+
+takımını:2
+P:     takım+Noun+A3sg+P3sg+Acc
+D:     takım+Noun+A3sg+P2sg+Acc
+
+deplasmanda:1
+P:     deplasman+Noun+A3sg+Pnon+Loc
+
+4-0:1
+P:     4-0+Num+Range
+
+,:1
+P:     ,+Punc
+
+1963-64:1
+P:     1963-64+Num+Range
+
+sezonunda:1
+P:     sezon+Noun+A3sg+P3sg+Loc
+D:     sezon+Noun+A3sg+P2sg+Loc
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+Kupa:2
+D:     kup+Noun+A3sg+Pnon+Dat
+D:     kupa+Noun+A3sg+Pnon+Nom
+P:     kupa+Adj
+D:     kupa+Noun+Prop+A3sg+Pnon+Nom
+
+Galipleri:1
+D:     galip+Noun+A3pl+P3sg+Nom
+D:     galip+Noun+A3pl+Pnon+Acc
+D:     galip+Noun+A3sg+P3pl+Nom
+D:     galip+Noun+A3pl+P3pl+Nom
+D:     galip+Adj^DB+Noun+Zero+A3pl+P3sg+Nom
+D:     galip+Adj^DB+Noun+Zero+A3pl+Pnon+Acc
+D:     galip+Adj^DB+Noun+Zero+A3sg+P3pl+Nom
+D:     galip+Adj^DB+Noun+Zero+A3pl+P3pl+Nom
+P:     galipleri+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası'nda:1
+P:     kupa+Noun+Prop+A3sg+P3sg+Loc
+D:     Kupası+Noun+Prop+A3sg+Pnon+Loc
+
+1.:1
+P:     1.+Num+Ord
+
+turda:1
+P:     tur+Noun+A3sg+Pnon+Loc
+
+Romanya'nın:2
+D:     romanya+Noun+Prop+A3sg+P2sg+Gen
+P:     romanya+Noun+Prop+A3sg+Pnon+Gen
+P:     romanya'nın+Noun+Prop+A3sg+Pnon+Nom
+
+Petrolul:1
+P:     petrolul+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+2.:1
+P:     2.+Num+Ord
+
+turda:1
+P:     tur+Noun+A3sg+Pnon+Loc
+
+da:1
+P:     de+Conj
+
+İrlanda:1
+P:     irlanda+Noun+Prop+A3sg+Pnon+Nom
+
+Cumhuriyeti'nin:1
+P:     cumhuriyet+Noun+Prop+A3sg+P3sg+Gen
+D:     cumhuriyet+Noun+Prop+A3sg+P2sg+Gen
+D:     Cumhuriyeti+Noun+Prop+A3sg+Pnon+Gen
+D:     Cumhuriyeti+Noun+Prop+A3sg+Pnon+Gen
+
+FC:1
+P:     fc+Noun+Prop+A3sg+Pnon+Nom
+
+Linfield:1
+P:     linfield+Noun+Prop+A3sg+Pnon+Nom
+
+takımlarını:4
+P:     takım+Noun+A3pl+P3sg+Acc
+D:     takım+Noun+A3pl+P2sg+Acc
+D:     takım+Noun+A3sg+P3pl+Acc
+D:     takım+Noun+A3pl+P3pl+Acc
+
+İstanbul'da:1
+P:     istanbul+Noun+Prop+A3sg+Pnon+Loc
+P:     istanbul'da+Noun+Prop+A3sg+Pnon+Nom
+
+aynı:4
+D:     ayn+Noun+A3sg+P3sg+Nom
+D:     ayn+Noun+A3sg+Pnon+Acc
+D:     aynı+Noun+A3sg+Pnon+Nom
+P:     aynı+Adj
+
+sonuçla:1
+P:     sonuç+Noun+A3sg+Pnon+Ins
+D:     sonuçla+Verb+Pos+Imp+A2sg
+
+4-1:1
+P:     4-1+Num+Range
+
+yendi:3
+P:     yen+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     ye+Verb^DB+Verb+Pass+Pos+Past+A3sg
+P:     yen+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+kupalarında:4
+P:     kupa+Noun+A3pl+P3sg+Loc
+D:     kupa+Noun+A3pl+P2sg+Loc
+D:     kupa+Noun+A3sg+P3pl+Loc
+D:     kupa+Noun+A3pl+P3pl+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P3sg+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P2sg+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3sg+P3pl+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P3pl+Loc
+
+deplasmanda:1
+P:     deplasman+Noun+A3sg+Pnon+Loc
+
+başarılı olamayan:1
+P:     başarılı ol+Verb^DB+Verb+AbleNeg+Neg^DB+Adj+PresPart
+
+Fenerbahçe:1
+P:     fenerbahçe+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+en:2
+P:     en+Noun+A3sg+Pnon+Nom
+D:     en+Adverb+AdjMdfy
+
+farklı:1
+P:     fark+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+skorlu:1
+P:     skor+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+yenilgileri:2
+D:     yenilgi+Noun+A3pl+P3sg+Nom
+P:     yenilgi+Noun+A3pl+Pnon+Acc
+D:     yenilgi+Noun+A3sg+P3pl+Nom
+D:     yenilgi+Noun+A3pl+P3pl+Nom
+
+de:3
+D:     de+Noun+A3sg+Pnon+Nom
+D:     de+Verb+Pos+Imp+A2sg
+P:     de+Conj
+
+yine:1
+P:     yine+Adverb
+
+yurt:1
+P:     yurt+Noun+A3sg+Pnon+Nom
+
+dışında:1
+P:     dış+Adj^DB+Noun+Zero+A3sg+P3sg+Loc
+D:     dış+Adj^DB+Noun+Zero+A3sg+P2sg+Loc
+
+tattı:2
+P:     tat+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     tat+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+1975-1976:1
+P:     1975-1976+Num+Range
+
+sezonunda:1
+P:     sezon+Noun+A3sg+P3sg+Loc
+D:     sezon+Noun+A3sg+P2sg+Loc
+
+,:1
+P:     ,+Punc
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+Şampiyon:1
+P:     şampiyon+Noun+A3sg+Pnon+Nom
+P:     şampiyon+Noun+Prop+A3sg+Pnon+Nom
+
+Kulüpler:1
+P:     kulüp+Noun+A3pl+Pnon+Nom
+D:     kulüp+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+D:     kulüpler+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası:1
+P:     kupa+Noun+A3sg+P3sg+Nom
+D:     kupa+Adj^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     kupası+Noun+Prop+A3sg+Pnon+Nom
+
+1.:1
+P:     1.+Num+Ord
+
+tur:1
+P:     tur+Noun+A3sg+Pnon+Nom
+
+maçında:1
+P:     maç+Noun+A3sg+P3sg+Loc
+D:     maç+Noun+A3sg+P2sg+Loc
+
+Portekiz'in:2
+D:     portekiz+Noun+Prop+A3sg+P2sg+Nom
+P:     portekiz+Noun+Prop+A3sg+Pnon+Gen
+P:     portekiz'in+Noun+Prop+A3sg+Pnon+Nom
+
+Benfica:1
+P:     benfica+Noun+Prop+A3sg+Pnon+Nom
+
+SL:1
+P:     sl+Noun+Prop+A3sg+Pnon+Nom
+
+Lizbon:1
+P:     lizbon+Noun+Prop+A3sg+Pnon+Nom
+
+takımına:1
+P:     takım+Noun+A3sg+P3sg+Dat
+D:     takım+Noun+A3sg+P2sg+Dat
+
+7-0:1
+P:     7-0+Num+Range
+
+yenilen:1
+P:     yen+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+D:     yenile+Verb^DB+Verb+Pass+Pos+Imp+A2sg
+D:     yeni+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Imp+A2sg
+
+sarı:2
+P:     sarı+Noun+A3sg+Pnon+Nom
+D:     sarı+Adj
+
+-:1
+P:     -+Punc
+
+lacivertliler:3
+P:     lacivert+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     lacivert+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+P:     lacivert+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     lacivert+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+,:1
+P:     ,+Punc
+
+bu:2
+D:     bu+Pron+A3sg+Pnon+Nom
+P:     bu+Adj
+
+sonuçla:1
+P:     sonuç+Noun+A3sg+Pnon+Ins
+D:     sonuçla+Verb+Pos+Imp+A2sg
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+kupalarındaki:1
+P:     kupa+Noun+A3pl+P3sg+Loc^DB+Adj+Rel
+D:     kupa+Noun+A3pl+P2sg+Loc^DB+Adj+Rel
+D:     kupa+Noun+A3sg+P3pl+Loc^DB+Adj+Rel
+D:     kupa+Noun+A3pl+P3pl+Loc^DB+Adj+Rel
+P:     kupa+Adj^DB+Noun+Zero+A3pl+P3sg+Loc^DB+Adj+Rel
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P2sg+Loc^DB+Adj+Rel
+D:     kupa+Adj^DB+Noun+Zero+A3sg+P3pl+Loc^DB+Adj+Rel
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P3pl+Loc^DB+Adj+Rel
+
+en:2
+D:     en+Noun+A3sg+Pnon+Nom
+P:     en+Adverb+AdjMdfy
+
+farklı:1
+P:     fark+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+yenilgisini:1
+P:     yenilgi+Noun+A3sg+P3sg+Acc
+
+aldı:2
+P:     al+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     al+Verb+Pos+Past+A3sg
+P:     al+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Fenerbahçe:1
+P:     fenerbahçe+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+1992-1993:1
+P:     1992-1993+Num+Range
+
+sezonunda:1
+P:     sezon+Noun+A3sg+P3sg+Loc
+D:     sezon+Noun+A3sg+P2sg+Loc
+
+,:1
+P:     ,+Punc
+
+UEFA:1
+P:     UEFA+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası:1
+P:     kupa+Noun+A3sg+P3sg+Nom
+P:     kupa+Adj^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     kupası+Noun+Prop+A3sg+Pnon+Nom
+
+2.:1
+P:     2.+Num+Ord
+
+tur:1
+P:     tur+Noun+A3sg+Pnon+Nom
+
+rövanş:1
+P:     rövanş+Noun+A3sg+Pnon+Nom
+
+maçında:1
+P:     maç+Noun+A3sg+P3sg+Loc
+D:     maç+Noun+A3sg+P2sg+Loc
+
+,:1
+P:     ,+Punc
+
+Çek:5
+D:     çek+Noun+A3sg+Pnon+Nom
+D:     çek+Verb+Pos+Imp+A2sg
+D:     cek+Noun+Prop+A3sg+Pnon+Nom
+P:     çek+Adj
+D:     çek+Noun+Prop+A3sg+Pnon+Nom
+
+Cumhuriyeti'nden:1
+D:     cumhuriyet+Noun+Prop+A3sg+P3sg+Abl
+D:     cumhuriyet+Noun+Prop+A3sg+P2sg+Abl
+P:     Cumhuriyeti+Noun+Prop+A3sg+Pnon+Abl
+
+Sigma:1
+P:     sigma+Noun+Prop+A3sg+Pnon+Nom
+
+Olomouc'a:1
+P:     Olomouc+Noun+Prop+A3sg+Pnon+Dat
+P:     Olomouc+Adj^DB+Noun+Prop+Zero+A3sg+Pnon+Dat
+
+,:1
+P:     ,+Punc
+
+1-0:1
+P:     1-0+Num+Range
+
+kazandığı:1
+P:     kazan+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+P:     kazan+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+ilk:3
+D:     ilk+Noun+A3sg+Pnon+Nom
+D:     ilk+Adverb
+P:     ilk+Adj
+
+maçtan:1
+P:     maç+Noun+A3sg+Pnon+Abl
+
+sonra:3
+P:     sonra+Noun+A3sg+Pnon+Nom
+P:     sonra+Adverb
+D:     sonra+Postp
+
+7-1:1
+P:     7-1+Num+Range
+
+yenilerek:1
+P:     yen+Verb^DB+Verb+Pass+Pos^DB+Adverb+ByDoingSo
+
+,:1
+P:     ,+Punc
+
+2.:1
+P:     2.+Num+Ord
+
+kez:1
+P:     kez+Noun+A3sg+Pnon+Nom
+
+hezimeti:2
+P:     hezimet+Noun+A3sg+P3sg+Nom
+D:     hezimet+Noun+A3sg+Pnon+Acc
+
+yaşadı:1
+P:     yaşa+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Sarı:2
+P:     sarı+Noun+A3sg+Pnon+Nom
+P:     sarı+Adj
+
+-:1
+P:     -+Punc
+
+lacivertliler:3
+P:     lacivert+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     lacivert+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+P:     lacivert+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     lacivert+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+bunun:4
+D:     bun+Noun+A3sg+P2sg+Nom
+D:     bun+Noun+A3sg+Pnon+Gen
+D:     bun+Verb+Pos+Imp+A2pl
+P:     bu+Pron+A3sg+Pnon+Gen
+
+yanı sıra:1
+P:     yanı sıra+Postp
+
+,:1
+P:     ,+Punc
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+Şampiyon:1
+P:     şampiyon+Noun+A3sg+Pnon+Nom
+P:     şampiyon+Noun+Prop+A3sg+Pnon+Nom
+
+Kulüpler:1
+P:     kulüp+Noun+A3pl+Pnon+Nom
+D:     kulüp+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+D:     kulüpler+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası'nda:1
+P:     kupa+Noun+Prop+A3sg+P3sg+Loc
+D:     Kupası+Noun+Prop+A3sg+Pnon+Loc
+
+1978-79:1
+P:     1978-79+Num+Range
+
+sezonunda:1
+P:     sezon+Noun+A3sg+P3sg+Loc
+D:     sezon+Noun+A3sg+P2sg+Loc
+
+Hollanda'nın:2
+D:     hollanda+Noun+Prop+A3sg+P2sg+Gen
+P:     hollanda+Noun+Prop+A3sg+Pnon+Gen
+P:     hollanda'nın+Noun+Prop+A3sg+Pnon+Nom
+
+PSV:1
+P:     psv+Noun+Prop+A3sg+Pnon+Nom
+
+Eindhoven:1
+P:     eindhoven+Noun+Prop+A3sg+Pnon+Nom
+
+takımına:1
+P:     takım+Noun+A3sg+P3sg+Dat
+D:     takım+Noun+A3sg+P2sg+Dat
+
+deplasmanda:1
+P:     deplasman+Noun+A3sg+Pnon+Loc
+
+6-1:1
+P:     6-1+Num+Range
+
+sonuçla:1
+P:     sonuç+Noun+A3sg+Pnon+Ins
+D:     sonuçla+Verb+Pos+Imp+A2sg
+
+yenildi:1
+P:     yen+Verb^DB+Verb+Pass+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+21:1
+P:     21+Num+Card
+
+ülkeden:1
+P:     ülke+Noun+A3sg+Pnon+Abl
+
+42:1
+P:     42+Num+Card
+
+takım:2
+D:     takı+Noun+A3sg+P1sg+Nom
+P:     takım+Noun+A3sg+Pnon+Nom
+D:     tak+Noun+A3sg+P1sg+Nom
+D:     tak+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+
+.:1
+P:     .+Punc
+
+<S>
+.:1
+P:     .+Punc
+
+<S>
+.:1
+P:     .+Punc
+
+<S>
+Fenerbahçe:1
+P:     fenerbahçe+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+kupalarında:1
+P:     kupa+Noun+A3pl+P3sg+Loc
+D:     kupa+Noun+A3pl+P2sg+Loc
+D:     kupa+Noun+A3sg+P3pl+Loc
+D:     kupa+Noun+A3pl+P3pl+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P3sg+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P2sg+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3sg+P3pl+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P3pl+Loc
+
+bugüne:1
+P:     bugün+Noun+A3sg+Pnon+Dat
+
+dek:3
+P:     dek+Noun+A3sg+Pnon+Nom
+P:     dek+Adj
+P:     dek+Postp
+
+21:1
+P:     21+Num+Card
+
+ülkeden:1
+P:     ülke+Noun+A3sg+Pnon+Abl
+
+toplam:2
+D:     topla+Noun+A3sg+P1sg+Nom
+P:     toplam+Noun+A3sg+Pnon+Nom
+
+41:1
+P:     41+Num+Card
+
+değişik:2
+D:     değişik+Noun+A3sg+Pnon+Nom
+P:     değişik+Adj
+
+takımla:2
+D:     takı+Noun+A3sg+P1sg+Ins
+P:     takım+Noun+A3sg+Pnon+Ins
+D:     tak+Noun+A3sg+P1sg+Ins
+
+karşı:4
+D:     karşı+Noun+A3sg+Pnon+Nom
+D:     karşı+Adverb
+P:     karşı+Adj
+D:     karşı+Postp
+
+karşıya:2
+P:     karşı+Noun+A3sg+Pnon+Dat
+P:     karşı+Adj^DB+Noun+Zero+A3sg+Pnon+Dat
+
+geldi:1
+P:     gel+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Sarı:2
+P:     sarı+Noun+A3sg+Pnon+Nom
+P:     sarı+Adj
+
+-:1
+P:     -+Punc
+
+lacivertliler:3
+P:     lacivert+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     lacivert+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+P:     lacivert+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     lacivert+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+,:1
+P:     ,+Punc
+
+5'er:2
+P:     5'er+Noun+Prop+A3sg+Pnon+Nom
+D:     5'er+Noun+A3sg+Pnon+Nom
+
+kez:1
+P:     kez+Noun+A3sg+Pnon+Nom
+
+Macar:2
+P:     macar+Noun+A3sg+Pnon+Nom
+P:     macar+Noun+Prop+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+Fransız:1
+P:     fransız+Noun+Prop+A3sg+Pnon+Nom
+P:     fransız+Noun+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+4'er:2
+P:     4'er+Noun+Prop+A3sg+Pnon+Nom
+D:     4'er+Noun+A3sg+Pnon+Nom
+
+kez:1
+P:     kez+Noun+A3sg+Pnon+Nom
+
+İngiliz:2
+P:     ingiliz+Noun+A3sg+Pnon+Nom
+P:     ingiliz+Noun+Prop+A3sg+Pnon+Nom
+P:     ingiliz+Adj
+
+,:1
+P:     ,+Punc
+
+ve:1
+P:     ve+Conj
+
+İtalyan:2
+P:     italyan+Noun+A3sg+Pnon+Nom
+P:     italyan+Noun+Prop+A3sg+Pnon+Nom
+P:     italyan+Adj
+
+,:1
+P:     ,+Punc
+
+3'er:2
+P:     3'er+Noun+Prop+A3sg+Pnon+Nom
+D:     3'er+Noun+A3sg+Pnon+Nom
+
+kez:1
+P:     kez+Noun+A3sg+Pnon+Nom
+
+Hollanda:1
+P:     hollanda+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Rumen:2
+P:     rumen+Noun+A3sg+Pnon+Nom
+P:     rumen+Noun+Prop+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+Çek:5
+P:     çek+Noun+A3sg+Pnon+Nom
+D:     çek+Verb+Pos+Imp+A2sg
+P:     cek+Noun+Prop+A3sg+Pnon+Nom
+P:     çek+Adj
+P:     çek+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+2'şer:2
+P:     2'şer+Noun+Prop+A3sg+Pnon+Nom
+D:     2'şer+Noun+A3sg+Pnon+Nom
+
+kez:1
+P:     kez+Noun+A3sg+Pnon+Nom
+
+Alman:4
+P:     alman+Noun+A3sg+Pnon+Nom
+D:     al+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom
+P:     alman+Adj
+P:     alman+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Polonya:1
+P:     polonya+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Portekiz:1
+P:     portekiz+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Bulgar:2
+P:     bulgar+Noun+A3sg+Pnon+Nom
+P:     bulgar+Noun+Prop+A3sg+Pnon+Nom
+P:     bulgar+Adj
+
+ve:1
+P:     ve+Conj
+
+İsveç:1
+P:     isveç+Noun+Prop+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+İspanyol:2
+P:     ispanyol+Noun+A3sg+Pnon+Nom
+P:     ispanyol+Noun+Prop+A3sg+Pnon+Nom
+P:     ispanyol+Adj
+
+,:1
+P:     ,+Punc
+
+1'er:2
+P:     1'er+Noun+Prop+A3sg+Pnon+Nom
+D:     1'er+Noun+A3sg+Pnon+Nom
+
+kez:1
+P:     kez+Noun+A3sg+Pnon+Nom
+
+de:3
+D:     de+Noun+A3sg+Pnon+Nom
+D:     de+Verb+Pos+Imp+A2sg
+P:     de+Conj
+
+Arnavut:3
+P:     arnavut+Noun+A3sg+Pnon+Nom
+P:     arnavut+Adj
+P:     arnavut+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+İskoç:2
+P:     iskoç+Noun+A3sg+Pnon+Nom
+P:     iskoç+Noun+Prop+A3sg+Pnon+Nom
+P:     iskoç+Adj
+
+,:1
+P:     ,+Punc
+
+Azerbaycan:1
+P:     azerbaycan+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Belçika:1
+P:     belçika+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Lüksemburg:1
+P:     lüksemburg+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+İsrail:1
+P:     israil+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Avusturya:1
+P:     avusturya+Noun+Prop+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+İrlanda:1
+P:     irlanda+Noun+Prop+A3sg+Pnon+Nom
+
+Cumhuriyeti:3
+P:     cumhuriyet+Noun+A3sg+P3sg+Nom
+D:     cumhuriyet+Noun+A3sg+Pnon+Acc
+D:     cumhuriyeti+Noun+Prop+A3sg+Pnon+Nom
+
+takımlarıyla:3
+P:     takım+Noun+A3pl+P3sg+Ins
+D:     takım+Noun+A3sg+P3pl+Ins
+D:     takım+Noun+A3pl+P3pl+Ins
+
+eşleşti:2
+D:     eş+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos+Past+A3sg
+P:     eşle+Verb^DB+Verb+Recip+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Fenerbahçe:1
+P:     fenerbahçe+Noun+Prop+A3sg+Pnon+Nom
+
+ayrıca:3
+D:     ayrıca+Noun+A3sg+Pnon+Nom
+D:     ayrıç+Noun+A3sg+Pnon+Dat
+P:     ayrı+Adj^DB+Noun+Zero+A3sg+Pnon^DB+Adverb+Ly
+
+,:1
+P:     ,+Punc
+
+Polonya:1
+P:     polonya+Noun+Prop+A3sg+Pnon+Nom
+
+temsilcisi:1
+P:     temsil+Noun+A3sg+Pnon+Nom^DB+Noun+Agt+A3sg+P3sg+Nom
+
+Ruch:1
+P:     ruch+Noun+Prop+A3sg+Pnon+Nom
+
+Chorzow:1
+P:     chorzow+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Fransız:1
+P:     fransız+Noun+Prop+A3sg+Pnon+Nom
+P:     fransız+Noun+A3sg+Pnon+Nom
+
+takımı:2
+D:     takı+Noun+A3sg+P1sg+Acc
+P:     takım+Noun+A3sg+P3sg+Nom
+D:     takım+Noun+A3sg+Pnon+Acc
+D:     tak+Noun+A3sg+P1sg+Acc
+
+FC:1
+P:     fc+Noun+Prop+A3sg+Pnon+Nom
+
+Nice:3
+P:     nice+Adverb
+P:     nice+Adj
+P:     nice+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+İsveç:1
+P:     isveç+Noun+Prop+A3sg+Pnon+Nom
+
+ekibi:1
+P:     ekip+Noun+A3sg+P3sg+Nom
+D:     ekip+Noun+A3sg+Pnon+Acc
+
+IFK:1
+P:     ıfk+Noun+Prop+A3sg+Pnon+Nom
+
+Göteborg:1
+P:     göteborg+Noun+Prop+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+Macar:2
+P:     macar+Noun+A3sg+Pnon+Nom
+P:     macar+Noun+Prop+A3sg+Pnon+Nom
+
+temsilcisi:1
+P:     temsil+Noun+A3sg+Pnon+Nom^DB+Noun+Agt+A3sg+P3sg+Nom
+
+MTK:1
+P:     mtk+Noun+Prop+A3sg+Pnon+Nom
+
+Budapeşte:1
+P:     budapeşte+Noun+Prop+A3sg+Pnon+Nom
+
+ile:3
+D:     il+Noun+A3sg+Pnon+Dat
+P:     ile+Conj
+D:     ile+Postp
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+kupalarında:4
+P:     kupa+Noun+A3pl+P3sg+Loc
+D:     kupa+Noun+A3pl+P2sg+Loc
+D:     kupa+Noun+A3sg+P3pl+Loc
+D:     kupa+Noun+A3pl+P3pl+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P3sg+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P2sg+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3sg+P3pl+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P3pl+Loc
+
+2'şer:2
+P:     2'şer+Noun+Prop+A3sg+Pnon+Nom
+D:     2'şer+Noun+A3sg+Pnon+Nom
+
+kez:1
+P:     kez+Noun+A3sg+Pnon+Nom
+
+tur:1
+P:     tur+Noun+A3sg+Pnon+Nom
+
+için:4
+D:     iç+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+D:     iç+Adj^DB+Noun+Zero+A3sg+Pnon+Gen
+D:     iç+Verb+Pos+Imp+A2pl
+P:     için+Postp
+
+mücadele etti:1
+P:     mücadele et+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Gol:1
+P:     gol+Noun+A3sg+Pnon+Nom
+
+kralları:1
+P:     kral+Noun+A3pl+P3sg+Nom
+D:     kral+Noun+A3pl+Pnon+Acc
+D:     kral+Noun+A3sg+P3pl+Nom
+D:     kral+Noun+A3pl+P3pl+Nom
+D:     kral+Adj^DB+Noun+Zero+A3pl+P3sg+Nom
+D:     kral+Adj^DB+Noun+Zero+A3pl+Pnon+Acc
+D:     kral+Adj^DB+Noun+Zero+A3sg+P3pl+Nom
+D:     kral+Adj^DB+Noun+Zero+A3pl+P3pl+Nom
+
+Aykut:1
+P:     aykut+Noun+Prop+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+Cemil:3
+P:     cemil+Noun+A3sg+Pnon+Nom
+P:     cemil+Adj
+P:     cemil+Noun+Prop+A3sg+Pnon+Nom
+
+.:1
+P:     .+Punc
+
+<S>
+.:1
+P:     .+Punc
+
+<S>
+.:1
+P:     .+Punc
+
+<S>
+Fenerbahçe'nin:2
+D:     fenerbahçe+Noun+Prop+A3sg+P2sg+Gen
+P:     fenerbahçe+Noun+Prop+A3sg+Pnon+Gen
+P:     fenerbahçe'nin+Noun+Prop+A3sg+Pnon+Nom
+
+94:1
+P:     94+Num+Card
+
+yıllık:1
+P:     yıl+Noun+A3sg+Pnon+Nom^DB+Adj+FitFor
+D:     yıl+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom
+
+tarihinde:1
+P:     tarih+Noun+A3sg+P3sg+Loc
+D:     tarih+Noun+A3sg+P2sg+Loc
+D:     tarihi+Noun+A3sg+P2sg+Loc
+D:     tarihi+Adj^DB+Noun+Zero+A3sg+P2sg+Loc
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+kupalarında:3
+P:     kupa+Noun+A3pl+P3sg+Loc
+D:     kupa+Noun+A3pl+P2sg+Loc
+D:     kupa+Noun+A3sg+P3pl+Loc
+D:     kupa+Noun+A3pl+P3pl+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P3sg+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P2sg+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3sg+P3pl+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P3pl+Loc
+
+en:2
+D:     en+Noun+A3sg+Pnon+Nom
+P:     en+Adverb+AdjMdfy
+
+çok:2
+D:     çok+Adverb+AdjMdfy
+P:     çok+Adj
+
+golü:2
+P:     gol+Noun+A3sg+P3sg+Nom
+P:     gol+Noun+A3sg+Pnon+Acc
+
+Aykut:1
+P:     aykut+Noun+Prop+A3sg+Pnon+Nom
+
+Kocaman:4
+P:     kocaman+Noun+A3sg+Pnon+Nom
+D:     koca+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom
+D:     kocaman+Adj
+P:     kocaman+Noun+Prop+A3sg+Pnon+Nom
+
+ile:2
+D:     il+Noun+A3sg+Pnon+Dat
+P:     ile+Conj
+D:     ile+Postp
+
+Cemil:3
+P:     cemil+Noun+A3sg+Pnon+Nom
+D:     cemil+Adj
+P:     cemil+Noun+Prop+A3sg+Pnon+Nom
+
+Turan:3
+D:     tura+Noun+A3sg+P2sg+Nom
+P:     turan+Noun+A3sg+Pnon+Nom
+P:     turan+Noun+Prop+A3sg+Pnon+Nom
+
+attı:3
+P:     at+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     ad+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     at+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Halen:3
+D:     hale+Noun+A3sg+P2sg+Nom
+D:     halen+Noun+A3sg+Pnon+Nom
+P:     halen+Adverb
+
+aktif:2
+D:     aktif+Noun+A3sg+Pnon+Nom
+P:     aktif+Adj
+
+futbol:1
+P:     futbol+Noun+A3sg+Pnon+Nom
+
+içinde:1
+P:     iç+Adj^DB+Noun+Zero+A3sg+P3sg+Loc
+D:     iç+Adj^DB+Noun+Zero+A3sg+P2sg+Loc
+D:     içinde+Adverb
+
+yer almayan:1
+P:     yer al+Verb+Neg^DB+Adj+PresPart
+
+her:1
+P:     her+Adj
+
+iki:1
+D:     iki+Num+Card
+P:     iki+Noun+A3sg+Pnon+Nom
+D:     iki+Adj
+
+futbolcu:1
+P:     futbol+Noun+A3sg+Pnon+Nom^DB+Noun+Agt+A3sg+Pnon+Nom
+P:     futbol+Noun+A3sg+Pnon+Nom^DB+Adj+Agt
+
+da:1
+P:     de+Conj
+
+Avrupa'da:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Loc
+P:     avrupa'da+Noun+Prop+A3sg+Pnon+Nom
+
+rakip:1
+P:     rakip+Noun+A3sg+Pnon+Nom
+D:     rakip+Adj
+
+fileleri:2
+P:     file+Noun+A3pl+P3sg+Nom
+D:     file+Noun+A3pl+Pnon+Acc
+D:     file+Noun+A3sg+P3pl+Nom
+D:     file+Noun+A3pl+P3pl+Nom
+
+8'er:2
+P:     8'er+Noun+Prop+A3sg+Pnon+Nom
+D:     8'er+Noun+A3sg+Pnon+Nom
+
+kez:1
+P:     kez+Noun+A3sg+Pnon+Nom
+
+havalandırdı:1
+P:     hava+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire^DB+Verb+Caus+Pos+Past+A3sg
+P:     hava+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Acquire^DB+Verb+Caus+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Bu:2
+D:     bu+Pron+A3sg+Pnon+Nom
+P:     bu+Adj
+
+ikiliyi:1
+P:     iki+Num+Card^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Acc
+P:     iki+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Acc
+P:     iki+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Acc
+
+5:1
+P:     5+Num+Card
+
+golle:1
+P:     gol+Noun+A3sg+Pnon+Ins
+
+Ogün:1
+P:     ogün+Noun+Prop+A3sg+Pnon+Nom
+
+Altıparmak:2
+P:     altıparmak+Noun+A3sg+Pnon+Nom
+P:     altıparmak+Noun+Prop+A3sg+Pnon+Nom
+
+izliyor:1
+P:     izle+Verb+Pos+Prog1+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Sarı:2
+D:     sarı+Noun+A3sg+Pnon+Nom
+P:     sarı+Adj
+
+kanaryaların:2
+D:     kanarya+Noun+A3pl+P2sg+Nom
+P:     kanarya+Noun+A3pl+Pnon+Gen
+
+Alman:4
+D:     alman+Noun+A3sg+Pnon+Nom
+D:     al+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom
+P:     alman+Adj
+D:     alman+Noun+Prop+A3sg+Pnon+Nom
+
+takımlarına:4
+D:     takım+Noun+A3pl+P3sg+Dat
+D:     takım+Noun+A3pl+P2sg+Dat
+D:     takım+Noun+A3sg+P3pl+Dat
+P:     takım+Noun+A3pl+P3pl+Dat
+
+karşı:4
+P:     karşı+Noun+A3sg+Pnon+Nom
+D:     karşı+Adverb
+D:     karşı+Adj
+D:     karşı+Postp
+
+galibiyeti:1
+P:     galibiyet+Noun+A3sg+P3sg+Nom
+D:     galibiyet+Noun+A3sg+Pnon+Acc
+
+yok:1
+D:     yok+Noun+A3sg+Pnon+Nom
+D:     yok+Adverb
+P:     yok+Adj
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+Şampiyonlar:1
+P:     şampiyon+Noun+A3pl+Pnon+Nom
+D:     şampiyon+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+D:     şampiyonlar+Noun+Prop+A3sg+Pnon+Nom
+
+Ligi'nde:1
+P:     lig+Noun+Prop+A3sg+P3sg+Loc
+D:     lig+Noun+Prop+A3sg+P2sg+Loc
+D:     Ligi+Noun+Prop+A3sg+Pnon+Loc
+
+yarın:6
+D:     yar+Noun+A3sg+P2sg+Nom
+P:     yar+Noun+A3sg+Pnon+Gen
+D:     yarı+Noun+A3sg+P2sg+Nom
+P:     yarın+Noun+A3sg+Pnon+Nom
+D:     yar+Verb+Pos+Imp+A2pl
+P:     yarın+Adverb
+D:     yarı+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+
+Bayer:1
+P:     bayer+Noun+Prop+A3sg+Pnon+Nom
+
+Leverkusen:1
+P:     leverkusen+Noun+Prop+A3sg+Pnon+Nom
+
+ile:2
+P:     il+Noun+A3sg+Pnon+Dat
+P:     ile+Conj
+P:     ile+Postp
+
+kendi:2
+D:     ke+Noun+A3sg+P2sg+Nom^DB+Verb+Zero+Past+A3sg
+P:     kendi+Pron+Reflex+A3sg+P3sg+Nom
+
+sahasında:1
+P:     saha+Noun+A3sg+P3sg+Loc
+
+karşılaşacak:4
+P:     karşı+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Adj+FutPart
+D:     karşı+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos+Fut+A3sg
+P:     karşı+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Adj+FutPart
+D:     karşı+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Become+Pos+Fut+A3sg
+
+Fenerbahçe:1
+P:     fenerbahçe+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Alman:4
+P:     alman+Noun+A3sg+Pnon+Nom
+D:     al+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom
+D:     alman+Adj
+P:     alman+Noun+Prop+A3sg+Pnon+Nom
+
+takımlarıyla:1
+P:     takım+Noun+A3pl+P3sg+Ins
+D:     takım+Noun+A3sg+P3pl+Ins
+D:     takım+Noun+A3pl+P3pl+Ins
+
+6.:1
+P:     6.+Num+Ord
+
+maçına:1
+P:     maç+Noun+A3sg+P3sg+Dat
+D:     maç+Noun+A3sg+P2sg+Dat
+
+çıkıyor:1
+P:     çık+Verb+Pos+Prog1+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Sarı:2
+P:     sarı+Noun+A3sg+Pnon+Nom
+P:     sarı+Adj
+
+-:1
+P:     -+Punc
+
+lacivertliler:3
+P:     lacivert+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     lacivert+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+P:     lacivert+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     lacivert+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+,:1
+P:     ,+Punc
+
+1959:1
+P:     1959+Num+Card
+
+yılında:1
+P:     yıl+Noun+A3sg+P3sg+Loc
+D:     yıl+Noun+A3sg+P2sg+Loc
+
+başlayan:1
+P:     başla+Verb+Pos^DB+Adj+PresPart
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+serüveninde:1
+P:     serüven+Noun+A3sg+P3sg+Loc
+D:     serüven+Noun+A3sg+P2sg+Loc
+
+Alman:4
+P:     alman+Noun+A3sg+Pnon+Nom
+D:     al+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom
+D:     alman+Adj
+P:     alman+Noun+Prop+A3sg+Pnon+Nom
+
+takımlarıyla:1
+P:     takım+Noun+A3pl+P3sg+Ins
+D:     takım+Noun+A3sg+P3pl+Ins
+D:     takım+Noun+A3pl+P3pl+Ins
+
+yaptığı:1
+P:     yap+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+P:     yap+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+5:1
+P:     5+Num+Card
+
+maçta:1
+P:     maç+Noun+A3sg+Pnon+Loc
+
+galibiyet:1
+P:     galibiyet+Noun+A3sg+Pnon+Nom
+
+yüzü:3
+P:     yüz+Num+Card^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     yüz+Num+Card^DB+Noun+Zero+A3sg+Pnon+Acc
+P:     yüz+Noun+A3sg+P3sg+Nom
+D:     yüz+Noun+A3sg+Pnon+Acc
+P:     yüz+Adj^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     yüz+Adj^DB+Noun+Zero+A3sg+Pnon+Acc
+
+göremedi:1
+P:     gör+Verb^DB+Verb+AbleNeg+Neg+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Şampiyon:2
+P:     şampiyon+Noun+A3sg+Pnon+Nom
+D:     şampiyon+Noun+Prop+A3sg+Pnon+Nom
+
+Kulüpler:1
+P:     kulüp+Noun+A3pl+Pnon+Nom
+D:     kulüp+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+D:     kulüpler+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası:1
+P:     kupa+Noun+A3sg+P3sg+Nom
+D:     kupa+Adj^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     kupası+Noun+Prop+A3sg+Pnon+Nom
+
+1.:1
+P:     1.+Num+Ord
+
+turunda:1
+P:     tur+Noun+A3sg+P3sg+Loc
+D:     tur+Noun+A3sg+P2sg+Loc
+
+1961:1
+P:     1961+Num+Card
+
+yılında:1
+P:     yıl+Noun+A3sg+P3sg+Loc
+D:     yıl+Noun+A3sg+P2sg+Loc
+
+Federal:2
+D:     federal+Noun+A3sg+Pnon+Nom
+P:     federal+Adj
+D:     federal+Noun+Prop+A3sg+Pnon+Nom
+
+Almanya'nın:2
+D:     almanya+Noun+Prop+A3sg+P2sg+Gen
+P:     almanya+Noun+Prop+A3sg+Pnon+Gen
+D:     almanya'nın+Noun+Prop+A3sg+Pnon+Nom
+
+FC:1
+P:     fc+Noun+Prop+A3sg+Pnon+Nom
+
+Nürnberg:1
+P:     nürnberg+Noun+Prop+A3sg+Pnon+Nom
+
+takımıyla:1
+P:     takım+Noun+A3sg+P3sg+Ins
+
+karşılaşan:2
+P:     karşı+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Adj+PresPart
+P:     karşı+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Adj+PresPart
+
+Fenerbahçe:1
+P:     fenerbahçe+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Alman:4
+P:     alman+Noun+A3sg+Pnon+Nom
+D:     al+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom
+D:     alman+Adj
+P:     alman+Noun+Prop+A3sg+Pnon+Nom
+
+ekiplerine:1
+P:     ekip+Noun+A3pl+P3sg+Dat
+D:     ekip+Noun+A3pl+P2sg+Dat
+D:     ekip+Noun+A3sg+P3pl+Dat
+D:     ekip+Noun+A3pl+P3pl+Dat
+
+karşı:4
+D:     karşı+Noun+A3sg+Pnon+Nom
+D:     karşı+Adverb
+P:     karşı+Adj
+D:     karşı+Postp
+
+tek:3
+P:     tek+Noun+A3sg+Pnon+Nom
+D:     tek+Adverb
+D:     tek+Adj
+
+golünü:1
+P:     gol+Noun+A3sg+P3sg+Acc
+D:     gol+Noun+A3sg+P2sg+Acc
+
+de:3
+D:     de+Noun+A3sg+Pnon+Nom
+D:     de+Verb+Pos+Imp+A2sg
+P:     de+Conj
+
+İstanbul'daki:1
+P:     istanbul+Noun+Prop+A3sg+Pnon+Loc^DB+Adj+Rel
+D:     istanbul'daki+Noun+Prop+A3sg+Pnon+Nom
+
+maçta:1
+P:     maç+Noun+A3sg+Pnon+Loc
+
+attı:3
+P:     at+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     ad+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     at+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Kendi:2
+D:     ke+Noun+A3sg+P2sg+Nom^DB+Verb+Zero+Past+A3sg
+P:     kendi+Pron+Reflex+A3sg+P3sg+Nom
+
+sahasında:1
+P:     saha+Noun+A3sg+P3sg+Loc
+
+rakibine:1
+P:     rakip+Noun+A3sg+P3sg+Dat
+D:     rakip+Noun+A3sg+P2sg+Dat
+
+2-1:1
+P:     2-1+Num+Range
+
+yenilen:1
+P:     yen+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+D:     yenile+Verb^DB+Verb+Pass+Pos+Imp+A2sg
+D:     yeni+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Imp+A2sg
+
+sarı:2
+P:     sarı+Noun+A3sg+Pnon+Nom
+D:     sarı+Adj
+
+-:1
+P:     -+Punc
+
+lacivertliler:3
+P:     lacivert+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     lacivert+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+P:     lacivert+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     lacivert+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+,:1
+P:     ,+Punc
+
+deplasmanda:1
+P:     deplasman+Noun+A3sg+Pnon+Loc
+
+da:1
+P:     de+Conj
+
+1-0:1
+P:     1-0+Num+Range
+
+mağlup:1
+P:     mağlup+Noun+A3sg+Pnon+Nom
+P:     mağlup+Adj
+
+olarak:1
+P:     ol+Verb+Pos^DB+Adverb+ByDoingSo
+
+,:1
+P:     ,+Punc
+
+kupaya:1
+P:     kupa+Noun+A3sg+Pnon+Dat
+P:     kupa+Adj^DB+Noun+Zero+A3sg+Pnon+Dat
+
+ilk:3
+D:     ilk+Noun+A3sg+Pnon+Nom
+D:     ilk+Adverb
+P:     ilk+Adj
+
+turda:1
+P:     tur+Noun+A3sg+Pnon+Loc
+
+veda etti:1
+P:     veda et+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+1970:1
+P:     1970+Num+Card
+
+yılında:1
+P:     yıl+Noun+A3sg+P3sg+Loc
+D:     yıl+Noun+A3sg+P2sg+Loc
+
+da:1
+P:     de+Conj
+
+yine:1
+P:     yine+Adverb
+
+Şampiyon:1
+P:     şampiyon+Noun+A3sg+Pnon+Nom
+P:     şampiyon+Noun+Prop+A3sg+Pnon+Nom
+
+Kulüpler:1
+P:     kulüp+Noun+A3pl+Pnon+Nom
+D:     kulüp+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+D:     kulüpler+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası:1
+P:     kupa+Noun+A3sg+P3sg+Nom
+D:     kupa+Adj^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     kupası+Noun+Prop+A3sg+Pnon+Nom
+
+1.:1
+P:     1.+Num+Ord
+
+turunda:1
+P:     tur+Noun+A3sg+P3sg+Loc
+D:     tur+Noun+A3sg+P2sg+Loc
+
+Doğu:5
+D:     doğu+Noun+A3sg+Pnon+Nom
+D:     dok+Noun+A3sg+P3sg+Nom
+D:     dok+Noun+A3sg+Pnon+Acc
+D:     doğu+Noun+Prop+A3sg+Pnon+Nom
+P:     doğu+Adj
+
+Almanya'nın:2
+D:     almanya+Noun+Prop+A3sg+P2sg+Gen
+P:     almanya+Noun+Prop+A3sg+Pnon+Gen
+D:     almanya'nın+Noun+Prop+A3sg+Pnon+Nom
+
+Carl:1
+P:     carl+Noun+Prop+A3sg+Pnon+Nom
+
+Zeiss:1
+P:     zeiss+Noun+Prop+A3sg+Pnon+Nom
+
+Jena:1
+P:     jena+Noun+Prop+A3sg+Pnon+Nom
+
+takımıyla:1
+P:     takım+Noun+A3sg+P3sg+Ins
+
+karşı:4
+D:     karşı+Noun+A3sg+Pnon+Nom
+D:     karşı+Adverb
+P:     karşı+Adj
+D:     karşı+Postp
+
+karşıya:2
+P:     karşı+Noun+A3sg+Pnon+Dat
+P:     karşı+Adj^DB+Noun+Zero+A3sg+Pnon+Dat
+
+gelen:3
+D:     ge+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Imp+A2sg
+D:     gele+Noun+A3sg+P2sg+Nom
+D:     gel+Verb+Pos^DB+Adj+PresPart
+P:     gelen+Adj
+
+Fenerbahçe:1
+P:     fenerbahçe+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+iki:1
+D:     iki+Num+Card
+D:     iki+Noun+A3sg+Pnon+Nom
+P:     iki+Adj
+
+maçta:1
+P:     maç+Noun+A3sg+Pnon+Loc
+
+kalesinde:1
+P:     kale+Noun+A3sg+P3sg+Loc
+
+5:1
+P:     5+Num+Card
+
+gol:1
+P:     gol+Noun+A3sg+Pnon+Nom
+
+gördü:1
+P:     gör+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+İstanbul'da:1
+D:     istanbul+Noun+Prop+A3sg+Pnon+Loc
+P:     istanbul'da+Noun+Prop+A3sg+Pnon+Nom
+
+rakibine:1
+P:     rakip+Noun+A3sg+P3sg+Dat
+D:     rakip+Noun+A3sg+P2sg+Dat
+
+4-0:1
+P:     4-0+Num+Range
+
+gibi:2
+P:     gibi+Adverb
+P:     gibi+Postp
+
+farklı:1
+P:     fark+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+bir:1
+D:     bir+Num+Card
+D:     bir+Noun+A3sg+Pnon+Nom
+D:     bir+Adverb
+P:     bir+Adj
+
+skorla:1
+P:     skor+Noun+A3sg+Pnon+Ins
+
+mağlup:1
+D:     mağlup+Noun+A3sg+Pnon+Nom
+P:     mağlup+Adj
+
+olan:1
+P:     ol+Verb+Pos^DB+Adj+PresPart
+
+sarı:2
+P:     sarı+Noun+A3sg+Pnon+Nom
+D:     sarı+Adj
+
+-:1
+P:     -+Punc
+
+lacivertliler:3
+P:     lacivert+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     lacivert+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+P:     lacivert+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     lacivert+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+,:1
+P:     ,+Punc
+
+deplasmandaki:1
+P:     deplasman+Noun+A3sg+Pnon+Loc^DB+Adj+Rel
+
+maçta:1
+P:     maç+Noun+A3sg+Pnon+Loc
+
+da:1
+P:     de+Conj
+
+1-0:1
+P:     1-0+Num+Range
+
+yenilerek:1
+P:     yen+Verb^DB+Verb+Pass+Pos^DB+Adverb+ByDoingSo
+
+,:1
+P:     ,+Punc
+
+elenmekten:1
+P:     ele+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf1+A3sg+Pnon+Abl
+
+kurtulamadı:1
+P:     kurtul+Verb^DB+Verb+AbleNeg+Neg+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+İlk:3
+P:     ilk+Noun+A3sg+Pnon+Nom
+D:     ilk+Adverb
+D:     ilk+Adj
+
+maçı:2
+P:     maç+Noun+A3sg+P3sg+Nom
+D:     maç+Noun+A3sg+Pnon+Acc
+
+kaybetti:1
+P:     kaybet+Verb+Pos+Past+A3sg
+
+Fenerbahçe:1
+P:     fenerbahçe+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+iki:1
+D:     iki+Num+Card
+D:     iki+Noun+A3sg+Pnon+Nom
+P:     iki+Adj
+
+Almanya'nın:2
+D:     almanya+Noun+Prop+A3sg+P2sg+Gen
+P:     almanya+Noun+Prop+A3sg+Pnon+Gen
+D:     almanya'nın+Noun+Prop+A3sg+Pnon+Nom
+
+birleşmesinden:3
+P:     bir+Num+Card^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf2+A3sg+P3sg+Abl
+P:     bir+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf2+A3sg+P3sg+Abl
+P:     birleş+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Abl
+P:     bir+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf2+A3sg+P3sg+Abl
+
+sonra:3
+P:     sonra+Noun+A3sg+Pnon+Nom
+P:     sonra+Adverb
+D:     sonra+Postp
+
+bu:2
+D:     bu+Pron+A3sg+Pnon+Nom
+P:     bu+Adj
+
+sezon:1
+P:     sezon+Noun+A3sg+Pnon+Nom
+
+ilk:3
+D:     ilk+Noun+A3sg+Pnon+Nom
+D:     ilk+Adverb
+P:     ilk+Adj
+
+kez:1
+P:     kez+Noun+A3sg+Pnon+Nom
+
+bir:1
+D:     bir+Num+Card
+D:     bir+Noun+A3sg+Pnon+Nom
+D:     bir+Adverb
+P:     bir+Adj
+
+Alman:4
+P:     alman+Noun+A3sg+Pnon+Nom
+D:     al+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom
+D:     alman+Adj
+P:     alman+Noun+Prop+A3sg+Pnon+Nom
+
+takımıyla:1
+P:     takım+Noun+A3sg+P3sg+Ins
+
+Şampiyonlar:1
+P:     şampiyon+Noun+A3pl+Pnon+Nom
+D:     şampiyon+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+D:     şampiyonlar+Noun+Prop+A3sg+Pnon+Nom
+
+Ligi'nde:1
+P:     lig+Noun+Prop+A3sg+P3sg+Loc
+D:     lig+Noun+Prop+A3sg+P2sg+Loc
+D:     Ligi+Noun+Prop+A3sg+Pnon+Loc
+
+aynı:4
+D:     ayn+Noun+A3sg+P3sg+Nom
+D:     ayn+Noun+A3sg+Pnon+Acc
+D:     aynı+Noun+A3sg+Pnon+Nom
+P:     aynı+Adj
+
+grupta:1
+P:     grup+Noun+A3sg+Pnon+Loc
+
+yer aldı:1
+P:     yer al+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Sarı:2
+P:     sarı+Noun+A3sg+Pnon+Nom
+P:     sarı+Adj
+
+-:1
+P:     -+Punc
+
+lacivertliler:3
+P:     lacivert+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     lacivert+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+P:     lacivert+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     lacivert+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+,:1
+P:     ,+Punc
+
+ABD'ye:1
+P:     ABD+Noun+Prop+A3sg+Pnon+Dat
+P:     abd'ye+Noun+Prop+A3sg+Pnon+Nom
+
+yapılan:2
+D:     yapı+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Imp+A2sg
+P:     yap+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+
+terör:1
+P:     terör+Noun+A3sg+Pnon+Nom
+
+saldırısı:1
+P:     saldırı+Noun+A3sg+P3sg+Nom
+
+nedeniyle:1
+P:     neden+Noun+A3sg+P3sg+Ins
+D:     nedeniyle+Adverb
+
+ertelenen:2
+P:     erte+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos^DB+Adj+PresPart
+P:     ertele+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+
+ve:1
+P:     ve+Conj
+
+10:1
+P:     10+Num+Card
+
+Ekim'de:1
+P:     ekim+Noun+Prop+A3sg+Pnon+Loc
+P:     Ekim+Noun+Prop+A3sg+Pnon+Loc
+
+yapılan:2
+D:     yapı+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Imp+A2sg
+P:     yap+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+
+ilk:3
+D:     ilk+Noun+A3sg+Pnon+Nom
+D:     ilk+Adverb
+P:     ilk+Adj
+
+maçta:1
+P:     maç+Noun+A3sg+Pnon+Loc
+
+Almanya'da:1
+P:     almanya+Noun+Prop+A3sg+Pnon+Loc
+P:     almanya'da+Noun+Prop+A3sg+Pnon+Nom
+
+1-0:1
+P:     1-0+Num+Range
+
+öne:1
+P:     ön+Noun+A3sg+Pnon+Dat
+P:     ön+Adj^DB+Noun+Zero+A3sg+Pnon+Dat
+
+geçmesine:1
+P:     geç+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Dat
+
+rağmen:2
+P:     rağmen+Adverb
+P:     rağmen+Postp
+
+,:1
+P:     ,+Punc
+
+Bayer:1
+P:     bayer+Noun+Prop+A3sg+Pnon+Nom
+
+Leverkusen'e:1
+P:     leverkusen+Noun+Prop+A3sg+Pnon+Dat
+P:     leverkusen'e+Noun+Prop+A3sg+Pnon+Nom
+
+2-1:1
+P:     2-1+Num+Range
+
+yenilmişti:2
+P:     yen+Verb^DB+Verb+Pass+Pos^DB+Adj+Zero^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     yen+Verb^DB+Verb+Pass+Pos+Narr+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+kupalarında:1
+P:     kupa+Noun+A3pl+P3sg+Loc
+D:     kupa+Noun+A3pl+P2sg+Loc
+D:     kupa+Noun+A3sg+P3pl+Loc
+D:     kupa+Noun+A3pl+P3pl+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P3sg+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P2sg+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3sg+P3pl+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3pl+P3pl+Loc
+
+Türk:2
+P:     türk+Noun+A3sg+Pnon+Nom
+P:     türk+Noun+Prop+A3sg+Pnon+Nom
+
+-:1
+P:     -+Punc
+
+Alman:4
+P:     alman+Noun+A3sg+Pnon+Nom
+D:     al+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom
+D:     alman+Adj
+P:     alman+Noun+Prop+A3sg+Pnon+Nom
+
+takımlarının:1
+P:     takım+Noun+A3pl+P3sg+Gen
+D:     takım+Noun+A3pl+P2sg+Gen
+D:     takım+Noun+A3sg+P3pl+Gen
+D:     takım+Noun+A3pl+P3pl+Gen
+
+maçları:4
+D:     maç+Noun+A3pl+P3sg+Nom
+D:     maç+Noun+A3pl+Pnon+Acc
+D:     maç+Noun+A3sg+P3pl+Nom
+P:     maç+Noun+A3pl+P3pl+Nom
+
+.:1
+P:     .+Punc
+
+<S>
+.:1
+P:     .+Punc
+
+<S>
+.:1
+P:     .+Punc
+
+<S>
+Fenerbahçe'nin:2
+D:     fenerbahçe+Noun+Prop+A3sg+P2sg+Gen
+P:     fenerbahçe+Noun+Prop+A3sg+Pnon+Gen
+P:     fenerbahçe'nin+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Bayer:1
+P:     bayer+Noun+Prop+A3sg+Pnon+Nom
+
+04:1
+P:     04+Num+Card
+
+Leverkusen:1
+P:     leverkusen+Noun+Prop+A3sg+Pnon+Nom
+
+ile:3
+D:     il+Noun+A3sg+Pnon+Dat
+P:     ile+Conj
+D:     ile+Postp
+
+yarın:6
+D:     yar+Noun+A3sg+P2sg+Nom
+D:     yar+Noun+A3sg+Pnon+Gen
+D:     yarı+Noun+A3sg+P2sg+Nom
+P:     yarın+Noun+A3sg+Pnon+Nom
+D:     yar+Verb+Pos+Imp+A2pl
+D:     yarın+Adverb
+D:     yarı+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+
+yapacağı:1
+P:     yap+Verb+Pos^DB+Adj+FutPart^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     yap+Verb+Pos^DB+Adj+FutPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+Şampiyonlar:1
+D:     şampiyon+Noun+A3pl+Pnon+Nom
+D:     şampiyon+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+P:     şampiyonlar+Noun+Prop+A3sg+Pnon+Nom
+
+Ligi:1
+P:     lig+Noun+A3sg+P3sg+Nom
+D:     lig+Noun+A3sg+Pnon+Acc
+D:     ligi+Noun+Prop+A3sg+Pnon+Nom
+
+maçı:1
+P:     maç+Noun+A3sg+P3sg+Nom
+D:     maç+Noun+A3sg+Pnon+Acc
+
+ile:3
+D:     il+Noun+A3sg+Pnon+Dat
+D:     ile+Conj
+P:     ile+Postp
+
+birlikte:7
+D:     bir+Num+Card^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Loc
+D:     bir+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Loc
+D:     birlik+Noun+A3sg+Pnon+Loc
+P:     birlikte+Noun+A3sg+Pnon+Nom
+P:     birlikte+Adverb
+D:     bir+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Loc
+D:     birlikte+Postp
+
+Türk:2
+P:     türk+Noun+A3sg+Pnon+Nom
+P:     türk+Noun+Prop+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+Alman:4
+P:     alman+Noun+A3sg+Pnon+Nom
+D:     al+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom
+D:     alman+Adj
+P:     alman+Noun+Prop+A3sg+Pnon+Nom
+
+takımları:1
+P:     takım+Noun+A3pl+P3sg+Nom
+D:     takım+Noun+A3pl+Pnon+Acc
+D:     takım+Noun+A3sg+P3pl+Nom
+D:     takım+Noun+A3pl+P3pl+Nom
+
+40.:1
+P:     40.+Num+Ord
+
+kez:1
+P:     kez+Noun+A3sg+Pnon+Nom
+
+karşı:4
+D:     karşı+Noun+A3sg+Pnon+Nom
+D:     karşı+Adverb
+P:     karşı+Adj
+D:     karşı+Postp
+
+karşıya:2
+P:     karşı+Noun+A3sg+Pnon+Dat
+P:     karşı+Adj^DB+Noun+Zero+A3sg+Pnon+Dat
+
+gelecek:3
+D:     gelecek+Adj
+D:     gel+Verb+Pos^DB+Adj+FutPart
+P:     gel+Verb+Pos+Fut+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Şimdiye:1
+P:     şimdi+Noun+A3sg+Pnon+Dat
+
+kadar:2
+P:     kadar+Adverb+AdjMdfy
+P:     kadar+Postp
+
+iki:1
+D:     iki+Num+Card
+D:     iki+Noun+A3sg+Pnon+Nom
+P:     iki+Adj
+
+ülke:1
+P:     ülke+Noun+A3sg+Pnon+Nom
+
+takımları:1
+P:     takım+Noun+A3pl+P3sg+Nom
+D:     takım+Noun+A3pl+Pnon+Acc
+D:     takım+Noun+A3sg+P3pl+Nom
+D:     takım+Noun+A3pl+P3pl+Nom
+
+arasında:1
+P:     ara+Adj^DB+Noun+Zero+A3sg+P3sg+Loc
+P:     ara+Noun+A3sg+P3sg+Loc
+
+oynanan:1
+P:     oyna+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+P:     oynan+Verb+Pos^DB+Adj+PresPart
+
+39:1
+P:     39+Num+Card
+
+Avrupa:1
+P:     avrupa+Noun+Prop+A3sg+Pnon+Nom
+
+kupası:1
+P:     kupa+Noun+A3sg+P3sg+Nom
+D:     kupa+Adj^DB+Noun+Zero+A3sg+P3sg+Nom
+
+maçından:1
+P:     maç+Noun+A3sg+P3sg+Abl
+D:     maç+Noun+A3sg+P2sg+Abl
+
+24'ünü:1
+P:     24+Num+Card^DB+Noun+Zero+A3sg+P3sg+Acc
+D:     24+Num+Card^DB+Noun+Zero+A3sg+P2sg+Acc
+
+Alman:4
+P:     alman+Noun+A3sg+Pnon+Nom
+D:     al+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom
+P:     alman+Adj
+P:     alman+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+6'sını:1
+P:     6+Num+Card^DB+Noun+Zero+A3sg+P3sg+Acc
+
+ise:3
+D:     is+Noun+A3sg+Pnon+Dat
+D:     i+Verb+Pos+Desr+A3sg
+P:     ise+Conj
+
+Türk:2
+P:     türk+Noun+A3sg+Pnon+Nom
+P:     türk+Noun+Prop+A3sg+Pnon+Nom
+
+takımları:1
+P:     takım+Noun+A3pl+P3sg+Nom
+D:     takım+Noun+A3pl+Pnon+Acc
+D:     takım+Noun+A3sg+P3pl+Nom
+D:     takım+Noun+A3pl+P3pl+Nom
+
+kazanırken:1
+P:     kazan+Verb+Pos+Aor+A3sg^DB+Adverb+While
+
+,:1
+P:     ,+Punc
+
+9:1
+P:     9+Num+Card
+
+maç:1
+P:     maç+Noun+A3sg+Pnon+Nom
+
+da:1
+P:     de+Conj
+
+berabere:1
+P:     beraber+Noun+A3sg+Pnon+Dat
+P:     beraber+Adj^DB+Noun+Zero+A3sg+Pnon+Dat
+
+sonuçlandı:2
+D:     sonuç+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Past+A3sg
+P:     sonuçla+Verb^DB+Verb+Pass+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Bu:2
+D:     bu+Pron+A3sg+Pnon+Nom
+P:     bu+Adj
+
+maçlarda:1
+P:     maç+Noun+A3pl+Pnon+Loc
+
+Türk:2
+P:     türk+Noun+A3sg+Pnon+Nom
+P:     türk+Noun+Prop+A3sg+Pnon+Nom
+
+takımlarının:1
+P:     takım+Noun+A3pl+P3sg+Gen
+D:     takım+Noun+A3pl+P2sg+Gen
+D:     takım+Noun+A3sg+P3pl+Gen
+D:     takım+Noun+A3pl+P3pl+Gen
+
+34:1
+P:     34+Num+Card
+
+golüne:1
+P:     gol+Noun+A3sg+P3sg+Dat
+D:     gol+Noun+A3sg+P2sg+Dat
+
+,:1
+P:     ,+Punc
+
+Alman:4
+P:     alman+Noun+A3sg+Pnon+Nom
+D:     al+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom
+D:     alman+Adj
+P:     alman+Noun+Prop+A3sg+Pnon+Nom
+
+takımları:1
+P:     takım+Noun+A3pl+P3sg+Nom
+D:     takım+Noun+A3pl+Pnon+Acc
+D:     takım+Noun+A3sg+P3pl+Nom
+D:     takım+Noun+A3pl+P3pl+Nom
+
+83:1
+P:     83+Num+Card
+
+golle:1
+P:     gol+Noun+A3sg+Pnon+Ins
+
+cevap:1
+P:     cevap+Noun+A3sg+Pnon+Nom
+
+verdi:2
+D:     verdi+Noun+A3sg+Pnon+Nom
+P:     ver+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+16:1
+P:     16+Num+Card
+
+eşleşmede:3
+P:     eş+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf2+A3sg+Pnon+Loc
+D:     eş+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos+ASPECT*PR-CONT+A3sg
+P:     eşle+Verb^DB+Verb+Recip+Pos^DB+Noun+Inf2+A3sg+Pnon+Loc
+P:     eşle+Verb^DB+Verb+Recip+Pos+ASPECT*PR-CONT+A3sg
+
+2:1
+P:     2+Num+Card
+
+tur:1
+P:     tur+Noun+A3sg+Pnon+Nom
+
+.:1
+P:     .+Punc
+
+<S>
+.:1
+P:     .+Punc
+
+<S>
+.:1
+P:     .+Punc
+
+<S>
+Türk:2
+P:     türk+Noun+A3sg+Pnon+Nom
+P:     türk+Noun+Prop+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+Alman:4
+P:     alman+Noun+A3sg+Pnon+Nom
+D:     al+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom
+D:     alman+Adj
+P:     alman+Noun+Prop+A3sg+Pnon+Nom
+
+takımları:4
+P:     takım+Noun+A3pl+P3sg+Nom
+D:     takım+Noun+A3pl+Pnon+Acc
+D:     takım+Noun+A3sg+P3pl+Nom
+D:     takım+Noun+A3pl+P3pl+Nom
+
+şimdiye:1
+P:     şimdi+Noun+A3sg+Pnon+Dat
+
+kadar:2
+P:     kadar+Adverb+AdjMdfy
+P:     kadar+Postp
+
+2:1
+P:     2+Num+Card
+
+Şampiyon:1
+P:     şampiyon+Noun+A3sg+Pnon+Nom
+P:     şampiyon+Noun+Prop+A3sg+Pnon+Nom
+
+Kulüpler:1
+P:     kulüp+Noun+A3pl+Pnon+Nom
+D:     kulüp+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+D:     kulüpler+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası:1
+P:     kupa+Noun+A3sg+P3sg+Nom
+D:     kupa+Adj^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     kupası+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+4:1
+P:     4+Num+Card
+
+Kupa:4
+D:     kup+Noun+A3sg+Pnon+Dat
+D:     kupa+Noun+A3sg+Pnon+Nom
+P:     kupa+Adj
+D:     kupa+Noun+Prop+A3sg+Pnon+Nom
+
+Galipleri:1
+D:     galip+Noun+A3pl+P3sg+Nom
+D:     galip+Noun+A3pl+Pnon+Acc
+D:     galip+Noun+A3sg+P3pl+Nom
+D:     galip+Noun+A3pl+P3pl+Nom
+D:     galip+Adj^DB+Noun+Zero+A3pl+P3sg+Nom
+D:     galip+Adj^DB+Noun+Zero+A3pl+Pnon+Acc
+D:     galip+Adj^DB+Noun+Zero+A3sg+P3pl+Nom
+D:     galip+Adj^DB+Noun+Zero+A3pl+P3pl+Nom
+P:     galipleri+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası:1
+P:     kupa+Noun+A3sg+P3sg+Nom
+P:     kupa+Adj^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     kupası+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+8:1
+P:     8+Num+Card
+
+UEFA:1
+P:     UEFA+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası:1
+P:     kupa+Noun+A3sg+P3sg+Nom
+P:     kupa+Adj^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     kupası+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+2:1
+P:     2+Num+Card
+
+de:3
+D:     de+Noun+A3sg+Pnon+Nom
+D:     de+Verb+Pos+Imp+A2sg
+P:     de+Conj
+
+İntertoto:1
+P:     intertoto+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası:1
+P:     kupa+Noun+A3sg+P3sg+Nom
+P:     kupa+Adj^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     kupası+Noun+Prop+A3sg+Pnon+Nom
+
+olmak:1
+P:     ol+Verb+Pos^DB+Noun+Inf1+A3sg+Pnon+Nom
+
+üzere:2
+D:     üzer+Noun+A3sg+Pnon+Dat
+P:     üzere+Noun+A3sg+Pnon+Nom
+D:     üzere+Adverb
+
+16:1
+P:     16+Num+Card
+
+kez:1
+P:     kez+Noun+A3sg+Pnon+Nom
+
+birbirleriyle:1
+P:     birbiri+Noun+A3pl+P3sg+Ins
+D:     birbiri+Noun+A3sg+P3pl+Ins
+D:     birbiri+Noun+A3pl+P3pl+Ins
+
+eşleşti:2
+D:     eş+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos+Past+A3sg
+P:     eşle+Verb^DB+Verb+Recip+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Bu:2
+D:     bu+Pron+A3sg+Pnon+Nom
+P:     bu+Adj
+
+eşleşmelerde:2
+P:     eş+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf2+A3pl+Pnon+Loc
+P:     eşle+Verb^DB+Verb+Recip+Pos^DB+Noun+Inf2+A3pl+Pnon+Loc
+
+,:1
+P:     ,+Punc
+
+Türk:2
+P:     türk+Noun+A3sg+Pnon+Nom
+P:     türk+Noun+Prop+A3sg+Pnon+Nom
+
+takımları:1
+P:     takım+Noun+A3pl+P3sg+Nom
+D:     takım+Noun+A3pl+Pnon+Acc
+D:     takım+Noun+A3sg+P3pl+Nom
+D:     takım+Noun+A3pl+P3pl+Nom
+
+sadece:1
+P:     sadece+Adverb
+D:     sade+Adj^DB+Noun+Zero+A3sg+Pnon^DB+Adverb+Ly
+
+2:1
+P:     2+Num+Card
+
+kez:1
+P:     kez+Noun+A3sg+Pnon+Nom
+
+turu:1
+P:     tur+Noun+A3sg+P3sg+Nom
+D:     tur+Noun+A3sg+Pnon+Acc
+
+geçerken:2
+P:     geçer+Noun+A3sg+Pnon+Nom^DB+Verb+Zero^DB+Adverb+While
+P:     geç+Verb+Pos+Aor+A3sg^DB+Adverb+While
+P:     geçer+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero^DB+Adverb+While
+
+,:1
+P:     ,+Punc
+
+Alman:4
+P:     alman+Noun+A3sg+Pnon+Nom
+D:     al+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom
+D:     alman+Adj
+P:     alman+Noun+Prop+A3sg+Pnon+Nom
+
+takımları:1
+P:     takım+Noun+A3pl+P3sg+Nom
+D:     takım+Noun+A3pl+Pnon+Acc
+D:     takım+Noun+A3sg+P3pl+Nom
+D:     takım+Noun+A3pl+P3pl+Nom
+
+14:1
+P:     14+Num+Card
+
+eşleşmeden:3
+P:     eş+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Adverb+WithoutHavingDone
+P:     eş+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf2+A3sg+Pnon+Abl
+P:     eşle+Verb^DB+Verb+Recip+Pos^DB+Adverb+WithoutHavingDone
+P:     eşle+Verb^DB+Verb+Recip+Pos^DB+Noun+Inf2+A3sg+Pnon+Abl
+
+galip:1
+P:     galip+Noun+A3sg+Pnon+Nom
+P:     galip+Adj
+
+ayrılan:2
+P:     ayır+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+P:     ayrıl+Verb+Pos^DB+Adj+PresPart
+D:     ayrı+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Imp+A2sg
+
+taraf:1
+P:     taraf+Noun+A3sg+Pnon+Nom
+
+oldu:1
+P:     ol+Verb+Pos+Past+A3sg
+D:     ol+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+1992-93:1
+P:     1992-93+Num+Range
+
+sezonunda:1
+P:     sezon+Noun+A3sg+P3sg+Loc
+D:     sezon+Noun+A3sg+P2sg+Loc
+
+Türkiye'yi:1
+P:     türkiye+Noun+Prop+A3sg+Pnon+Acc
+P:     türkiye'yi+Noun+Prop+A3sg+Pnon+Nom
+
+UEFA:1
+P:     UEFA+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası'nda:1
+P:     kupa+Noun+Prop+A3sg+P3sg+Loc
+D:     Kupası+Noun+Prop+A3sg+Pnon+Loc
+
+temsil eden:1
+P:     temsil et+Verb+Pos^DB+Adj+PresPart
+
+Galatasaray:1
+P:     galatasaray+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+2.:1
+P:     2.+Num+Ord
+
+turda:1
+P:     tur+Noun+A3sg+Pnon+Loc
+
+Almanya'nın:2
+D:     almanya+Noun+Prop+A3sg+P2sg+Gen
+P:     almanya+Noun+Prop+A3sg+Pnon+Gen
+P:     almanya'nın+Noun+Prop+A3sg+Pnon+Nom
+
+Eintracht:1
+P:     eintracht+Noun+Prop+A3sg+Pnon+Nom
+
+Frankfurt:1
+P:     frankfurt+Noun+Prop+A3sg+Pnon+Nom
+
+takımını:1
+P:     takım+Noun+A3sg+P3sg+Acc
+D:     takım+Noun+A3sg+P2sg+Acc
+
+0-0:1
+P:     0-0+Num+Range
+
+ve:1
+P:     ve+Conj
+
+1-0:1
+P:     1-0+Num+Range
+
+skorlarla:1
+P:     skor+Noun+A3pl+Pnon+Ins
+
+kupanın:2
+D:     kupa+Noun+A3sg+P2sg+Gen
+P:     kupa+Noun+A3sg+Pnon+Gen
+D:     kupa+Adj^DB+Noun+Zero+A3sg+P2sg+Gen
+P:     kupa+Adj^DB+Noun+Zero+A3sg+Pnon+Gen
+
+dışına:1
+P:     dış+Adj^DB+Noun+Zero+A3sg+P3sg+Dat
+D:     dış+Adj^DB+Noun+Zero+A3sg+P2sg+Dat
+
+itti:2
+P:     it+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     it+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+1999-2000:1
+P:     1999-2000+Num+Range
+
+sezonunda:1
+P:     sezon+Noun+A3sg+P3sg+Loc
+D:     sezon+Noun+A3sg+P2sg+Loc
+
+ise:3
+D:     is+Noun+A3sg+Pnon+Dat
+D:     i+Verb+Pos+Desr+A3sg
+P:     ise+Conj
+
+Galatasaray:1
+P:     galatasaray+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Hertha:1
+P:     hertha+Noun+Prop+A3sg+Pnon+Nom
+
+BSC:1
+P:     bsc+Noun+Prop+A3sg+Pnon+Nom
+
+Berlin:1
+P:     berlin+Noun+Prop+A3sg+Pnon+Nom
+
+ile:3
+D:     il+Noun+A3sg+Pnon+Dat
+P:     ile+Conj
+D:     ile+Postp
+
+aynı:4
+D:     ayn+Noun+A3sg+P3sg+Nom
+P:     ayn+Noun+A3sg+Pnon+Acc
+P:     aynı+Noun+A3sg+Pnon+Nom
+D:     aynı+Adj
+
+grupta:1
+P:     grup+Noun+A3sg+Pnon+Loc
+
+yer almış:2
+P:     yer al+Verb+Pos^DB+Adj+Zero
+P:     yer al+Verb+Pos+Narr+A3sg
+
+,:1
+P:     ,+Punc
+
+ilk:3
+D:     ilk+Noun+A3sg+Pnon+Nom
+D:     ilk+Adverb
+P:     ilk+Adj
+
+maçta:1
+P:     maç+Noun+A3sg+Pnon+Loc
+
+İstanbul'da:1
+P:     istanbul+Noun+Prop+A3sg+Pnon+Loc
+P:     istanbul'da+Noun+Prop+A3sg+Pnon+Nom
+
+berabere:1
+P:     beraber+Noun+A3sg+Pnon+Dat
+P:     beraber+Adj^DB+Noun+Zero+A3sg+Pnon+Dat
+
+kaldığı:1
+P:     kal+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+P:     kal+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+rakibini:1
+P:     rakip+Noun+A3sg+P3sg+Acc
+D:     rakip+Noun+A3sg+P2sg+Acc
+
+deplasmanda:1
+P:     deplasman+Noun+A3sg+Pnon+Loc
+
+yenerek:2
+P:     ye+Verb^DB+Verb+Pass+Pos^DB+Adverb+ByDoingSo
+P:     yen+Verb+Pos^DB+Adverb+ByDoingSo
+
+büyük:1
+P:     büyük+Adj
+
+bir:1
+D:     bir+Num+Card
+P:     bir+Noun+A3sg+Pnon+Nom
+D:     bir+Adverb
+D:     bir+Adj
+
+başarıya:1
+P:     başarı+Noun+A3sg+Pnon+Dat
+
+imza:1
+P:     imza+Noun+A3sg+Pnon+Nom
+
+atmıştı:2
+P:     at+Verb+Pos^DB+Adj+Zero^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     at+Verb+Pos+Narr+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Galibiyetler:1
+P:     galibiyet+Noun+A3pl+Pnon+Nom
+P:     galibiyet+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+Türk:2
+P:     türk+Noun+A3sg+Pnon+Nom
+P:     türk+Noun+Prop+A3sg+Pnon+Nom
+
+takımlarının:1
+P:     takım+Noun+A3pl+P3sg+Gen
+D:     takım+Noun+A3pl+P2sg+Gen
+D:     takım+Noun+A3sg+P3pl+Gen
+D:     takım+Noun+A3pl+P3pl+Gen
+
+,:1
+P:     ,+Punc
+
+Almanlar:7
+P:     alman+Noun+A3pl+Pnon+Nom
+D:     alman+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+D:     al+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom^DB+Verb+Zero+Pres+A3pl
+D:     alman+Adj^DB+Noun+Zero+A3pl+Pnon+Nom
+D:     alman+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+D:     almanlar+Noun+Prop+A3sg+Pnon+Nom
+D:     alman+Noun+Prop+A3pl+Pnon+Nom
+
+karşısında:2
+P:     karşı+Noun+A3sg+P3sg+Loc
+D:     karşı+Adj^DB+Noun+Zero+A3sg+P3sg+Loc
+
+39:1
+P:     39+Num+Card
+
+maçta:1
+P:     maç+Noun+A3sg+Pnon+Loc
+
+elde ettiği:1
+P:     elde et+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+P:     elde et+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+6:1
+P:     6+Num+Card
+
+galibiyeti:2
+D:     galibiyet+Noun+A3sg+P3sg+Nom
+P:     galibiyet+Noun+A3sg+Pnon+Acc
+
+Göztepe:1
+P:     göztepe+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Galatasaray:1
+P:     galatasaray+Noun+Prop+A3sg+Pnon+Nom
+
+3:1
+P:     3+Num+Card
+
+,:1
+P:     ,+Punc
+
+Trabzonspor:1
+P:     trabzonspor+Noun+Prop+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+Antalyaspor:1
+P:     antalyaspor+Noun+Prop+A3sg+Pnon+Nom
+
+aldı:2
+P:     al+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     al+Verb+Pos+Past+A3sg
+P:     al+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+İzmir'in:2
+D:     izmir+Noun+Prop+A3sg+P2sg+Nom
+P:     izmir+Noun+Prop+A3sg+Pnon+Gen
+P:     izmir'in+Noun+Prop+A3sg+Pnon+Nom
+
+Göztepe:1
+P:     göztepe+Noun+Prop+A3sg+Pnon+Nom
+
+ekibi:1
+P:     ekip+Noun+A3sg+P3sg+Nom
+D:     ekip+Noun+A3sg+Pnon+Acc
+
+,:1
+P:     ,+Punc
+
+1965-66:1
+P:     1965-66+Num+Range
+
+sezonunda:1
+P:     sezon+Noun+A3sg+P3sg+Loc
+D:     sezon+Noun+A3sg+P2sg+Loc
+
+UEFA:1
+P:     UEFA+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası:1
+P:     kupa+Noun+A3sg+P3sg+Nom
+P:     kupa+Adj^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     kupası+Noun+Prop+A3sg+Pnon+Nom
+
+1.:1
+P:     1.+Num+Ord
+
+turunda:1
+P:     tur+Noun+A3sg+P3sg+Loc
+D:     tur+Noun+A3sg+P2sg+Loc
+
+1860:1
+P:     1860+Num+Card
+
+Münih:1
+P:     münih+Noun+Prop+A3sg+Pnon+Nom
+
+takımını:1
+P:     takım+Noun+A3sg+P3sg+Acc
+D:     takım+Noun+A3sg+P2sg+Acc
+
+2-1:1
+P:     2-1+Num+Range
+
+,:1
+P:     ,+Punc
+
+Galatasaray:1
+P:     galatasaray+Noun+Prop+A3sg+Pnon+Nom
+
+ise:3
+D:     is+Noun+A3sg+Pnon+Dat
+D:     i+Verb+Pos+Desr+A3sg
+P:     ise+Conj
+
+1992-93'te:1
+P:     1992-93+Num+Range^DB+Noun+Zero+A3sg+Pnon+Loc
+
+yine:1
+P:     yine+Adverb
+
+UEFA:1
+P:     UEFA+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası'nda:1
+P:     kupa+Noun+Prop+A3sg+P3sg+Loc
+D:     Kupası+Noun+Prop+A3sg+Pnon+Loc
+
+Eintracht:1
+P:     eintracht+Noun+Prop+A3sg+Pnon+Nom
+
+Frankfurt:1
+P:     frankfurt+Noun+Prop+A3sg+Pnon+Nom
+
+ekibini:1
+P:     ekip+Noun+A3sg+P3sg+Acc
+D:     ekip+Noun+A3sg+P2sg+Acc
+
+1-0:1
+P:     1-0+Num+Range
+
+skorlarla:1
+P:     skor+Noun+A3pl+Pnon+Ins
+
+yenerken:2
+P:     ye+Verb^DB+Verb+Pass+Pos+Aor+A3sg^DB+Adverb+While
+P:     yen+Verb+Pos+Aor+A3sg^DB+Adverb+While
+
+,:1
+P:     ,+Punc
+
+1997-98:1
+P:     1997-98+Num+Range
+
+sezonunda:1
+P:     sezon+Noun+A3sg+P3sg+Loc
+D:     sezon+Noun+A3sg+P2sg+Loc
+
+Trabzonspor:1
+P:     trabzonspor+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+VFL:1
+P:     vfl+Noun+Prop+A3sg+Pnon+Nom
+
+Bochum:1
+P:     bochum+Noun+Prop+A3sg+Pnon+Nom
+
+takımını:1
+P:     takım+Noun+A3sg+P3sg+Acc
+D:     takım+Noun+A3sg+P2sg+Acc
+
+Trabzon'da:1
+P:     trabzon+Noun+Prop+A3sg+Pnon+Loc
+P:     trabzon'da+Noun+Prop+A3sg+Pnon+Nom
+
+2-1:1
+P:     2-1+Num+Range
+
+mağlup etti:1
+P:     mağlup et+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Ayrıca:3
+D:     ayrıca+Noun+A3sg+Pnon+Nom
+D:     ayrıç+Noun+A3sg+Pnon+Dat
+P:     ayrı+Adj^DB+Noun+Zero+A3sg+Pnon^DB+Adverb+Ly
+
+Galatasaray:1
+P:     galatasaray+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+1999-2001:1
+P:     1999-2001+Num+Range
+
+sezonunda:1
+P:     sezon+Noun+A3sg+P3sg+Loc
+D:     sezon+Noun+A3sg+P2sg+Loc
+
+Hertha:1
+P:     hertha+Noun+Prop+A3sg+Pnon+Nom
+
+BSC:1
+P:     bsc+Noun+Prop+A3sg+Pnon+Nom
+
+Berlin:1
+P:     berlin+Noun+Prop+A3sg+Pnon+Nom
+
+ekibini:1
+P:     ekip+Noun+A3sg+P3sg+Acc
+D:     ekip+Noun+A3sg+P2sg+Acc
+
+,:1
+P:     ,+Punc
+
+Almanya'da:1
+P:     almanya+Noun+Prop+A3sg+Pnon+Loc
+P:     almanya'da+Noun+Prop+A3sg+Pnon+Nom
+
+4-1:1
+P:     4-1+Num+Range
+
+yenerek:2
+P:     ye+Verb^DB+Verb+Pass+Pos^DB+Adverb+ByDoingSo
+P:     yen+Verb+Pos^DB+Adverb+ByDoingSo
+
+,:1
+P:     ,+Punc
+
+deplasmanda:1
+P:     deplasman+Noun+A3sg+Pnon+Loc
+
+galip:1
+P:     galip+Noun+A3sg+Pnon+Nom
+P:     galip+Adj
+
+gelen:3
+D:     ge+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Imp+A2sg
+D:     gele+Noun+A3sg+P2sg+Nom
+D:     gel+Verb+Pos^DB+Adj+PresPart
+P:     gelen+Adj
+
+ilk:3
+P:     ilk+Noun+A3sg+Pnon+Nom
+D:     ilk+Adverb
+D:     ilk+Adj
+
+ve:1
+P:     ve+Conj
+
+tek:3
+D:     tek+Noun+A3sg+Pnon+Nom
+D:     tek+Adverb
+P:     tek+Adj
+
+Türk:2
+P:     türk+Noun+A3sg+Pnon+Nom
+P:     türk+Noun+Prop+A3sg+Pnon+Nom
+
+takımı:2
+D:     takı+Noun+A3sg+P1sg+Acc
+P:     takım+Noun+A3sg+P3sg+Nom
+D:     takım+Noun+A3sg+Pnon+Acc
+D:     tak+Noun+A3sg+P1sg+Acc
+
+olma:2
+P:     ol+Verb+Neg+Imp+A2sg
+D:     ol+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+
+ünvanını:1
+P:     ünvan+Noun+A3sg+P3sg+Acc
+D:     ünvan+Noun+A3sg+P2sg+Acc
+P:     ünvanını+Noun+A3sg+Pnon+Nom
+
+da:1
+P:     de+Conj
+
+aldı:2
+P:     al+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     al+Verb+Pos+Past+A3sg
+P:     al+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Almanlar:6
+P:     alman+Noun+A3pl+Pnon+Nom
+D:     alman+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+D:     al+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom^DB+Verb+Zero+Pres+A3pl
+D:     alman+Adj^DB+Noun+Zero+A3pl+Pnon+Nom
+D:     alman+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+D:     alman+Noun+Prop+A3pl+Pnon+Nom
+
+karşısında:2
+P:     karşı+Noun+A3sg+P3sg+Loc
+D:     karşı+Adj^DB+Noun+Zero+A3sg+P3sg+Loc
+
+Türk:2
+P:     türk+Noun+A3sg+Pnon+Nom
+P:     türk+Noun+Prop+A3sg+Pnon+Nom
+
+ekiplerinin:1
+P:     ekip+Noun+A3pl+P3sg+Gen
+D:     ekip+Noun+A3pl+P2sg+Gen
+D:     ekip+Noun+A3sg+P3pl+Gen
+D:     ekip+Noun+A3pl+P3pl+Gen
+
+son:2
+D:     son+Noun+A3sg+Pnon+Nom
+P:     son+Adj
+
+galibiyetini:1
+P:     galibiyet+Noun+A3sg+P3sg+Acc
+D:     galibiyet+Noun+A3sg+P2sg+Acc
+
+ise:3
+D:     is+Noun+A3sg+Pnon+Dat
+D:     i+Verb+Pos+Desr+A3sg
+P:     ise+Conj
+
+Antalyaspor:1
+P:     antalyaspor+Noun+Prop+A3sg+Pnon+Nom
+
+elde etti:1
+P:     elde et+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Kırmızı:4
+P:     kırmız+Noun+A3sg+P3sg+Nom
+P:     kırmız+Noun+A3sg+Pnon+Acc
+P:     kırmızı+Noun+A3sg+Pnon+Nom
+P:     kırmızı+Adj
+
+-:1
+P:     -+Punc
+
+beyazlılar:3
+P:     beyaz+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     beyaz+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+P:     beyaz+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     beyaz+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+geçen:1
+P:     geç+Verb+Pos^DB+Adj+PresPart
+
+sezon:1
+P:     sezon+Noun+A3sg+Pnon+Nom
+
+UEFA:1
+P:     UEFA+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası:1
+P:     kupa+Noun+A3sg+P3sg+Nom
+P:     kupa+Adj^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     kupası+Noun+Prop+A3sg+Pnon+Nom
+
+ön:1
+D:     ön+Noun+A3sg+Pnon+Nom
+P:     ön+Adj
+
+eleme:3
+P:     elem+Noun+A3sg+Pnon+Dat
+D:     ele+Verb+Neg+Imp+A2sg
+P:     ele+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+
+turunda:1
+P:     tur+Noun+A3sg+P3sg+Loc
+D:     tur+Noun+A3sg+P2sg+Loc
+
+Werder:1
+P:     werder+Noun+Prop+A3sg+Pnon+Nom
+
+Bremen'i:2
+P:     Bremen+Noun+Prop+A3sg+P3sg+Nom
+D:     Bremen+Noun+Prop+A3sg+Pnon+Acc
+
+Antalya'da:1
+P:     antalya+Noun+Prop+A3sg+Pnon+Loc
+P:     antalya'da+Noun+Prop+A3sg+Pnon+Nom
+
+2-0:1
+P:     2-0+Num+Range
+
+yendi:3
+P:     yen+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     ye+Verb^DB+Verb+Pass+Pos+Past+A3sg
+P:     yen+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Göztepe:1
+P:     göztepe+Noun+Prop+A3sg+Pnon+Nom
+
+hezimete:1
+P:     hezimet+Noun+A3sg+Pnon+Dat
+
+uğradı:1
+P:     uğra+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+.:1
+P:     .+Punc
+
+<S>
+.:1
+P:     .+Punc
+
+<S>
+Alman:4
+P:     alman+Noun+A3sg+Pnon+Nom
+D:     al+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom
+D:     alman+Adj
+D:     alman+Noun+prop+A3sg+Pnon+Nom
+
+takımlarına:1
+P:     takım+Noun+A3pl+P3sg+Dat
+D:     takım+Noun+A3pl+P2sg+Dat
+D:     takım+Noun+A3sg+P3pl+Dat
+D:     takım+Noun+A3pl+P3pl+Dat
+
+karşı:4
+P:     karşı+Noun+A3sg+Pnon+Nom
+P:     karşı+Adverb
+P:     karşı+Adj
+D:     karşı+Postp
+
+en:2
+D:     en+Noun+A3sg+Pnon+Nom
+P:     en+Adverb+AdjMdfy
+
+farklı:1
+P:     fark+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+yenilgiyi:1
+P:     yenilgi+Noun+A3sg+Pnon+Acc
+
+ise:3
+D:     is+Noun+A3sg+Pnon+Dat
+D:     i+Verb+Pos+Desr+A3sg
+P:     ise+Conj
+
+1965-66:1
+P:     1965-66+Num+Range
+
+sezonunda:1
+P:     sezon+Noun+A3sg+P3sg+Loc
+D:     sezon+Noun+A3sg+P2sg+Loc
+
+UEFA:1
+P:     UEFA+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası:1
+P:     kupa+Noun+A3sg+P3sg+Nom
+P:     kupa+Adj^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     kupası+Noun+Prop+A3sg+Pnon+Nom
+
+1.:1
+P:     1.+Num+Ord
+
+turunda:1
+P:     tur+Noun+A3sg+P3sg+Loc
+D:     tur+Noun+A3sg+P2sg+Loc
+
+1860:1
+P:     1860+Num+Card
+
+Münih:1
+P:     münih+Noun+Prop+A3sg+Pnon+Nom
+
+ile:3
+P:     il+Noun+A3sg+Pnon+Dat
+P:     ile+Conj
+P:     ile+Postp
+
+eşleşen:2
+P:     eş+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Adj+PresPart
+P:     eşle+Verb^DB+Verb+Recip+Pos^DB+Adj+PresPart
+
+Göztepe:1
+P:     göztepe+Noun+Prop+A3sg+Pnon+Nom
+
+aldı:2
+P:     al+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     al+Verb+Pos+Past+A3sg
+P:     al+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Türk:2
+P:     türk+Noun+A3sg+Pnon+Nom
+P:     türk+Noun+Prop+A3sg+Pnon+Nom
+
+takımlarının:1
+P:     takım+Noun+A3pl+P3sg+Gen
+D:     takım+Noun+A3pl+P2sg+Gen
+D:     takım+Noun+A3sg+P3pl+Gen
+D:     takım+Noun+A3pl+P3pl+Gen
+
+6:1
+P:     6+Num+Card
+
+galibiyetinden:1
+P:     galibiyet+Noun+A3sg+P3sg+Abl
+D:     galibiyet+Noun+A3sg+P2sg+Abl
+
+birini:1
+P:     bir+Num+Card^DB+Noun+Zero+A3sg+P3sg+Acc
+D:     bir+Num+Card^DB+Noun+Zero+A3sg+P2sg+Acc
+P:     bir+Noun+A3sg+P3sg+Acc
+D:     bir+Noun+A3sg+P2sg+Acc
+D:     biri+Noun+A3sg+P2sg+Acc
+P:     bir+Adj^DB+Noun+Zero+A3sg+P3sg+Acc
+D:     bir+Adj^DB+Noun+Zero+A3sg+P2sg+Acc
+
+de:3
+D:     de+Noun+A3sg+Pnon+Nom
+D:     de+Verb+Pos+Imp+A2sg
+P:     de+Conj
+
+aynı:4
+D:     ayn+Noun+A3sg+P3sg+Nom
+D:     ayn+Noun+A3sg+Pnon+Acc
+D:     aynı+Noun+A3sg+Pnon+Nom
+P:     aynı+Adj
+
+takıma:2
+D:     takı+Noun+A3sg+P1sg+Dat
+P:     takım+Noun+A3sg+Pnon+Dat
+D:     tak+Noun+A3sg+P1sg+Dat
+
+karşı:4
+P:     karşı+Noun+A3sg+Pnon+Nom
+P:     karşı+Adverb
+P:     karşı+Adj
+D:     karşı+Postp
+
+ilk:3
+D:     ilk+Noun+A3sg+Pnon+Nom
+D:     ilk+Adverb
+P:     ilk+Adj
+
+maçta:1
+P:     maç+Noun+A3sg+Pnon+Loc
+
+elde eden:1
+P:     elde et+Verb+Pos^DB+Adj+PresPart
+
+İzmir'in:2
+D:     izmir+Noun+Prop+A3sg+P2sg+Nom
+P:     izmir+Noun+Prop+A3sg+Pnon+Gen
+P:     izmir'in+Noun+Prop+A3sg+Pnon+Nom
+
+sarı:2
+P:     sarı+Noun+A3sg+Pnon+Nom
+P:     sarı+Adj
+
+-:1
+P:     -+Punc
+
+kırmızılı:3
+P:     kırmız+Noun+A3sg+P3sg+Nom^DB+Adj+With
+P:     kırmızı+Noun+A3sg+Pnon+Nom^DB+Adj+With
+P:     kırmızı+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With
+
+ekibi:1
+P:     ekip+Noun+A3sg+P3sg+Nom
+P:     ekip+Noun+A3sg+Pnon+Acc
+
+,:1
+P:     ,+Punc
+
+rövanş:1
+P:     rövanş+Noun+A3sg+Pnon+Nom
+
+maçında:1
+P:     maç+Noun+A3sg+P3sg+Loc
+D:     maç+Noun+A3sg+P2sg+Loc
+
+tam:1
+P:     tam+Noun+A3sg+Pnon+Nom
+P:     tam+Adverb
+P:     tam+Adj
+
+9-1:1
+P:     9-1+Num+Range
+
+yenilerek:1
+P:     yen+Verb^DB+Verb+Pass+Pos^DB+Adverb+ByDoingSo
+
+hezimete:1
+P:     hezimet+Noun+A3sg+Pnon+Dat
+
+uğradı:1
+P:     uğra+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Doğu:5
+D:     doğu+Noun+A3sg+Pnon+Nom
+D:     dok+Noun+A3sg+P3sg+Nom
+D:     dok+Noun+A3sg+Pnon+Acc
+D:     doğu+Noun+Prop+A3sg+Pnon+Nom
+P:     doğu+Adj
+
+Almanlarla:4
+P:     alman+Noun+A3pl+Pnon+Ins
+D:     alman+Adj^DB+Noun+Zero+A3pl+Pnon+Ins
+D:     almanlarla+Noun+Prop+A3sg+Pnon+Nom
+D:     alman+Noun+Prop+A3pl+Pnon+Ins
+
+5:1
+P:     5+Num+Card
+
+eşleşme:4
+D:     eş+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Neg+Imp+A2sg
+P:     eş+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+D:     eşle+Verb^DB+Verb+Recip+Neg+Imp+A2sg
+P:     eşle+Verb^DB+Verb+Recip+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+
+Bu:2
+D:     bu+Pron+A3sg+Pnon+Nom
+P:     bu+Adj
+D:     bu+Noun+Prop+A3sg+Pnon+Nom
+
+arada:1
+D:     ara+Adj^DB+Noun+Zero+A3sg+Pnon+Loc
+P:     ara+Noun+A3sg+Pnon+Loc
+
+,:1
+P:     ,+Punc
+
+Doğu:1
+P:     doğu+Noun+A3sg+Pnon+Nom
+D:     dok+Noun+A3sg+P3sg+Nom
+D:     dok+Noun+A3sg+Pnon+Acc
+P:     doğu+Noun+Prop+A3sg+Pnon+Nom
+D:     doğu+Adj
+
+ile:2
+D:     il+Noun+A3sg+Pnon+Dat
+P:     ile+Conj
+D:     ile+Postp
+
+Batı:4
+D:     bat+Noun+A3sg+P3sg+Nom
+P:     bat+Noun+A3sg+Pnon+Acc
+P:     batı+Noun+A3sg+Pnon+Nom
+D:     batı+Adj
+P:     batı+Noun+Prop+A3sg+Pnon+Nom
+
+Almanya'nın:2
+D:     almanya+Noun+Prop+A3sg+P2sg+Gen
+D:     almanya+Noun+Prop+A3sg+Pnon+Gen
+P:     almanya'nın+Noun+Prop+A3sg+Pnon+Nom
+
+birleşmesinden:3
+P:     bir+Num+Card^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf2+A3sg+P3sg+Abl
+P:     bir+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf2+A3sg+P3sg+Abl
+P:     birleş+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Abl
+P:     bir+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf2+A3sg+P3sg+Abl
+
+önce:5
+P:     ön+Noun+A3sg+Pnon^DB+Adverb+Ly
+P:     önce+Noun+A3sg+Pnon+Nom
+P:     önce+Adverb
+P:     ön+Adj^DB+Noun+Zero+A3sg+Pnon^DB+Adverb+Ly
+D:     önce+Postp
+
+,:1
+P:     ,+Punc
+
+Türk:2
+P:     türk+Noun+A3sg+Pnon+Nom
+P:     türk+Noun+Prop+A3sg+Pnon+Nom
+
+takımları:1
+P:     takım+Noun+A3pl+P3sg+Nom
+D:     takım+Noun+A3pl+Pnon+Acc
+D:     takım+Noun+A3sg+P3pl+Nom
+D:     takım+Noun+A3pl+P3pl+Nom
+
+5:1
+P:     5+Num+Card
+
+kez:1
+P:     kez+Noun+A3sg+Pnon+Nom
+
+de:3
+D:     de+Noun+A3sg+Pnon+Nom
+D:     de+Verb+Pos+Imp+A2sg
+P:     de+Conj
+
+Doğu:5
+D:     doğu+Noun+A3sg+Pnon+Nom
+D:     dok+Noun+A3sg+P3sg+Nom
+D:     dok+Noun+A3sg+Pnon+Acc
+D:     doğu+Noun+Prop+A3sg+Pnon+Nom
+P:     doğu+Adj
+
+Alman:4
+P:     alman+Noun+A3sg+Pnon+Nom
+D:     al+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom
+D:     alman+Adj
+P:     alman+Noun+Prop+A3sg+Pnon+Nom
+
+ekipleriyle:1
+P:     ekip+Noun+A3pl+P3sg+Ins
+D:     ekip+Noun+A3sg+P3pl+Ins
+D:     ekip+Noun+A3pl+P3pl+Ins
+
+eşleşti:2
+D:     eş+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos+Past+A3sg
+P:     eşle+Verb^DB+Verb+Recip+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Bu:2
+D:     bu+Pron+A3sg+Pnon+Nom
+P:     bu+Adj
+
+eşleşmelerde:2
+P:     eş+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf2+A3pl+Pnon+Loc
+P:     eşle+Verb^DB+Verb+Recip+Pos^DB+Noun+Inf2+A3pl+Pnon+Loc
+
+de:3
+D:     de+Noun+A3sg+Pnon+Nom
+D:     de+Verb+Pos+Imp+A2sg
+P:     de+Conj
+
+sadece:1
+P:     sadece+Adverb
+D:     sade+Adj^DB+Noun+Zero+A3sg+Pnon^DB+Adverb+Ly
+
+Galatasaray:1
+P:     galatasaray+Noun+Prop+A3sg+Pnon+Nom
+
+takımı:2
+D:     takı+Noun+A3sg+P1sg+Acc
+P:     takım+Noun+A3sg+P3sg+Nom
+D:     takım+Noun+A3sg+Pnon+Acc
+D:     tak+Noun+A3sg+P1sg+Acc
+
+,:1
+P:     ,+Punc
+
+1964-65:1
+P:     1964-65+Num+Range
+
+sezonunda:1
+P:     sezon+Noun+A3sg+P3sg+Loc
+D:     sezon+Noun+A3sg+P2sg+Loc
+
+Kupa:2
+D:     kup+Noun+A3sg+Pnon+Dat
+D:     kupa+Noun+A3sg+Pnon+Nom
+P:     kupa+Adj
+D:     kupa+Noun+Prop+A3sg+Pnon+Nom
+
+Galipleri:1
+D:     galip+Noun+A3pl+P3sg+Nom
+D:     galip+Noun+A3pl+Pnon+Acc
+D:     galip+Noun+A3sg+P3pl+Nom
+D:     galip+Noun+A3pl+P3pl+Nom
+D:     galip+Adj^DB+Noun+Zero+A3pl+P3sg+Nom
+D:     galip+Adj^DB+Noun+Zero+A3pl+Pnon+Acc
+D:     galip+Adj^DB+Noun+Zero+A3sg+P3pl+Nom
+D:     galip+Adj^DB+Noun+Zero+A3pl+P3pl+Nom
+P:     galipleri+Noun+Prop+A3sg+Pnon+Nom
+
+Kupası:1
+P:     kupa+Noun+A3sg+P3sg+Nom
+P:     kupa+Adj^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     kupası+Noun+Prop+A3sg+Pnon+Nom
+
+1.:1
+P:     1.+Num+Ord
+
+turunda:1
+P:     tur+Noun+A3sg+P3sg+Loc
+D:     tur+Noun+A3sg+P2sg+Loc
+
+Magdeburg:1
+P:     magdeburg+Noun+Prop+A3sg+Pnon+Nom
+
+karşısında:2
+P:     karşı+Noun+A3sg+P3sg+Loc
+P:     karşı+Adj^DB+Noun+Zero+A3sg+P3sg+Loc
+
+3:1
+P:     3+Num+Card
+
+maç:1
+P:     maç+Noun+A3sg+Pnon+Nom
+
+sonunda:4
+P:     son+Noun+A3sg+P3sg+Loc
+D:     son+Noun+A3sg+P2sg+Loc
+D:     sonunda+Adverb
+P:     son+Adj^DB+Noun+Zero+A3sg+P3sg+Loc
+D:     son+Adj^DB+Noun+Zero+A3sg+P2sg+Loc
+
+bozulmayan:1
+P:     boz+Verb^DB+Verb+Pass+Neg^DB+Adj+PresPart
+
+eşitlik:2
+P:     eşit+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+FitFor
+D:     eşit+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom
+
+sonucu:1
+P:     sonuç+Noun+A3sg+P3sg+Nom
+D:     sonuç+Noun+A3sg+Pnon+Acc
+
+kura:2
+P:     kur+Noun+A3sg+Pnon+Dat
+P:     kura+Noun+A3sg+Pnon+Nom
+D:     kur+Verb+Pos+Opt+A3sg
+
+ile:3
+P:     il+Noun+A3sg+Pnon+Dat
+P:     ile+Conj
+P:     ile+Postp
+
+ve:1
+P:     ve+Conj
+
+1991-92'de:1
+P:     1991-92+Num+Range^DB+Noun+Zero+A3sg+Pnon+Loc
+
+de:3
+D:     de+Noun+A3sg+Pnon+Nom
+D:     de+Verb+Pos+Imp+A2sg
+P:     de+Conj
+
+yine:1
+P:     yine+Adverb
+
+aynı:4
+D:     ayn+Noun+A3sg+P3sg+Nom
+D:     ayn+Noun+A3sg+Pnon+Acc
+D:     aynı+Noun+A3sg+Pnon+Nom
+P:     aynı+Adj
+
+kupada:1
+P:     kupa+Noun+A3sg+Pnon+Loc
+D:     kupa+Adj^DB+Noun+Zero+A3sg+Pnon+Loc
+
+Stahl:1
+P:     stahl+Noun+Prop+A3sg+Pnon+Nom
+
+Eisenhüttenstat:1
+P:     eisenhüttenstat+Noun+Prop+A3sg+Pnon+Nom
+
+karşısında:2
+P:     karşı+Noun+A3sg+P3sg+Loc
+P:     karşı+Adj^DB+Noun+Zero+A3sg+P3sg+Loc
+
+2-1:1
+P:     2-1+Num+Range
+
+ve:1
+P:     ve+Conj
+
+3-0:1
+P:     3-0+Num+Range
+
+galip:1
+P:     galip+Noun+A3sg+Pnon+Nom
+P:     galip+Adj
+
+gelerek:1
+P:     gel+Verb+Pos^DB+Adverb+ByDoingSo
+
+turu:2
+P:     tur+Noun+A3sg+P3sg+Nom
+P:     tur+Noun+A3sg+Pnon+Acc
+
+geçti:2
+P:     geç+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     geç+Verb+Pos+Past+A3sg
+P:     geç+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Diğer:3
+P:     diğer+Noun+A3sg+Pnon+Nom
+P:     dik+Verb+Pos+Aor+A3sg
+P:     diğer+Adj
+
+3:1
+P:     3+Num+Card
+
+eşleşmede:3
+P:     eş+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf2+A3sg+Pnon+Loc
+D:     eş+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos+ASPECT*PR-CONT+A3sg
+P:     eşle+Verb^DB+Verb+Recip+Pos^DB+Noun+Inf2+A3sg+Pnon+Loc
+P:     eşle+Verb^DB+Verb+Recip+Pos+ASPECT*PR-CONT+A3sg
+
+ise:3
+D:     is+Noun+A3sg+Pnon+Dat
+D:     i+Verb+Pos+Desr+A3sg
+P:     ise+Conj
+
+gülen:1
+P:     gül+Verb+Pos^DB+Adj+PresPart
+
+taraf:1
+P:     taraf+Noun+A3sg+Pnon+Nom
+
+Doğu:5
+D:     doğu+Noun+A3sg+Pnon+Nom
+D:     dok+Noun+A3sg+P3sg+Nom
+D:     dok+Noun+A3sg+Pnon+Acc
+D:     doğu+Noun+Prop+A3sg+Pnon+Nom
+P:     doğu+Adj
+
+Almanlar:7
+P:     alman+Noun+A3pl+Pnon+Nom
+D:     alman+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+D:     al+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom^DB+Verb+Zero+Pres+A3pl
+D:     alman+Adj^DB+Noun+Zero+A3pl+Pnon+Nom
+D:     alman+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+P:     almanlar+Noun+Prop+A3sg+Pnon+Nom
+D:     alman+Noun+Prop+A3pl+Pnon+Nom
+
+oldu:1
+P:     ol+Verb+Pos+Past+A3sg
+D:     ol+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Yapılan:2
+D:     yapı+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Imp+A2sg
+P:     yap+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+
+11:1
+P:     11+Num+Card
+
+maçın:2
+D:     maç+Noun+A3sg+P2sg+Nom
+P:     maç+Noun+A3sg+Pnon+Gen
+
+3'ünü:1
+P:     3+Num+Card^DB+Noun+Zero+A3sg+P3sg+Acc
+D:     3+Num+Card^DB+Noun+Zero+A3sg+P2sg+Acc
+
+Türk:2
+P:     türk+Noun+A3sg+Pnon+Nom
+P:     türk+Noun+Prop+A3sg+Pnon+Nom
+
+takımları:1
+P:     takım+Noun+A3pl+P3sg+Nom
+D:     takım+Noun+A3pl+Pnon+Acc
+D:     takım+Noun+A3sg+P3pl+Nom
+D:     takım+Noun+A3pl+P3pl+Nom
+
+,:1
+P:     ,+Punc
+
+4'ünü:1
+P:     4+Num+Card^DB+Noun+Zero+A3sg+P3sg+Acc
+D:     4+Num+Card^DB+Noun+Zero+A3sg+P2sg+Acc
+
+Doğu:5
+D:     doğu+Noun+A3sg+Pnon+Nom
+D:     dok+Noun+A3sg+P3sg+Nom
+D:     dok+Noun+A3sg+Pnon+Acc
+D:     doğu+Noun+Prop+A3sg+Pnon+Nom
+P:     doğu+Adj
+
+Almanlar:7
+P:     alman+Noun+A3pl+Pnon+Nom
+D:     alman+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+D:     al+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom^DB+Verb+Zero+Pres+A3pl
+D:     alman+Adj^DB+Noun+Zero+A3pl+Pnon+Nom
+D:     alman+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+P:     almanlar+Noun+Prop+A3sg+Pnon+Nom
+D:     alman+Noun+Prop+A3pl+Pnon+Nom
+
+kazanırken:1
+P:     kazan+Verb+Pos+Aor+A3sg^DB+Adverb+While
+
+,:1
+P:     ,+Punc
+
+4:1
+P:     4+Num+Card
+
+maç:1
+P:     maç+Noun+A3sg+Pnon+Nom
+
+ise:3
+D:     is+Noun+A3sg+Pnon+Dat
+D:     i+Verb+Pos+Desr+A3sg
+P:     ise+Conj
+
+berabere:1
+P:     beraber+Noun+A3sg+Pnon+Dat
+P:     beraber+Adj^DB+Noun+Zero+A3sg+Pnon+Dat
+
+bitti:2
+P:     bit+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     bit+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Türk:2
+P:     türk+Noun+A3sg+Pnon+Nom
+P:     türk+Noun+Prop+A3sg+Pnon+Nom
+
+takımlarının:1
+P:     takım+Noun+A3pl+P3sg+Gen
+D:     takım+Noun+A3pl+P2sg+Gen
+D:     takım+Noun+A3sg+P3pl+Gen
+D:     takım+Noun+A3pl+P3pl+Gen
+
+attığı:1
+P:     at+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+P:     at+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+13:1
+P:     13+Num+Card
+
+gole:1
+P:     gol+Noun+A3sg+Pnon+Dat
+
+karşın:4
+D:     karşı+Noun+A3sg+P2sg+Nom
+P:     karşın+Adverb
+D:     karşı+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+P:     karşın+Postp
+
+Doğu:5
+D:     doğu+Noun+A3sg+Pnon+Nom
+D:     dok+Noun+A3sg+P3sg+Nom
+D:     dok+Noun+A3sg+Pnon+Acc
+D:     doğu+Noun+Prop+A3sg+Pnon+Nom
+P:     doğu+Adj
+
+Almanlar:7
+P:     alman+Noun+A3pl+Pnon+Nom
+D:     alman+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+D:     al+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom^DB+Verb+Zero+Pres+A3pl
+D:     alman+Adj^DB+Noun+Zero+A3pl+Pnon+Nom
+D:     alman+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+P:     almanlar+Noun+Prop+A3sg+Pnon+Nom
+D:     alman+Noun+Prop+A3pl+Pnon+Nom
+
+16:1
+P:     16+Num+Card
+
+gol:1
+P:     gol+Noun+A3sg+Pnon+Nom
+
+kaydetti:1
+P:     kaydet+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+İtalyan:2
+P:     italyan+Noun+A3sg+Pnon+Nom
+P:     italyan+Noun+Prop+A3sg+Pnon+Nom
+D:     italyan+Adj
+
+basını:4
+P:     bas+Noun+A3sg+P3sg+Acc
+D:     bas+Noun+A3sg+P2sg+Acc
+D:     bası+Noun+A3sg+P2sg+Acc
+P:     basın+Noun+A3sg+P3sg+Nom
+D:     basın+Noun+A3sg+Pnon+Acc
+
+":1
+P:     "+Punc
+
+Ezici:1
+P:     ez+Verb+Pos^DB+Adj+Agt
+D:     ezici+Noun+Prop+A3sg+Pnon+Nom
+
+Milan:1
+P:     milan+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+derbinin:2
+D:     derbi+Noun+A3sg+P2sg+Gen
+P:     derbi+Noun+A3sg+Pnon+Gen
+
+imparatoru:1
+P:     imparator+Noun+A3sg+P3sg+Nom
+D:     imparator+Noun+A3sg+Pnon+Acc
+
+Terim:4
+D:     ter+Noun+A3sg+P1sg+Nom
+P:     ter+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+D:     terim+Noun+A3sg+Pnon+Nom
+D:     terim+Noun+Prop+A3sg+Pnon+Nom
+
+.:1
+P:     .+Punc
+
+<S>
+.:1
+P:     .+Punc
+
+<S>
+.:1
+P:     .+Punc
+
+<S>
+":1
+P:     "+Punc
+
+İtalya:1
+P:     italya+Noun+Prop+A3sg+Pnon+Nom
+
+Birinci:1
+P:     bir+Num+Ord
+P:     birinci+Noun+Prop+A3sg+Pnon+Nom
+
+Futbol:1
+P:     futbol+Noun+A3sg+Pnon+Nom
+P:     futbol+Noun+Prop+A3sg+Pnon+Nom
+
+Ligi'nde:1
+P:     lig+Noun+Prop+A3sg+P3sg+Loc
+D:     lig+Noun+Prop+A3sg+P2sg+Loc
+D:     Ligi+Noun+Prop+A3sg+Pnon+Loc
+
+,:1
+P:     ,+Punc
+
+AC:1
+P:     ac+Noun+Prop+A3sg+Pnon+Nom
+
+Milan:1
+P:     milan+Noun+Prop+A3sg+Pnon+Nom
+
+ile:2
+D:     il+Noun+A3sg+Pnon+Dat
+P:     ile+Conj
+D:     ile+Postp
+
+Internazionale:1
+P:     ınternazionale+Noun+Prop+A3sg+Pnon+Nom
+
+Milan:1
+P:     milan+Noun+Prop+A3sg+Pnon+Nom
+
+arasında:1
+P:     ara+Adj^DB+Noun+Zero+A3sg+P3sg+Loc
+P:     ara+Noun+A3sg+P3sg+Loc
+
+yapılan:2
+D:     yapı+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Imp+A2sg
+P:     yap+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+
+ve:1
+P:     ve+Conj
+
+Fatih:2
+D:     fatih+Noun+A3sg+Pnon+Nom
+D:     fatih+Noun+Prop+A3sg+Pnon+Nom
+P:     fatih+Adj
+
+Terim'in:2
+D:     terim+Noun+Prop+A3sg+P2sg+Nom
+P:     terim+Noun+Prop+A3sg+Pnon+Gen
+D:     terim'in+Noun+Prop+A3sg+Pnon+Nom
+
+teknik:1
+P:     teknik+Noun+A3sg+Pnon+Nom
+D:     teknik+Adj
+
+direktörlüğünü:1
+P:     direktör+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Acc
+D:     direktör+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P2sg+Acc
+
+yaptığı:2
+P:     yap+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+P:     yap+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+AC:1
+P:     ac+Noun+Prop+A3sg+Pnon+Nom
+
+Milan'ın:2
+D:     milan+Noun+Prop+A3sg+P2sg+Nom
+P:     milan+Noun+Prop+A3sg+Pnon+Gen
+P:     milan'ın+Noun+Prop+A3sg+Pnon+Nom
+
+4-2:1
+P:     4-2+Num+Range
+
+galibiyeti:1
+P:     galibiyet+Noun+A3sg+P3sg+Nom
+P:     galibiyet+Noun+A3sg+Pnon+Acc
+
+ile:3
+P:     il+Noun+A3sg+Pnon+Dat
+P:     ile+Conj
+P:     ile+Postp
+
+tamamlanan:2
+P:     tamam+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos^DB+Adj+PresPart
+P:     tamamla+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+P:     tamam+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos^DB+Adj+PresPart
+
+Milano:1
+P:     milano+Noun+Prop+A3sg+Pnon+Nom
+
+derbisinin:1
+P:     derbi+Noun+A3sg+P3sg+Gen
+
+yankıları:1
+P:     yankı+Noun+A3pl+P3sg+Nom
+D:     yankı+Noun+A3pl+Pnon+Acc
+D:     yankı+Noun+A3sg+P3pl+Nom
+D:     yankı+Noun+A3pl+P3pl+Nom
+
+da:1
+P:     de+Conj
+
+büyük:1
+P:     büyük+Adj
+
+oldu:1
+P:     ol+Verb+Pos+Past+A3sg
+P:     ol+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+İtalya:1
+P:     italya+Noun+Prop+A3sg+Pnon+Nom
+
+basını:4
+P:     bas+Noun+A3sg+P3sg+Acc
+D:     bas+Noun+A3sg+P2sg+Acc
+D:     bası+Noun+A3sg+P2sg+Acc
+P:     basın+Noun+A3sg+P3sg+Nom
+D:     basın+Noun+A3sg+Pnon+Acc
+
+,:1
+P:     ,+Punc
+
+karşılaşmayı:2
+P:     karşı+Noun+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf2+A3sg+Pnon+Acc
+P:     karşı+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Become+Pos^DB+Noun+Inf2+A3sg+Pnon+Acc
+
+,:1
+P:     ,+Punc
+
+':1
+P:     '+Punc
+
+Terim'nin:1
+P:     Terim+Noun+Prop+A3sg+Pnon+Gen
+P:     Terim+Noun+Prop+A3sg+Pnon+Gen
+
+zorluklardan:2
+P:     zor+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3pl+Pnon+Abl
+P:     zor+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Noun+Ness+A3pl+Pnon+Abl
+
+sonraki:3
+P:     sonra+Noun+A3sg+Pnon+Nom^DB+Adj+Rel
+P:     sonraki+Adj
+P:     sonra+Postp^DB+Adj+Rel
+
+başarısı:1
+P:     başarı+Noun+A3sg+P3sg+Nom
+
+':1
+P:     '+Punc
+
+şeklinde:2
+D:     şek+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+P2sg+Loc
+P:     şekil+Noun+A3sg+P3sg+Loc
+D:     şekil+Noun+A3sg+P2sg+Loc
+
+yorumlarken:2
+P:     yorum+Noun+A3pl+Pnon+Nom^DB+Verb+Zero^DB+Adverb+While
+P:     yorumla+Verb+Pos+Aor+A3sg^DB+Adverb+While
+
+,:1
+P:     ,+Punc
+
+La:2
+P:     la+Noun+A3sg+Pnon+Nom
+P:     la+Noun+Prop+A3sg+Pnon+Nom
+
+Gazzetta:1
+P:     gazzetta+Noun+Prop+A3sg+Pnon+Nom
+
+Dello:1
+P:     dello+Noun+Prop+A3sg+Pnon+Nom
+
+Sport:1
+P:     sport+Noun+Prop+A3sg+Pnon+Nom
+
+Gazetesi:1
+P:     gazete+Noun+A3sg+P3sg+Nom
+D:     gazetesi+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+':1
+P:     '+Punc
+
+Ezici:1
+P:     ez+Verb+Pos^DB+Adj+Agt
+D:     ezici+Noun+Prop+A3sg+Pnon+Nom
+
+Milan:1
+P:     milan+Noun+Prop+A3sg+Pnon+Nom
+
+':1
+P:     '+Punc
+
+başlığı:3
+P:     baş+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Nom
+P:     baş+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Acc
+P:     başlık+Noun+A3sg+P3sg+Nom
+P:     başlık+Noun+A3sg+Pnon+Acc
+
+altında:1
+P:     alt+Adj^DB+Noun+Zero+A3sg+P3sg+Loc
+D:     alt+Adj^DB+Noun+Zero+A3sg+P2sg+Loc
+P:     altın+Adj^DB+Noun+Zero+A3sg+Pnon+Loc
+D:     altı+Num+Card^DB+Noun+Zero+A3sg+P2sg+Loc
+P:     alt+Noun+A3sg+P3sg+Loc
+D:     alt+Noun+A3sg+P2sg+Loc
+D:     altı+Noun+A3sg+P2sg+Loc
+P:     altın+Noun+A3sg+Pnon+Loc
+D:     altı+Adj^DB+Noun+Zero+A3sg+P2sg+Loc
+
+verdiği:1
+P:     ver+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+P:     ver+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+haberinde:1
+P:     haber+Noun+A3sg+P3sg+Loc
+D:     haber+Noun+A3sg+P2sg+Loc
+
+,:1
+P:     ,+Punc
+
+':1
+P:     '+Punc
+
+İkinci:1
+D:     iki+Num+Ord
+P:     ikinci+Noun+Prop+A3sg+Pnon+Nom
+
+yarı:3
+P:     yar+Noun+A3sg+P3sg+Nom
+D:     yar+Noun+A3sg+Pnon+Acc
+D:     yarı+Noun+A3sg+Pnon+Nom
+D:     yarı+Adverb
+D:     yarı+Adj
+
+,:1
+P:     ,+Punc
+
+Terim:4
+D:     ter+Noun+A3sg+P1sg+Nom
+D:     ter+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+P:     terim+Noun+A3sg+Pnon+Nom
+P:     terim+Noun+Prop+A3sg+Pnon+Nom
+
+takımı:3
+D:     takı+Noun+A3sg+P1sg+Acc
+P:     takım+Noun+A3sg+P3sg+Nom
+D:     takım+Noun+A3sg+Pnon+Acc
+D:     tak+Noun+A3sg+P1sg+Acc
+
+değiştirip:1
+P:     değiş+Verb^DB+Verb+Caus+Pos^DB+Adverb+AfterDoingSo
+
+Contra'yı:1
+P:     Contra+Noun+Prop+A3sg+Pnon+Acc
+
+oyuna:3
+P:     oy+Noun+A3sg+P3sg+Dat
+D:     oy+Noun+A3sg+P2sg+Dat
+P:     oyun+Noun+A3sg+Pnon+Dat
+
+alıyor:1
+P:     al+Verb+Pos+Prog1+A3sg
+
+ve:1
+P:     ve+Conj
+
+derbiyi:1
+P:     derbi+Noun+A3sg+Pnon+Acc
+
+tersine:1
+P:     ters+Noun+A3sg+P3sg+Dat
+D:     ters+Noun+A3sg+P2sg+Dat
+P:     tersine+Noun+A3sg+Pnon+Nom
+D:     tersin+Verb+Pos+Opt+A3sg
+P:     tersine+Adverb
+P:     ters+Adj^DB+Noun+Zero+A3sg+P3sg+Dat
+D:     ters+Adj^DB+Noun+Zero+A3sg+P2sg+Dat
+
+çeviriyor:1
+P:     çevir+Verb+Pos+Prog1+A3sg
+
+':1
+P:     '+Punc
+
+denildi:1
+P:     de+Verb^DB+Verb+Pass^DB+Verb+Pass+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Gazete:1
+P:     gazete+Noun+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Terim'in:2
+D:     terim+Noun+Prop+A3sg+P2sg+Nom
+P:     terim+Noun+Prop+A3sg+Pnon+Gen
+D:     terim'in+Noun+Prop+A3sg+Pnon+Nom
+
+takımını:1
+P:     takım+Noun+A3sg+P3sg+Acc
+D:     takım+Noun+A3sg+P2sg+Acc
+
+ikinci:1
+P:     iki+Num+Ord
+
+yarıda:2
+P:     yarı+Noun+A3sg+Pnon+Loc
+P:     yarı+Adj^DB+Noun+Zero+A3sg+Pnon+Loc
+
+ateşlemeyi:1
+P:     ateşle+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Acc
+
+seven:1
+P:     sev+Verb+Pos^DB+Adj+PresPart
+
+bir:1
+D:     bir+Num+Card
+D:     bir+Noun+A3sg+Pnon+Nom
+D:     bir+Adverb
+P:     bir+Adj
+
+hoca:1
+P:     hoca+Noun+A3sg+Pnon+Nom
+
+oldunu:1
+P:     olt+Noun+A3sg+P3sg+Acc
+D:     olt+Noun+A3sg+P2sg+Acc
+D:     oldunu+Noun+A3sg+Pnon+Nom
+
+ifade:1
+P:     ifade+Noun+A3sg+Pnon+Nom
+
+edeken:2
+D:     edeke+Noun+A3sg+P2sg+Nom
+P:     edeken+Noun+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+sahanın:2
+D:     saha+Noun+A3sg+P2sg+Gen
+P:     saha+Noun+A3sg+Pnon+Gen
+D:     sahan+Noun+A3sg+P2sg+Nom
+P:     sahan+Noun+A3sg+Pnon+Gen
+
+en:2
+D:     en+Noun+A3sg+Pnon+Nom
+P:     en+Adverb+AdjMdfy
+
+iyilerini:8
+D:     iyi+Noun+A3pl+P3sg+Acc
+D:     iyi+Noun+A3pl+P2sg+Acc
+D:     iyi+Noun+A3sg+P3pl+Acc
+D:     iyi+Noun+A3pl+P3pl+Acc
+P:     iyi+Adj^DB+Noun+Zero+A3pl+P3sg+Acc
+D:     iyi+Adj^DB+Noun+Zero+A3pl+P2sg+Acc
+D:     iyi+Adj^DB+Noun+Zero+A3sg+P3pl+Acc
+P:     iyi+Adj^DB+Noun+Zero+A3pl+P3pl+Acc
+
+ise:3
+D:     is+Noun+A3sg+Pnon+Dat
+D:     i+Verb+Pos+Desr+A3sg
+P:     ise+Conj
+
+Shevchenko:1
+P:     shevchenko+Noun+Prop+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+Contra:1
+P:     contra+Noun+Prop+A3sg+Pnon+Nom
+
+olarak:1
+P:     ol+Verb+Pos^DB+Adverb+ByDoingSo
+
+açıkladı:1
+P:     açıkla+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Corriere:1
+P:     corriere+Noun+Prop+A3sg+Pnon+Nom
+
+dello:1
+P:     dello+Noun+A3sg+Pnon+Nom
+
+Sport'ta:1
+P:     Sport+Noun+Prop+A3sg+Pnon+Loc
+P:     Sport+Noun+Prop+A3sg+Pnon+Nom
+
+ise:3
+D:     is+Noun+A3sg+Pnon+Dat
+D:     i+Verb+Pos+Desr+A3sg
+P:     ise+Conj
+
+':1
+P:     '+Punc
+
+Bir:1
+D:     bir+Num+Card
+D:     bir+Noun+A3sg+Pnon+Nom
+D:     bir+Adverb
+P:     bir+Adj
+D:     bir+Noun+Prop+A3sg+Pnon+Nom
+
+Milan:1
+P:     milan+Noun+Prop+A3sg+Pnon+Nom
+
+İmparatorluğu:1
+P:     imparator+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Nom
+D:     imparator+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Acc
+D:     imparatorluğu+Noun+Prop+A3sg+Pnon+Nom
+
+':1
+P:     '+Punc
+
+başlığı:3
+P:     baş+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Nom
+P:     baş+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Acc
+P:     başlık+Noun+A3sg+P3sg+Nom
+P:     başlık+Noun+A3sg+Pnon+Acc
+
+altında:1
+P:     alt+Adj^DB+Noun+Zero+A3sg+P3sg+Loc
+D:     alt+Adj^DB+Noun+Zero+A3sg+P2sg+Loc
+P:     altın+Adj^DB+Noun+Zero+A3sg+Pnon+Loc
+D:     altı+Num+Card^DB+Noun+Zero+A3sg+P2sg+Loc
+P:     alt+Noun+A3sg+P3sg+Loc
+D:     alt+Noun+A3sg+P2sg+Loc
+D:     altı+Noun+A3sg+P2sg+Loc
+P:     altın+Noun+A3sg+Pnon+Loc
+D:     altı+Adj^DB+Noun+Zero+A3sg+P2sg+Loc
+
+':1
+P:     '+Punc
+
+Terim:4
+D:     ter+Noun+A3sg+P1sg+Nom
+P:     ter+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+P:     terim+Noun+A3sg+Pnon+Nom
+P:     terim+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+derbinin:2
+D:     derbi+Noun+A3sg+P2sg+Gen
+P:     derbi+Noun+A3sg+Pnon+Gen
+
+imparatoru:1
+P:     imparator+Noun+A3sg+P3sg+Nom
+D:     imparator+Noun+A3sg+Pnon+Acc
+
+.:1
+P:     .+Punc
+
+<S>
+Büyük:1
+P:     büyük+Adj
+
+bir:1
+D:     bir+Num+Card
+P:     bir+Noun+A3sg+Pnon+Nom
+D:     bir+Adverb
+D:     bir+Adj
+
+motivatör:1
+P:     motivatör+Noun+A3sg+Pnon+Nom
+
+':1
+P:     '+Punc
+
+ifadesine:1
+P:     ifade+Noun+A3sg+P3sg+Dat
+
+yer:1
+P:     yer+Noun+A3sg+Pnon+Nom
+P:     ye+Verb+Pos+Aor+A3sg
+D:     yer+Verb+Pos+Imp+A2sg
+
+verildi:1
+P:     ver+Verb^DB+Verb+Pass+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Gazete:1
+P:     gazete+Noun+A3sg+Pnon+Nom
+
+yazalarından:3
+P:     yaza+Noun+A3pl+P3sg+Abl
+D:     yaza+Noun+A3pl+P2sg+Abl
+D:     yaza+Noun+A3sg+P3pl+Abl
+D:     yaza+Noun+A3pl+P3pl+Abl
+D:     yazalarından+Noun+A3sg+Pnon+Nom
+
+İtalo:1
+P:     italo+Noun+Prop+A3sg+Pnon+Nom
+
+Cucci:1
+P:     cucci+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+köşesinde:1
+P:     köşe+Noun+A3sg+P3sg+Loc
+
+,:1
+P:     ,+Punc
+
+':1
+P:     '+Punc
+
+Nefret:1
+P:     nefret+Noun+A3sg+Pnon+Nom
+P:     nefret+Noun+Prop+A3sg+Pnon+Nom
+
+ediyorum:1
+P:     et+Verb+Pos+Prog1+A1sg
+
+.:1
+P:     .+Punc
+
+<S>
+Terim:4
+D:     ter+Noun+A3sg+P1sg+Nom
+P:     ter+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+P:     terim+Noun+A3sg+Pnon+Nom
+P:     terim+Noun+Prop+A3sg+Pnon+Nom
+
+kazandı:4
+D:     kaza+Noun+A3sg+P2sg+Nom^DB+Verb+Zero+Past+A3sg
+P:     kazan+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     kaz+Verb+Pos^DB+Adj+PresPart^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     kazan+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Bu:2
+D:     bu+Pron+A3sg+Pnon+Nom
+P:     bu+Adj
+
+zamana:1
+P:     zaman+Noun+A3sg+Pnon+Dat
+
+kadar:2
+P:     kadar+Adverb+AdjMdfy
+P:     kadar+Postp
+
+Türk:2
+P:     türk+Noun+A3sg+Pnon+Nom
+P:     türk+Noun+Prop+A3sg+Pnon+Nom
+
+teknik:1
+D:     teknik+Noun+A3sg+Pnon+Nom
+P:     teknik+Adj
+
+adama:2
+D:     ada+Noun+A3sg+P1sg+Dat
+P:     adam+Noun+A3sg+Pnon+Dat
+D:     ada+Verb+Neg+Imp+A2sg
+P:     ada+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+
+demediklerini:4
+P:     de+Verb+Neg^DB+Adj+PastPart^DB+Noun+Zero+A3pl+P3sg+Acc
+D:     de+Verb+Neg^DB+Adj+PastPart^DB+Noun+Zero+A3pl+P2sg+Acc
+D:     de+Verb+Neg^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3pl+Acc
+P:     de+Verb+Neg^DB+Adj+PastPart^DB+Noun+Zero+A3pl+P3pl+Acc
+
+bırakmayan:1
+P:     bırak+Verb+Neg^DB+Adj+PresPart
+
+medya:1
+P:     medya+Noun+A3sg+Pnon+Nom
+
+şimdi:2
+P:     şimdi+Noun+A3sg+Pnon+Nom
+P:     şimdi+Adverb
+
+ne:5
+P:     ne+Noun+A3sg+Pnon+Nom
+P:     ne+Pron+Ques+A3sg+Pnon+Nom
+P:     ne+Conj
+P:     ne+Adverb
+P:     ne+Adverb+Ques
+P:     ne+Adj
+P:     ne+Adj+Ques
+
+yazacak:2
+D:     yaz+Verb+Pos^DB+Adj+FutPart
+P:     yaz+Verb+Pos+Fut+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Hiç kimse:1
+P:     hiç kimse+Pron
+
+Terim'e:1
+P:     terim+Noun+Prop+A3sg+Pnon+Dat
+P:     terim'e+Noun+Prop+A3sg+Pnon+Nom
+
+inanmıyordu:1
+P:     inan+Verb+Neg+Prog1+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Ama:3
+D:     am+Noun+A3sg+Pnon+Dat
+D:     ama+Noun+A3sg+Pnon+Nom
+P:     ama+Conj
+
+o:1
+D:     o+Pron+A3sg+Pnon+Nom
+D:     o+Interj
+P:     o+Adj
+
+cevap:1
+P:     cevap+Noun+A3sg+Pnon+Nom
+
+vermeyi:1
+P:     ver+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Acc
+
+başardı:1
+P:     başar+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Terim:4
+D:     ter+Noun+A3sg+P1sg+Nom
+P:     ter+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+P:     terim+Noun+A3sg+Pnon+Nom
+P:     terim+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+asla:3
+D:     as+Noun+A3sg+Pnon+Ins
+P:     asıl+Noun+A3sg+Pnon+Dat
+P:     asla+Adverb
+D:     as+Adj^DB+Noun+Zero+A3sg+Pnon+Ins
+
+kaybetmeyenlerden:1
+P:     kaybet+Verb+Neg^DB+Adj+PresPart^DB+Noun+Zero+A3pl+Pnon+Abl
+
+.:1
+P:     .+Punc
+
+<S>
+Onun:6
+D:     on+Num+Card^DB+Noun+Zero+A3sg+P2sg+Nom
+D:     on+Num+Card^DB+Noun+Zero+A3sg+Pnon+Gen
+D:     on+Noun+A3sg+P2sg+Nom
+D:     on+Noun+A3sg+Pnon+Gen
+D:     on+Verb+Pos+Imp+A2pl
+P:     o+Pron+A3sg+Pnon+Gen
+D:     on+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+D:     on+Adj^DB+Noun+Zero+A3sg+Pnon+Gen
+
+için:4
+D:     iç+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+D:     iç+Adj^DB+Noun+Zero+A3sg+Pnon+Gen
+D:     iç+Verb+Pos+Imp+A2pl
+P:     için+Postp
+
+memnunum:3
+D:     memnu+Noun+A3sg+P2sg+Nom^DB+Verb+Zero+Pres+A1sg
+D:     memnun+Noun+A3sg+P1sg+Nom
+P:     memnun+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+D:     memnun+Adj^DB+Noun+Zero+A3sg+P1sg+Nom
+P:     memnun+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+
+':1
+P:     '+Punc
+
+dedi:1
+P:     de+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Tutto:1
+P:     tutto+Noun+Prop+A3sg+Pnon+Nom
+
+Sport:1
+P:     sport+Noun+Prop+A3sg+Pnon+Nom
+
+Gazetesi:1
+P:     gazete+Noun+A3sg+P3sg+Nom
+D:     gazetesi+Noun+Prop+A3sg+Pnon+Nom
+
+de:3
+D:     de+Noun+A3sg+Pnon+Nom
+D:     de+Verb+Pos+Imp+A2sg
+P:     de+Conj
+
+':1
+P:     '+Punc
+
+Milan:1
+P:     milan+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+Terim'in:2
+D:     terim+Noun+Prop+A3sg+P2sg+Nom
+P:     terim+Noun+Prop+A3sg+Pnon+Gen
+D:     terim'in+Noun+Prop+A3sg+Pnon+Nom
+
+zaferi:1
+P:     zafer+Noun+A3sg+P3sg+Nom
+D:     zafer+Noun+A3sg+Pnon+Acc
+
+':1
+P:     '+Punc
+
+ifadesini:1
+P:     ifade+Noun+A3sg+P3sg+Acc
+
+başlığa:2
+P:     baş+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Dat
+P:     başlık+Noun+A3sg+Pnon+Dat
+
+çıkararak:1
+P:     çık+Verb^DB+Verb+Caus+Pos^DB+Adverb+ByDoingSo
+
+,:1
+P:     ,+Punc
+
+':1
+P:     '+Punc
+
+derbide:1
+P:     derbi+Noun+A3sg+Pnon+Loc
+
+İnter:1
+P:     inter+Noun+Prop+A3sg+Pnon+Nom
+
+ile:3
+D:     il+Noun+A3sg+Pnon+Dat
+P:     ile+Conj
+D:     ile+Postp
+
+ara:3
+D:     ara+Adj
+P:     ar+Noun+A3sg+Pnon+Dat
+P:     ara+Noun+A3sg+Pnon+Nom
+D:     ara+Verb+Pos+Imp+A2sg
+
+kapandı:3
+P:     kapan+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     kap+Verb+Pos^DB+Adj+PresPart^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     kapa+Verb^DB+Verb+Pass+Pos+Past+A3sg
+P:     kapan+Verb+Pos+Past+A3sg
+
+1-0:1
+P:     1-0+Num+Range
+
+':1
+P:     '+Punc
+
+dan:1
+P:     dan+Noun+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+4-2:1
+P:     4-2+Num+Range
+
+':1
+P:     '+Punc
+
+ye:2
+P:     ye+Verb+Pos+Imp+A2sg
+D:     ye+Noun+A3sg+Pnon+Nom
+
+.:1
+P:     .+Punc
+
+<S>
+Türk:2
+P:     türk+Noun+A3sg+Pnon+Nom
+P:     türk+Noun+Prop+A3sg+Pnon+Nom
+
+teknik:1
+D:     teknik+Noun+A3sg+Pnon+Nom
+P:     teknik+Adj
+
+adamın:3
+D:     ada+Noun+A3sg+P1sg+Gen
+D:     adam+Noun+A3sg+P2sg+Nom
+P:     adam+Noun+A3sg+Pnon+Gen
+
+koltuğu:1
+P:     koltuk+Noun+A3sg+P3sg+Nom
+D:     koltuk+Noun+A3sg+Pnon+Acc
+
+kurtuluyor:1
+P:     kurtul+Verb+Pos+Prog1+A3sg
+
+':1
+P:     '+Punc
+
+denildi:1
+P:     de+Verb^DB+Verb+Pass^DB+Verb+Pass+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Gazetedeki:1
+P:     gazete+Noun+A3sg+Pnon+Loc^DB+Adj+Rel
+
+haberlerde:1
+P:     haber+Noun+A3pl+Pnon+Loc
+
+,:1
+P:     ,+Punc
+
+Milan'ın:2
+D:     milan+Noun+Prop+A3sg+P2sg+Nom
+P:     milan+Noun+Prop+A3sg+Pnon+Gen
+P:     milan'ın+Noun+Prop+A3sg+Pnon+Nom
+
+derbiyi:1
+P:     derbi+Noun+A3sg+Pnon+Acc
+
+Terim'in:2
+D:     terim+Noun+Prop+A3sg+P2sg+Nom
+P:     terim+Noun+Prop+A3sg+Pnon+Gen
+D:     terim'in+Noun+Prop+A3sg+Pnon+Nom
+
+gücü:2
+D:     gücü+Noun+A3sg+Pnon+Nom
+P:     güç+Noun+A3sg+P3sg+Nom
+D:     güç+Noun+A3sg+Pnon+Acc
+D:     güç+Adj^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     güç+Adj^DB+Noun+Zero+A3sg+Pnon+Acc
+
+ve:1
+P:     ve+Conj
+
+oyun:3
+D:     oy+Noun+A3sg+P2sg+Nom
+D:     oy+Noun+A3sg+Pnon+Gen
+P:     oyun+Noun+A3sg+Pnon+Nom
+D:     oy+Verb+Pos+Imp+A2pl
+
+içindeki:1
+P:     iç+Adj^DB+Noun+Zero+A3sg+P3sg+Loc^DB+Adj+Rel
+D:     iç+Adj^DB+Noun+Zero+A3sg+P2sg+Loc^DB+Adj+Rel
+
+taktik:1
+P:     taktik+Noun+A3sg+Pnon+Nom
+
+değişiklikleriyle:6
+P:     değişik+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3pl+P3sg+Ins
+D:     değişik+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3pl+Ins
+P:     değişik+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3pl+P3pl+Ins
+P:     değişik+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Noun+Ness+A3pl+P3sg+Ins
+D:     değişik+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3pl+Ins
+P:     değişik+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Noun+Ness+A3pl+P3pl+Ins
+
+kazandığını:1
+P:     kazan+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Acc
+D:     kazan+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P2sg+Acc
+
+belirtildi:1
+P:     belir+Verb^DB+Verb+Caus^DB+Verb+Pass+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Geçen:1
+P:     geç+Verb+Pos^DB+Adj+PresPart
+
+hafta:2
+D:     haf+Noun+A3sg+Pnon+Loc
+P:     hafta+Noun+A3sg+Pnon+Nom
+
+boyunca:4
+D:     boy+Noun+A3sg+P3sg^DB+Adverb+Ly
+D:     boy+Noun+A3sg+P2sg^DB+Adverb+Ly
+D:     boyun+Noun+A3sg+Pnon^DB+Adverb+Ly
+P:     boyunca+Postp
+
+Terim'i:2
+P:     terim+Noun+Prop+A3sg+P3sg+Nom
+P:     terim+Noun+Prop+A3sg+Pnon+Acc
+P:     terim'i+Noun+Prop+A3sg+Pnon+Nom
+
+eleştiren:1
+P:     eleştir+Verb+Pos^DB+Adj+PresPart
+
+ve:1
+P:     ve+Conj
+
+yerine:1
+P:     yer+Noun+A3sg+P3sg+Dat
+D:     yer+Noun+A3sg+P2sg+Dat
+D:     yerin+Verb+Pos+Opt+A3sg
+P:     yerine+Adverb
+
+Ancelotti'nin:1
+P:     Ancelotti+Noun+Prop+A3sg+Pnon+Gen
+P:     Ancelotti+Noun+Prop+A3sg+Pnon+Gen
+
+geleceğini:3
+P:     gelecek+Adj^DB+Noun+Zero+A3sg+P3sg+Acc
+D:     gelecek+Adj^DB+Noun+Zero+A3sg+P2sg+Acc
+P:     gel+Verb+Pos^DB+Adj+FutPart^DB+Noun+Zero+A3sg+P3sg+Acc
+D:     gel+Verb+Pos^DB+Adj+FutPart^DB+Noun+Zero+A3sg+P2sg+Acc
+
+yazan:1
+P:     yaz+Verb+Pos^DB+Adj+PresPart
+
+gazete:1
+P:     gazete+Noun+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+alınan:1
+P:     al+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+P:     alın+Verb+Pos^DB+Adj+PresPart
+
+derbi:1
+P:     derbi+Noun+A3sg+Pnon+Nom
+
+galibiyeti:1
+P:     galibiyet+Noun+A3sg+P3sg+Nom
+D:     galibiyet+Noun+A3sg+Pnon+Acc
+
+sonrasında:1
+P:     sonra+Noun+A3sg+P3sg+Loc
+
+Terim'in:2
+D:     terim+Noun+Prop+A3sg+P2sg+Nom
+P:     terim+Noun+Prop+A3sg+Pnon+Gen
+P:     terim'in+Noun+Prop+A3sg+Pnon+Nom
+
+güvene:2
+D:     güve+Noun+A3sg+P2sg+Dat
+P:     güven+Noun+A3sg+Pnon+Dat
+D:     güven+Verb+Pos+Opt+A3sg
+
+layık:1
+D:     layık+Noun+A3sg+Pnon+Nom
+P:     layık+Adj
+
+olduğunu:1
+P:     ol+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Acc
+D:     ol+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P2sg+Acc
+
+dile:1
+P:     dil+Noun+A3sg+Pnon+Dat
+D:     dil+Verb+Pos+Opt+A3sg
+D:     dile+Verb+Pos+Imp+A2sg
+
+getirdi:1
+P:     getir+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+İtalyan:2
+P:     italyan+Noun+A3sg+Pnon+Nom
+P:     italyan+Noun+Prop+A3sg+Pnon+Nom
+D:     italyan+Adj
+
+basınındaki:1
+P:     basın+Noun+A3sg+P3sg+Loc^DB+Adj+Rel
+D:     basın+Noun+A3sg+P2sg+Loc^DB+Adj+Rel
+
+diğer:3
+D:     diğer+Noun+A3sg+Pnon+Nom
+D:     dik+Verb+Pos+Aor+A3sg
+P:     diğer+Adj
+
+başlıklarda:2
+D:     baş+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3pl+Pnon+Loc
+P:     başlık+Noun+A3pl+Pnon+Loc
+
+ise:3
+D:     is+Noun+A3sg+Pnon+Dat
+D:     i+Verb+Pos+Desr+A3sg
+P:     ise+Conj
+
+La:2
+P:     la+Noun+A3sg+Pnon+Nom
+P:     la+Noun+Prop+A3sg+Pnon+Nom
+
+Repubblica:1
+P:     repubblica+Noun+Prop+A3sg+Pnon+Nom
+
+':1
+P:     '+Punc
+
+Terim'nin:1
+P:     Terim+Noun+Prop+A3sg+Pnon+Gen
+P:     Terim+Noun+Prop+A3sg+Pnon+Gen
+
+zorluklardan:2
+P:     zor+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3pl+Pnon+Abl
+P:     zor+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Noun+Ness+A3pl+Pnon+Abl
+
+sonra:3
+P:     sonra+Noun+A3sg+Pnon+Nom
+D:     sonra+Adverb
+D:     sonra+Postp
+
+elde ettiği:1
+P:     elde et+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     elde et+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+başarı:1
+P:     başarı+Noun+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+görevinden alınmadan:1
+P:     görevinden al+Verb^DB+Verb+Pass+Pos^DB+Adverb+WithoutHavingDone
+P:     görevinden al+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+Pnon+Abl
+
+zafere:1
+P:     zafer+Noun+A3sg+Pnon+Dat
+
+':1
+P:     '+Punc
+
+,:1
+P:     ,+Punc
+
+Corriere:1
+P:     corriere+Noun+Prop+A3sg+Pnon+Nom
+
+della:1
+P:     della+Noun+A3sg+Pnon+Nom
+
+Sera:2
+P:     sera+Noun+A3sg+Pnon+Nom
+P:     sera+Noun+Prop+A3sg+Pnon+Nom
+
+':1
+P:     '+Punc
+
+Terim'nin:1
+P:     Terim+Noun+Prop+A3sg+Pnon+Gen
+P:     Terim+Noun+Prop+A3sg+Pnon+Gen
+
+zorluklardan:2
+P:     zor+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3pl+Pnon+Abl
+P:     zor+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Noun+Ness+A3pl+Pnon+Abl
+
+sonraki:1
+P:     sonra+Noun+A3sg+Pnon+Nom^DB+Adj+Rel
+P:     sonraki+Adj
+P:     sonra+Postp^DB+Adj+Rel
+
+başarısı:1
+P:     başarı+Noun+A3sg+P3sg+Nom
+
+.:1
+P:     .+Punc
+
+<S>
+Terim'in:2
+D:     terim+Noun+Prop+A3sg+P2sg+Nom
+P:     terim+Noun+Prop+A3sg+Pnon+Gen
+D:     terim'in+Noun+Prop+A3sg+Pnon+Nom
+
+kumarı:1
+P:     kumar+Noun+A3sg+P3sg+Nom
+D:     kumar+Noun+A3sg+Pnon+Acc
+
+oyunu:4
+P:     oy+Noun+A3sg+P3sg+Acc
+D:     oy+Noun+A3sg+P2sg+Acc
+P:     oyun+Noun+A3sg+P3sg+Nom
+P:     oyun+Noun+A3sg+Pnon+Acc
+
+değiştirdi:1
+P:     değiş+Verb^DB+Verb+Caus+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+San:3
+P:     san+Noun+A3sg+Pnon+Nom
+D:     san+Verb+Pos+Imp+A2sg
+D:     san+Noun+Prop+A3sg+Pnon+Nom
+
+Siro'nun:1
+P:     Siro+Noun+Prop+A3sg+Pnon+Gen
+P:     Siro+Noun+Prop+A3sg+Pnon+Gen
+
+ışıkları:1
+P:     ışık+Noun+A3pl+P3sg+Nom
+D:     ışık+Noun+A3pl+Pnon+Acc
+D:     ışık+Noun+A3sg+P3pl+Nom
+D:     ışık+Noun+A3pl+P3pl+Nom
+
+sadece:1
+P:     sadece+Adverb
+D:     sade+Adj^DB+Noun+Zero+A3sg+Pnon^DB+Adverb+Ly
+
+Terim:4
+D:     ter+Noun+A3sg+P1sg+Nom
+D:     ter+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+P:     terim+Noun+A3sg+Pnon+Nom
+P:     terim+Noun+Prop+A3sg+Pnon+Nom
+
+için:4
+D:     iç+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+D:     iç+Adj^DB+Noun+Zero+A3sg+Pnon+Gen
+D:     iç+Verb+Pos+Imp+A2pl
+P:     için+Postp
+
+tekrardan:1
+P:     tekrar+Noun+A3sg+Pnon+Abl
+
+açılıyor:1
+P:     aç+Verb^DB+Verb+Pass+Pos+Prog1+A3sg
+
+':1
+P:     '+Punc
+
+,:1
+P:     ,+Punc
+
+La:2
+P:     la+Noun+A3sg+Pnon+Nom
+P:     la+Noun+Prop+A3sg+Pnon+Nom
+
+Stampa:1
+P:     stampa+Noun+Prop+A3sg+Pnon+Nom
+
+':1
+P:     '+Punc
+
+Terim:4
+D:     ter+Noun+A3sg+P1sg+Nom
+P:     ter+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+P:     terim+Noun+A3sg+Pnon+Nom
+P:     terim+Noun+Prop+A3sg+Pnon+Nom
+
+Gururun:2
+D:     gurur+Noun+A3sg+P2sg+Nom
+P:     gurur+Noun+A3sg+Pnon+Gen
+D:     gururun+Noun+Prop+A3sg+Pnon+Nom
+
+zaferi:1
+P:     zafer+Noun+A3sg+P3sg+Nom
+D:     zafer+Noun+A3sg+Pnon+Acc
+
+':1
+P:     '+Punc
+
+ifadeleri:1
+P:     ifade+Noun+A3pl+P3sg+Nom
+P:     ifade+Noun+A3pl+Pnon+Acc
+D:     ifade+Noun+A3sg+P3pl+Nom
+P:     ifade+Noun+A3pl+P3pl+Nom
+
+kullanıldı:2
+P:     kul+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire^DB+Verb+Pass+Pos+Past+A3sg
+P:     kullan+Verb^DB+Verb+Pass+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Öte yandan:1
+P:     öte yandan+Conj
+
+,:1
+P:     ,+Punc
+
+Milan'ın:2
+D:     milan+Noun+Prop+A3sg+P2sg+Nom
+P:     milan+Noun+Prop+A3sg+Pnon+Gen
+P:     milan'ın+Noun+Prop+A3sg+Pnon+Nom
+
+yıldız:1
+P:     yıldız+Noun+A3sg+Pnon+Nom
+D:     yıldız+Adj
+
+futbolcusu:1
+P:     futbol+Noun+A3sg+Pnon+Nom^DB+Noun+Agt+A3sg+P3sg+Nom
+
+İnzaghi:1
+P:     inzaghi+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+basında:4
+P:     bas+Noun+A3sg+P3sg+Loc
+D:     bas+Noun+A3sg+P2sg+Loc
+D:     bası+Noun+A3sg+P2sg+Loc
+P:     basın+Noun+A3sg+Pnon+Loc
+
+yer alan:1
+P:     yer al+Verb+Pos^DB+Adj+PresPart
+
+demeçlerinde:4
+P:     demeç+Noun+A3pl+P3sg+Loc
+D:     demeç+Noun+A3pl+P2sg+Loc
+D:     demeç+Noun+A3sg+P3pl+Loc
+P:     demeç+Noun+A3pl+P3pl+Loc
+
+,:1
+P:     ,+Punc
+
+':1
+P:     '+Punc
+
+devre:2
+D:     devir+Noun+A3sg+Pnon+Dat
+P:     devre+Noun+A3sg+Pnon+Nom
+D:     devre+Adverb
+
+arasında:1
+P:     ara+Adj^DB+Noun+Zero+A3sg+P3sg+Loc
+P:     ara+Noun+A3sg+P3sg+Loc
+
+,:1
+P:     ,+Punc
+
+soyunma:2
+D:     soyun+Verb+Neg+Imp+A2sg
+P:     soyun+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+
+odasında:1
+P:     oda+Noun+A3sg+P3sg+Loc
+
+hepimiz:1
+P:     hepimiz+Pron+A1pl+P1pl+Nom+Nom
+
+bağırıyorduk:1
+P:     bağır+Verb+Pos+Prog1+Past+A1pl
+
+.:1
+P:     .+Punc
+
+<S>
+Şimdi:2
+D:     şimdi+Noun+A3sg+Pnon+Nom
+P:     şimdi+Adverb
+
+sonuçların:2
+D:     sonuç+Noun+A3pl+P2sg+Nom
+P:     sonuç+Noun+A3pl+Pnon+Gen
+
+devamını:1
+P:     devam+Noun+A3sg+P3sg+Acc
+D:     devam+Noun+A3sg+P2sg+Acc
+
+getirmeyi:1
+P:     getir+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Acc
+
+öğrenmek:1
+P:     öğren+Verb+Pos^DB+Noun+Inf1+A3sg+Pnon+Nom
+
+zorundayız:3
+P:     zor+Noun+A3sg+P3sg+Loc^DB+Verb+Zero+Pres+A1pl
+D:     zor+Noun+A3sg+P2sg+Loc^DB+Verb+Zero+Pres+A1pl
+P:     zor+Adj^DB+Noun+Zero+A3sg+P3sg+Loc^DB+Verb+Zero+Pres+A1pl
+D:     zor+Adj^DB+Noun+Zero+A3sg+P2sg+Loc^DB+Verb+Zero+Pres+A1pl
+
+':1
+P:     '+Punc
+
+dedi:1
+P:     de+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Maçın:2
+D:     maç+Noun+A3sg+P2sg+Nom
+P:     maç+Noun+A3sg+Pnon+Gen
+
+yıldızı:1
+P:     yıldız+Noun+A3sg+P3sg+Nom
+D:     yıldız+Noun+A3sg+Pnon+Acc
+D:     yıldız+Adj^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     yıldız+Adj^DB+Noun+Zero+A3sg+Pnon+Acc
+
+Ukraynalı:1
+P:     ukrayna+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With
+D:     ukraynalı+Noun+Prop+A3sg+Pnon+Nom
+
+Shevchenko:1
+P:     shevchenko+Noun+Prop+A3sg+Pnon+Nom
+
+ise:3
+D:     is+Noun+A3sg+Pnon+Dat
+D:     i+Verb+Pos+Desr+A3sg
+P:     ise+Conj
+
+':1
+P:     '+Punc
+
+Biz:2
+D:     biz+Noun+A3sg+Pnon+Nom
+P:     biz+Pron+A1pl+Pnon+Nom
+D:     biz+Noun+Prop+A3sg+Pnon+Nom
+
+büyük:1
+P:     büyük+Adj
+
+bir:1
+D:     bir+Num+Card
+P:     bir+Noun+A3sg+Pnon+Nom
+D:     bir+Adverb
+D:     bir+Adj
+
+takımız:3
+P:     takı+Noun+A3sg+P1sg+Nom^DB+Verb+Zero+Pres+A1pl
+P:     takı+Noun+A3sg+P1pl+Nom
+P:     takım+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1pl
+P:     tak+Noun+A3sg+P1sg+Nom^DB+Verb+Zero+Pres+A1pl
+P:     tak+Noun+A3sg+P1pl+Nom
+
+ve:1
+P:     ve+Conj
+
+bu:2
+D:     bu+Pron+A3sg+Pnon+Nom
+P:     bu+Adj
+
+zafer:1
+P:     zafer+Noun+A3sg+Pnon+Nom
+
+takımın:3
+D:     takı+Noun+A3sg+P1sg+Gen
+D:     takım+Noun+A3sg+P2sg+Nom
+P:     takım+Noun+A3sg+Pnon+Gen
+D:     tak+Noun+A3sg+P1sg+Gen
+
+':1
+P:     '+Punc
+
+diye:1
+D:     de+Verb+Pos+Opt+A3sg
+P:     diye+Adverb
+
+konuştu:2
+P:     kon+Verb+Pos^DB+Noun+Inf3+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     konuş+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Milano'da:1
+P:     Milano+Noun+Prop+A3sg+Pnon+Loc
+P:     Milano+Adj^DB+Noun+Prop+Zero+A3sg+Pnon+Loc
+
+ilk:3
+P:     ilk+Noun+A3sg+Pnon+Nom
+D:     ilk+Adverb
+D:     ilk+Adj
+
+derbisine:1
+P:     derbi+Noun+A3sg+P3sg+Dat
+
+çıkan:2
+P:     çıkan+Noun+A3sg+Pnon+Nom
+P:     çık+Verb+Pos^DB+Adj+PresPart
+
+ve:1
+P:     ve+Conj
+
+oyunda:3
+P:     oy+Noun+A3sg+P3sg+Loc
+D:     oy+Noun+A3sg+P2sg+Loc
+P:     oyun+Noun+A3sg+Pnon+Loc
+
+15:1
+P:     15+Num+Card
+
+dakika:1
+P:     dakika+Noun+A3sg+Pnon+Nom
+
+kalan:3
+D:     kala+Noun+A3sg+P2sg+Nom
+D:     kalan+Noun+A3sg+Pnon+Nom
+D:     kal+Verb+Pos^DB+Adj+PresPart
+P:     kalan+Adj
+
+Okan:1
+P:     okan+Noun+Prop+A3sg+Pnon+Nom
+
+için:4
+D:     iç+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+D:     iç+Adj^DB+Noun+Zero+A3sg+Pnon+Gen
+D:     iç+Verb+Pos+Imp+A2pl
+P:     için+Postp
+
+İtalyan:2
+P:     italyan+Noun+A3sg+Pnon+Nom
+P:     italyan+Noun+Prop+A3sg+Pnon+Nom
+D:     italyan+Adj
+
+basını:4
+P:     bas+Noun+A3sg+P3sg+Acc
+D:     bas+Noun+A3sg+P2sg+Acc
+D:     bası+Noun+A3sg+P2sg+Acc
+P:     basın+Noun+A3sg+P3sg+Nom
+D:     basın+Noun+A3sg+Pnon+Acc
+
+,:1
+P:     ,+Punc
+
+':1
+P:     '+Punc
+
+Okan:1
+P:     okan+Noun+Prop+A3sg+Pnon+Nom
+
+oyuna:3
+P:     oy+Noun+A3sg+P3sg+Dat
+D:     oy+Noun+A3sg+P2sg+Dat
+D:     oyun+Noun+A3sg+Pnon+Dat
+
+girdiğinde:1
+P:     gir+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Loc
+D:     gir+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P2sg+Loc
+
+cenaze:1
+P:     cenaze+Noun+A3sg+Pnon+Nom
+
+çoktan:2
+P:     çoktan+Adverb
+P:     çok+Adj^DB+Noun+Zero+A3sg+Pnon+Abl
+
+kalkmıştı:2
+P:     kalk+Verb+Pos^DB+Adj+Zero^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     kalk+Verb+Pos+Narr+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Yapacağı:1
+P:     yap+Verb+Pos^DB+Adj+FutPart^DB+Noun+Zero+A3sg+P3sg+Nom
+P:     yap+Verb+Pos^DB+Adj+FutPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+birşey:1
+P:     birşey+Noun+A3sg+Pnon+Nom
+
+yoktu:1
+P:     yok+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     yok+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+
+,:1
+P:     ,+Punc
+
+sadece:1
+P:     sadece+Adverb
+D:     sade+Adj^DB+Noun+Zero+A3sg+Pnon^DB+Adverb+Ly
+
+koştu:1
+P:     koş+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Bu:2
+D:     bu+Pron+A3sg+Pnon+Nom
+P:     bu+Adj
+
+dakikadan:1
+P:     dakika+Noun+A3sg+Pnon+Abl
+
+sonra:3
+P:     sonra+Noun+A3sg+Pnon+Nom
+D:     sonra+Adverb
+D:     sonra+Postp
+
+oyuna:3
+P:     oy+Noun+A3sg+P3sg+Dat
+D:     oy+Noun+A3sg+P2sg+Dat
+D:     oyun+Noun+A3sg+Pnon+Dat
+
+giren:2
+D:     giren+Noun+A3sg+Pnon+Nom
+P:     gir+Verb+Pos^DB+Adj+PresPart
+
+bir:1
+D:     bir+Num+Card
+D:     bir+Noun+A3sg+Pnon+Nom
+D:     bir+Adverb
+P:     bir+Adj
+
+futbolcu:1
+P:     futbol+Noun+A3sg+Pnon+Nom^DB+Noun+Agt+A3sg+Pnon+Nom
+D:     futbol+Noun+A3sg+Pnon+Nom^DB+Adj+Agt
+
+hakkında:1
+P:     hak+Noun+A3sg+P3sg+Loc
+D:     hak+Noun+A3sg+P2sg+Loc
+P:     hakkında+Adverb
+
+yorum:1
+P:     yorum+Noun+A3sg+Pnon+Nom
+
+olmaz:2
+D:     olmaz+Noun+A3sg+Pnon+Nom
+P:     ol+Verb+Neg+Aor+A3sg
+D:     olmaz+Adj
+
+':1
+P:     '+Punc
+
+denildi:1
+P:     de+Verb^DB+Verb+Pass^DB+Verb+Pass+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Yasemin:2
+D:     yasemin+Noun+A3sg+Pnon+Nom
+D:     yasemin+Noun+Prop+A3sg+Pnon+Nom
+P:     yasemin+Adj
+
+Dalkılıç:2
+P:     dalkılıç+Noun+A3sg+Pnon+Nom
+P:     dalkılıç+Noun+Prop+A3sg+Pnon+Nom
+D:     dalkılıç+Adverb
+
+dünya:2
+P:     dünya+Noun+A3sg+Pnon+Nom
+P:     dünya+Noun+Prop+A3sg+Pnon+Nom
+
+rekorunu:1
+P:     rekor+Noun+A3sg+P3sg+Acc
+D:     rekor+Noun+A3sg+P2sg+Acc
+
+bir:1
+D:     bir+Num+Card
+D:     bir+Noun+A3sg+Pnon+Nom
+D:     bir+Adverb
+P:     bir+Adj
+
+kez:1
+P:     kez+Noun+A3sg+Pnon+Nom
+
+daha:1
+P:     daha+Adverb+AdjMdfy
+
+kırdı:2
+P:     kır+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     kır+Verb+Pos+Past+A3sg
+P:     kır+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+.:1
+P:     .+Punc
+
+<S>
+.:1
+P:     .+Punc
+
+<S>
+Dünkü:1
+P:     dün+Noun+A3sg+Pnon+Nom^DB+Adj+Rel+Nom
+P:     dünkü+Adj
+
+denemesi:1
+P:     deneme+Noun+A3sg+P3sg+Nom
+P:     dene+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+
+hakemlerce:1
+P:     hakem+Noun+A3pl+Pnon^DB+Adverb+Ly
+
+':1
+P:     '+Punc
+
+geçersiz:1
+P:     geçer+Noun+A3sg+Pnon+Nom^DB+Adj+Without
+P:     geçer+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+Without
+
+':1
+P:     '+Punc
+
+sayılan:2
+D:     sayı+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Imp+A2sg
+P:     say+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+D:     sayıla+Verb^DB+Verb+Pass+Pos+Imp+A2sg
+
+sualtı:1
+P:     sualtı+Noun+A3sg+P3sg+Nom
+P:     sualtı+Noun+A3sg+Pnon+Acc
+
+dalış:2
+D:     dal+Verb^DB+Verb+Recip+Pos+Imp+A2sg
+P:     dal+Verb+Pos^DB+Noun+Inf3+A3sg+Pnon+Nom
+
+rekortmeni:1
+P:     rekortmen+Noun+A3sg+P3sg+Nom
+P:     rekortmen+Noun+A3sg+Pnon+Acc
+
+Yasemin:2
+D:     yasemin+Noun+A3sg+Pnon+Nom
+D:     yasemin+Noun+Prop+A3sg+Pnon+Nom
+P:     yasemin+Adj
+
+Dalkılıç:2
+P:     dalkılıç+Noun+A3sg+Pnon+Nom
+P:     dalkılıç+Noun+Prop+A3sg+Pnon+Nom
+D:     dalkılıç+Adverb
+
+,:1
+P:     ,+Punc
+
+bu:2
+D:     bu+Pron+A3sg+Pnon+Nom
+P:     bu+Adj
+
+sabah:2
+P:     sabah+Noun+A3sg+Pnon+Nom
+D:     sabah+Adverb
+
+,:1
+P:     ,+Punc
+
+İstanköy:1
+P:     istanköy+Noun+Prop+A3sg+Pnon+Nom
+
+Kos:1
+P:     kos+Noun+Prop+A3sg+Pnon+Nom
+
+Adası:1
+P:     ada+Noun+A3sg+P3sg+Nom
+D:     adası+Noun+Prop+A3sg+Pnon+Nom
+
+yakınlarında:8
+P:     yakın+Noun+A3pl+P3sg+Loc
+D:     yakın+Noun+A3pl+P2sg+Loc
+D:     yakın+Noun+A3sg+P3pl+Loc
+D:     yakın+Noun+A3pl+P3pl+Loc
+D:     yakın+Adj^DB+Noun+Zero+A3pl+P3sg+Loc
+D:     yakın+Adj^DB+Noun+Zero+A3pl+P2sg+Loc
+D:     yakın+Adj^DB+Noun+Zero+A3sg+P3pl+Loc
+D:     yakın+Adj^DB+Noun+Zero+A3pl+P3pl+Loc
+
+40:1
+P:     40+Num+Card
+
+metreye:1
+P:     metre+Noun+A3sg+Pnon+Dat
+D:     metre+Adj^DB+Noun+Zero+A3sg+Pnon+Dat
+
+':1
+P:     '+Punc
+
+malzemesiz:1
+P:     malzeme+Noun+A3sg+Pnon+Nom^DB+Adj+Without
+
+':1
+P:     '+Punc
+
+dalarak:1
+P:     dal+Verb+Pos^DB+Adverb+ByDoingSo
+
+':1
+P:     '+Punc
+
+desteksiz:1
+P:     destek+Noun+A3sg+Pnon+Nom^DB+Adj+Without
+
+Sabit:1
+D:     sabit+Noun+A3sg+Pnon+Nom
+P:     sabit+Adj
+D:     sabit+Noun+Prop+A3sg+Pnon+Nom
+
+Ağırlıkla:1
+D:     ağır+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Ins
+P:     ağırlıkla+Noun+Prop+A3sg+Pnon+Nom
+
+Sabit:1
+D:     sabit+Noun+A3sg+Pnon+Nom
+P:     sabit+Adj
+D:     sabit+Noun+Prop+A3sg+Pnon+Nom
+
+Dalış:2
+D:     dal+Verb^DB+Verb+Recip+Pos+Imp+A2sg
+D:     dal+Verb+Pos^DB+Noun+Inf3+A3sg+Pnon+Nom
+P:     dalış+Noun+Prop+A3sg+Pnon+Nom
+
+':1
+P:     '+Punc
+
+dünya:2
+P:     dünya+Noun+A3sg+Pnon+Nom
+P:     dünya+Noun+Prop+A3sg+Pnon+Nom
+
+rekorunu:1
+P:     rekor+Noun+A3sg+P3sg+Acc
+D:     rekor+Noun+A3sg+P2sg+Acc
+
+kırdı:2
+P:     kır+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     kır+Verb+Pos+Past+A3sg
+P:     kır+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+':1
+P:     '+Punc
+
+Quantum:1
+P:     quantum+Noun+Prop+A3sg+Pnon+Nom
+
+Saatleri:1
+P:     saat+Noun+A3pl+P3sg+Nom
+D:     saat+Noun+A3pl+Pnon+Acc
+D:     saat+Noun+A3sg+P3pl+Nom
+D:     saat+Noun+A3pl+P3pl+Nom
+D:     saatleri+Noun+Prop+A3sg+Pnon+Nom
+
+':1
+P:     '+Punc
+
+sponsorluğunda:1
+P:     sponsor+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Loc
+D:     sponsor+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P2sg+Loc
+
+,:1
+P:     ,+Punc
+
+Bodrum:2
+P:     bodrum+Noun+A3sg+Pnon+Nom
+P:     bodrum+Noun+Prop+A3sg+Pnon+Nom
+
+Sualtı:1
+P:     sualtı+Noun+A3sg+P3sg+Nom
+D:     sualtı+Noun+A3sg+Pnon+Acc
+D:     sualtı+Noun+Prop+A3sg+Pnon+Nom
+
+Cankurtarma:1
+P:     cankurtarma+Noun+Prop+A3sg+Pnon+Nom
+
+Derneği:1
+P:     dernek+Noun+A3sg+P3sg+Nom
+D:     dernek+Noun+A3sg+Pnon+Acc
+D:     derneği+Noun+Prop+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+İstanköy:1
+P:     istanköy+Noun+Prop+A3sg+Pnon+Nom
+
+Kardamania:1
+P:     kardamania+Noun+Prop+A3sg+Pnon+Nom
+
+Belediyesi:1
+P:     belediye+Noun+A3sg+P3sg+Nom
+D:     belediyesi+Noun+Prop+A3sg+Pnon+Nom
+
+desteğinde:1
+P:     destek+Noun+A3sg+P3sg+Loc
+D:     destek+Noun+A3sg+P2sg+Loc
+
+,:1
+P:     ,+Punc
+
+Yasemin:2
+D:     yasemin+Noun+A3sg+Pnon+Nom
+D:     yasemin+Noun+Prop+A3sg+Pnon+Nom
+P:     yasemin+Adj
+
+Dalkılıç:2
+P:     dalkılıç+Noun+A3sg+Pnon+Nom
+P:     dalkılıç+Noun+Prop+A3sg+Pnon+Nom
+D:     dalkılıç+Adverb
+
+,:1
+P:     ,+Punc
+
+':1
+P:     '+Punc
+
+Kardamania:1
+P:     kardamania+Noun+Prop+A3sg+Pnon+Nom
+
+':1
+P:     '+Punc
+
+mevkiinde:2
+D:     mevki+Noun+A3sg+P2sg+Loc
+P:     mevki+Noun+A3sg+P3sg+Loc
+
+,:1
+P:     ,+Punc
+
+bulunduğu:3
+P:     bul+Verb^DB+Verb+Pass+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+P:     bul+Verb^DB+Verb+Pass+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+P:     bulun+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+P:     bulun+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+tekneden:1
+P:     tekne+Noun+A3sg+Pnon+Abl
+
+40:1
+P:     40+Num+Card
+
+metreye:1
+P:     metre+Noun+A3sg+Pnon+Dat
+D:     metre+Adj^DB+Noun+Zero+A3sg+Pnon+Dat
+
+daldı:2
+P:     dal+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     dal+Verb+Pos+Past+A3sg
+P:     dal+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Kısa:4
+D:     kısa+Noun+A3sg+Pnon+Nom
+D:     kıs+Verb+Pos+Opt+A3sg
+D:     kısa+Adverb
+P:     kısa+Adj
+
+süre:1
+P:     süre+Noun+A3sg+Pnon+Nom
+D:     sür+Verb+Pos+Opt+A3sg
+
+sonra:3
+P:     sonra+Noun+A3sg+Pnon+Nom
+D:     sonra+Adverb
+D:     sonra+Postp
+
+elinde:1
+P:     el+Noun+A3sg+P3sg+Loc
+D:     el+Noun+A3sg+P2sg+Loc
+
+Türk:2
+P:     türk+Noun+A3sg+Pnon+Nom
+P:     türk+Noun+Prop+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+Yunanistan:1
+P:     yunanistan+Noun+Prop+A3sg+Pnon+Nom
+
+bayraklarıyla:1
+P:     bayrak+Noun+A3pl+P3sg+Ins
+D:     bayrak+Noun+A3sg+P3pl+Ins
+D:     bayrak+Noun+A3pl+P3pl+Ins
+
+sudan:1
+D:     su+Noun+A3sg+Pnon+Abl
+D:     sudan+Noun+Prop+A3sg+Pnon+Nom
+P:     sudan+Adj
+
+çıkan:2
+P:     çıkan+Noun+A3sg+Pnon+Nom
+D:     çık+Verb+Pos^DB+Adj+PresPart
+
+Dalkılıç'ın:2
+D:     dalkılıç+Noun+Prop+A3sg+P2sg+Nom
+P:     dalkılıç+Noun+Prop+A3sg+Pnon+Gen
+P:     dalkılıç'ın+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+':1
+P:     '+Punc
+
+desteksiz:1
+P:     destek+Noun+A3sg+Pnon+Nom^DB+Adj+Without
+
+Sabit:1
+D:     sabit+Noun+A3sg+Pnon+Nom
+P:     sabit+Adj
+D:     sabit+Noun+Prop+A3sg+Pnon+Nom
+
+Ağırlıkla:1
+D:     ağır+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Ins
+P:     ağırlıkla+Noun+Prop+A3sg+Pnon+Nom
+
+Dalış:2
+D:     dal+Verb^DB+Verb+Recip+Pos+Imp+A2sg
+P:     dal+Verb+Pos^DB+Noun+Inf3+A3sg+Pnon+Nom
+P:     dalış+Noun+Prop+A3sg+Pnon+Nom
+
+':1
+P:     '+Punc
+
+kategorisinde:1
+P:     kategori+Noun+A3sg+P3sg+Loc
+
+dünya:1
+P:     dünya+Noun+A3sg+Pnon+Nom
+P:     dünya+Noun+Prop+A3sg+Pnon+Nom
+
+rekorunu:1
+P:     rekor+Noun+A3sg+P3sg+Acc
+D:     rekor+Noun+A3sg+P2sg+Acc
+
+kırdığı:1
+P:     kır+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+P:     kır+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+bildirildi:1
+P:     bil+Verb^DB+Verb+Caus^DB+Verb+Pass+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Yetkililer:1
+P:     yetki+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3pl+Pnon+Nom
+P:     yetki+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+,:1
+P:     ,+Punc
+
+Avustralya:1
+P:     avustralya+Noun+Prop+A3sg+Pnon+Nom
+
+vatandaşı:1
+P:     vatandaş+Noun+A3sg+P3sg+Nom
+D:     vatandaş+Noun+A3sg+Pnon+Acc
+
+Türk:2
+P:     türk+Noun+A3sg+Pnon+Nom
+P:     türk+Noun+Prop+A3sg+Pnon+Nom
+
+asıllı:1
+P:     asıl+Noun+A3sg+Pnon+Nom^DB+Adj+With
+P:     asıl+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With
+
+Yüzey:1
+P:     yüzey+Noun+A3sg+Pnon+Nom
+P:     yüzey+Noun+Prop+A3sg+Pnon+Nom
+
+Hakemi:1
+P:     hakem+Noun+A3sg+P3sg+Nom
+D:     hakem+Noun+A3sg+Pnon+Acc
+D:     hakemi+Noun+Prop+A3sg+Pnon+Nom
+
+Erman:1
+P:     erman+Noun+Prop+A3sg+Pnon+Nom
+
+Akarsu:3
+P:     akarsu+Noun+A3sg+Pnon+Nom
+D:     akarsu+Adj
+P:     akarsu+Noun+Prop+A3sg+Pnon+Nom
+
+ile:2
+D:     il+Noun+A3sg+Pnon+Dat
+P:     ile+Conj
+D:     ile+Postp
+
+Dip:1
+P:     dip+Noun+A3sg+Pnon+Nom
+P:     dip+Noun+Prop+A3sg+Pnon+Nom
+
+Hakemi:1
+P:     hakem+Noun+A3sg+P3sg+Nom
+D:     hakem+Noun+A3sg+Pnon+Acc
+D:     hakemi+Noun+Prop+A3sg+Pnon+Nom
+
+Rus:2
+D:     rus+Noun+A3sg+Pnon+Nom
+D:     rus+Noun+Prop+A3sg+Pnon+Nom
+P:     rus+Adj
+
+Arthur:1
+P:     arthur+Noun+Prop+A3sg+Pnon+Nom
+
+Zanoga'nın:1
+P:     Zanoga+Noun+Prop+A3sg+Pnon+Gen
+P:     Zanoga+Noun+Prop+A3sg+Pnon+Gen
+
+,:1
+P:     ,+Punc
+
+sualtındaki:1
+P:     sualtı+Noun+A3sg+P3sg+Loc^DB+Adj+Rel
+P:     sualtı+Noun+A3sg+P2sg+Loc^DB+Adj+Rel
+
+görüntüleri:1
+P:     görüntü+Noun+A3pl+P3sg+Nom
+P:     görüntü+Noun+A3pl+Pnon+Acc
+D:     görüntü+Noun+A3sg+P3pl+Nom
+P:     görüntü+Noun+A3pl+P3pl+Nom
+
+dünkü:1
+P:     dün+Noun+A3sg+Pnon+Nom^DB+Adj+Rel+Nom
+D:     dünkü+Adj
+
+gibi:2
+D:     gibi+Adverb
+P:     gibi+Postp
+
+izleyeceğini:1
+P:     izle+Verb+Pos^DB+Adj+FutPart^DB+Noun+Zero+A3sg+P3sg+Acc
+D:     izle+Verb+Pos^DB+Adj+FutPart^DB+Noun+Zero+A3sg+P2sg+Acc
+
+,:1
+P:     ,+Punc
+
+':1
+P:     '+Punc
+
+ihlal:1
+P:     ihlal+Noun+A3sg+Pnon+Nom
+
+olmadığını:1
+P:     ol+Verb+Neg^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Acc
+D:     ol+Verb+Neg^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P2sg+Acc
+P:     olmadık+Adj^DB+Noun+Zero+A3sg+P3sg+Acc
+D:     olmadık+Adj^DB+Noun+Zero+A3sg+P2sg+Acc
+
+tespit ederlerse:1
+P:     tespit et+Verb+Pos+Aor+A3pl+Cond
+
+de:3
+D:     de+Noun+A3sg+Pnon+Nom
+D:     de+Verb+Pos+Imp+A2sg
+P:     de+Conj
+
+':1
+P:     '+Punc
+
+rekoru:2
+P:     rekor+Noun+A3sg+P3sg+Nom
+P:     rekor+Noun+A3sg+Pnon+Acc
+
+tescil:1
+P:     tescil+Noun+A3sg+Pnon+Nom
+
+edeceklerini:4
+P:     et+Verb+Pos^DB+Adj+FutPart^DB+Noun+Zero+A3pl+P3sg+Acc
+D:     et+Verb+Pos^DB+Adj+FutPart^DB+Noun+Zero+A3pl+P2sg+Acc
+D:     et+Verb+Pos^DB+Adj+FutPart^DB+Noun+Zero+A3sg+P3pl+Acc
+P:     et+Verb+Pos^DB+Adj+FutPart^DB+Noun+Zero+A3pl+P3pl+Acc
+
+bildirdiler:1
+P:     bil+Verb^DB+Verb+Caus+Pos+Past+A3pl
+
+.:1
+P:     .+Punc
+
+<S>
+Dalkılıç:2
+D:     dalkılıç+Noun+A3sg+Pnon+Nom
+D:     dalkılıç+Noun+Prop+A3sg+Pnon+Nom
+P:     dalkılıç+Adverb
+
+,:1
+P:     ,+Punc
+
+dünkü:1
+P:     dün+Noun+A3sg+Pnon+Nom^DB+Adj+Rel+Nom
+P:     dünkü+Adj
+
+dalışında:1
+P:     dal+Verb+Pos^DB+Noun+Inf3+A3sg+P3sg+Loc
+D:     dal+Verb+Pos^DB+Noun+Inf3+A3sg+P2sg+Loc
+
+':1
+P:     '+Punc
+
+ipe:1
+P:     ip+Noun+A3sg+Pnon+Dat
+
+bir:1
+D:     bir+Num+Card
+D:     bir+Noun+A3sg+Pnon+Nom
+D:     bir+Adverb
+P:     bir+Adj
+
+kez:1
+P:     kez+Noun+A3sg+Pnon+Nom
+
+yerine:1
+P:     yer+Noun+A3sg+P3sg+Dat
+D:     yer+Noun+A3sg+P2sg+Dat
+D:     yerin+Verb+Pos+Opt+A3sg
+D:     yerine+Adverb
+
+iki:1
+D:     iki+Num+Card
+D:     iki+Noun+A3sg+Pnon+Nom
+P:     iki+Adj
+
+kez:1
+P:     kez+Noun+A3sg+Pnon+Nom
+
+değince:4
+D:     değin+Noun+A3sg+Pnon^DB+Adverb+Ly
+P:     dek+Noun+A3sg+P3sg^DB+Adverb+Ly
+D:     dek+Noun+A3sg+P2sg^DB+Adverb+Ly
+D:     değ+Verb+Pos^DB+Adverb+When
+P:     dek+Adj^DB+Noun+Zero+A3sg+P3sg^DB+Adverb+Ly
+D:     dek+Adj^DB+Noun+Zero+A3sg+P2sg^DB+Adverb+Ly
+
+':1
+P:     '+Punc
+
+görüntülerini:1
+P:     görüntü+Noun+A3pl+P3sg+Acc
+D:     görüntü+Noun+A3pl+P2sg+Acc
+D:     görüntü+Noun+A3sg+P3pl+Acc
+P:     görüntü+Noun+A3pl+P3pl+Acc
+
+izleyen:1
+P:     izle+Verb+Pos^DB+Adj+PresPart
+
+hakemler:1
+P:     hakem+Noun+A3pl+Pnon+Nom
+D:     hakem+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+,:1
+P:     ,+Punc
+
+faulu:2
+P:     faul+Noun+A3sg+P3sg+Nom
+P:     faul+Noun+A3sg+Pnon+Acc
+
+tespit edip:1
+P:     tespit et+Verb+Pos^DB+Adverb+AfterDoingSo
+
+rekoru:2
+P:     rekor+Noun+A3sg+P3sg+Nom
+P:     rekor+Noun+A3sg+Pnon+Acc
+
+':1
+P:     '+Punc
+
+geçerli:1
+P:     geçer+Noun+A3sg+Pnon+Nom^DB+Adj+With
+P:     geçer+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With
+
+':1
+P:     '+Punc
+
+saymamışlardı:2
+P:     say+Verb+Neg^DB+Adj+Zero^DB+Noun+Zero+A3pl+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     say+Verb+Neg+Narr+A3pl+Past
+
+.:1
+P:     .+Punc
+
+<S>
+Yasemin:2
+D:     yasemin+Noun+A3sg+Pnon+Nom
+D:     yasemin+Noun+Prop+A3sg+Pnon+Nom
+P:     yasemin+Adj
+
+Dalkılıç:2
+P:     dalkılıç+Noun+A3sg+Pnon+Nom
+P:     dalkılıç+Noun+Prop+A3sg+Pnon+Nom
+D:     dalkılıç+Adverb
+
+,:1
+P:     ,+Punc
+
+serbest:3
+D:     serbest+Noun+A3sg+Pnon+Nom
+D:     serbest+Adverb
+P:     serbest+Adj
+
+dalışın:3
+D:     dal+Verb^DB+Verb+Recip+Pos+Imp+A2pl
+D:     dal+Verb+Pos^DB+Noun+Inf3+A3sg+P2sg+Nom
+P:     dal+Verb+Pos^DB+Noun+Inf3+A3sg+Pnon+Gen
+
+farklı:1
+P:     fark+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+disiplinlerinde:1
+P:     disiplin+Noun+A3pl+P3sg+Loc
+D:     disiplin+Noun+A3pl+P2sg+Loc
+D:     disiplin+Noun+A3sg+P3pl+Loc
+P:     disiplin+Noun+A3pl+P3pl+Loc
+
+bugüne:1
+P:     bugün+Noun+A3sg+Pnon+Dat
+
+dek:3
+P:     dek+Noun+A3sg+Pnon+Nom
+P:     dek+Adj
+P:     dek+Postp
+
+68:1
+P:     68+Num+Card
+
+,:1
+P:     ,+Punc
+
+105:1
+P:     105+Num+Card
+
+ve:1
+P:     ve+Conj
+
+120:1
+P:     120+Num+Card
+
+metrede:1
+P:     metre+Noun+A3sg+Pnon+Loc
+D:     metre+Adj^DB+Noun+Zero+A3sg+Pnon+Loc
+
+dünya:2
+P:     dünya+Noun+A3sg+Pnon+Nom
+P:     dünya+Noun+Prop+A3sg+Pnon+Nom
+
+rekorlarını:1
+P:     rekor+Noun+A3pl+P3sg+Acc
+D:     rekor+Noun+A3pl+P2sg+Acc
+D:     rekor+Noun+A3sg+P3pl+Acc
+D:     rekor+Noun+A3pl+P3pl+Acc
+
+kırmıştı:2
+P:     kır+Verb+Pos^DB+Adj+Zero^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     kır+Verb+Pos+Narr+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Daum:1
+P:     daum+Noun+Prop+A3sg+Pnon+Nom
+
+kokain:1
+P:     kokain+Noun+A3sg+Pnon+Nom
+
+davası:1
+P:     dava+Noun+A3sg+P3sg+Nom
+
+için:4
+D:     iç+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+D:     iç+Adj^DB+Noun+Zero+A3sg+Pnon+Gen
+D:     iç+Verb+Pos+Imp+A2pl
+P:     için+Postp
+
+Almanya'ya:1
+P:     almanya+Noun+Prop+A3sg+Pnon+Dat
+P:     almanya'ya+Noun+Prop+A3sg+Pnon+Nom
+
+gitti:1
+P:     git+Verb+Pos+Past+A3sg
+
+Beşiktaş:1
+P:     beşiktaş+Noun+Prop+A3sg+Pnon+Nom
+
+Teknik:1
+D:     teknik+Noun+A3sg+Pnon+Nom
+P:     teknik+Adj
+D:     teknik+Noun+Prop+A3sg+Pnon+Nom
+
+Direktörü:1
+D:     direktör+Noun+A3sg+P3sg+Nom
+D:     direktör+Noun+A3sg+Pnon+Acc
+P:     direktörü+Noun+Prop+A3sg+Pnon+Nom
+
+Christoph:1
+P:     christoph+Noun+Prop+A3sg+Pnon+Nom
+
+Daum:1
+P:     daum+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+uyuşturucu:4
+D:     uyuşturucu+Noun+A3sg+Pnon+Nom
+P:     uy+Verb^DB+Verb+Recip^DB+Verb+Caus+Pos^DB+Adj+Agt
+P:     uyu+Verb^DB+Verb+Recip^DB+Verb+Caus+Pos^DB+Adj+Agt
+P:     uyuş+Verb^DB+Verb+Caus+Pos^DB+Adj+Agt
+
+madde:1
+P:     madde+Noun+A3sg+Pnon+Nom
+
+kullandığı:3
+P:     kul+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     kul+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+P:     kullan+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     kullan+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+ve:1
+P:     ve+Conj
+
+satın aldığı:1
+P:     satın al+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+P:     satın al+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+gerekçesiyle:1
+P:     gerekçe+Noun+A3sg+P3sg+Ins
+
+Almanya'da:1
+P:     almanya+Noun+Prop+A3sg+Pnon+Loc
+P:     almanya'da+Noun+Prop+A3sg+Pnon+Nom
+
+Köln:1
+P:     köln+Noun+Prop+A3sg+Pnon+Nom
+
+Savcılığı:1
+P:     sav+Noun+A3sg+Pnon+Nom^DB+Noun+Agt+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Nom
+D:     sav+Noun+A3sg+Pnon+Nom^DB+Noun+Agt+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Acc
+D:     savcılığı+Noun+Prop+A3sg+Pnon+Nom
+
+tarafından:1
+P:     taraf+Noun+A3sg+P3sg+Abl
+D:     taraf+Noun+A3sg+P2sg+Abl
+
+açılan:2
+D:     açı+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Imp+A2sg
+P:     aç+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+
+davaya:1
+P:     dava+Noun+A3sg+Pnon+Dat
+
+katılmak:1
+P:     kat+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf1+A3sg+Pnon+Nom
+
+için:4
+D:     iç+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+D:     iç+Adj^DB+Noun+Zero+A3sg+Pnon+Gen
+D:     iç+Verb+Pos+Imp+A2pl
+P:     için+Postp
+
+Almanya'ya:1
+P:     almanya+Noun+Prop+A3sg+Pnon+Dat
+P:     almanya'ya+Noun+Prop+A3sg+Pnon+Nom
+
+gitti:1
+P:     git+Verb+Pos+Past+A3sg
+
+Daum:1
+P:     daum+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+eşi:1
+P:     eş+Noun+A3sg+P3sg+Nom
+P:     eş+Noun+A3sg+Pnon+Acc
+
+Caroline:1
+P:     caroline+Noun+Prop+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+oğlu:1
+P:     oğul+Noun+A3sg+P3sg+Nom
+P:     oğul+Noun+A3sg+Pnon+Acc
+
+Jean:1
+P:     jean+Noun+Prop+A3sg+Pnon+Nom
+
+Pual'la:1
+P:     Pual+Noun+Prop+A3sg+Pnon+Ins
+P:     Pual+Adj^DB+Noun+Prop+Zero+A3sg+Pnon+Ins
+
+birlikte:7
+D:     bir+Num+Card^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Loc
+D:     bir+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Loc
+D:     birlik+Noun+A3sg+Pnon+Loc
+P:     birlikte+Noun+A3sg+Pnon+Nom
+D:     birlikte+Adverb
+D:     bir+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Loc
+D:     birlikte+Postp
+
+geldiği:1
+P:     gel+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     gel+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+Atatürk:1
+P:     atatürk+Noun+Prop+A3sg+Pnon+Nom
+
+Havalimanı'nda:2
+D:     havalimanı+Noun+Prop+A3sg+P2sg+Loc
+P:     havalimanı+Noun+Prop+A3sg+P3sg+Loc
+D:     havalimanı+Noun+Prop+A3sg+P2sg+Loc
+D:     Havalimanı+Noun+Prop+A3sg+Pnon+Loc
+
+konuyla:1
+P:     konu+Noun+A3sg+Pnon+Ins
+
+ilgili:1
+P:     ilgi+Noun+A3sg+Pnon+Nom^DB+Adj+With
+D:     ilgili+Noun+A3sg+Pnon+Nom
+
+basın:4
+D:     bas+Noun+A3sg+P2sg+Nom
+P:     bas+Noun+A3sg+Pnon+Gen
+D:     bası+Noun+A3sg+P2sg+Nom
+D:     basın+Noun+A3sg+Pnon+Nom
+D:     bas+Verb+Pos+Imp+A2pl
+
+mensuplarına:1
+P:     mensup+Noun+A3pl+P3sg+Dat
+D:     mensup+Noun+A3pl+P2sg+Dat
+D:     mensup+Noun+A3sg+P3pl+Dat
+D:     mensup+Noun+A3pl+P3pl+Dat
+D:     mensup+Adj^DB+Noun+Zero+A3pl+P3sg+Dat
+D:     mensup+Adj^DB+Noun+Zero+A3pl+P2sg+Dat
+D:     mensup+Adj^DB+Noun+Zero+A3sg+P3pl+Dat
+D:     mensup+Adj^DB+Noun+Zero+A3pl+P3pl+Dat
+
+herhangi:1
+D:     herhangi+Noun+A3sg+Pnon+Nom
+P:     herhangi+Adj
+
+bir:1
+D:     bir+Num+Card
+P:     bir+Noun+A3sg+Pnon+Nom
+D:     bir+Adverb
+D:     bir+Adj
+
+açıklama:2
+D:     açıkla+Verb+Neg+Imp+A2sg
+P:     açıkla+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom
+
+yapmadan:1
+P:     yap+Verb+Pos^DB+Adverb+WithoutHavingDone
+P:     yap+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Abl
+
+İstanbul'dan:1
+P:     istanbul+Noun+Prop+A3sg+Pnon+Abl
+P:     istanbul'dan+Noun+Prop+A3sg+Pnon+Nom
+
+ayrıldı:2
+P:     ayır+Verb^DB+Verb+Pass+Pos+Past+A3sg
+P:     ayrıl+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Koblenz:1
+P:     koblenz+Noun+Prop+A3sg+Pnon+Nom
+
+Eyalet:1
+P:     eyalet+Noun+A3sg+Pnon+Nom
+P:     eyalet+Noun+Prop+A3sg+Pnon+Nom
+
+Mahkemesi'nde:1
+P:     mahkeme+Noun+Prop+A3sg+P3sg+Loc
+D:     Mahkemesi+Noun+Prop+A3sg+Pnon+Loc
+
+başlayacak:1
+P:     başla+Verb+Pos^DB+Adj+FutPart
+D:     başla+Verb+Pos+Fut+A3sg
+
+olan:1
+P:     ol+Verb+Pos^DB+Adj+PresPart
+
+davayla:1
+P:     dava+Noun+A3sg+Pnon+Ins
+
+ilgili:1
+P:     ilgi+Noun+A3sg+Pnon+Nom^DB+Adj+With
+P:     ilgili+Noun+A3sg+Pnon+Nom
+
+olarak:1
+P:     ol+Verb+Pos^DB+Adverb+ByDoingSo
+
+26:1
+P:     26+Num+Card
+
+Şubat:2
+P:     şubat+Noun+A3sg+Pnon+Nom
+P:     şubat+Noun+Prop+A3sg+Pnon+Nom
+
+2002:1
+P:     2002+Num+Card
+
+tarihine:1
+P:     tarih+Noun+A3sg+P3sg+Dat
+D:     tarih+Noun+A3sg+P2sg+Dat
+D:     tarihi+Noun+A3sg+P2sg+Dat
+D:     tarihi+Adj^DB+Noun+Zero+A3sg+P2sg+Dat
+
+kadar:2
+P:     kadar+Adverb+AdjMdfy
+P:     kadar+Postp
+
+şimdilik:3
+P:     şimdi+Noun+A3sg+Pnon+Nom^DB+Adj+FitFor
+P:     şimdi+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom
+P:     şimdilik+Adverb
+
+19:1
+P:     19+Num+Card
+
+duruşma:1
+P:     duruşma+Noun+A3sg+Pnon+Nom
+
+gününün:1
+P:     gün+Noun+A3sg+P3sg+Gen
+D:     gün+Noun+A3sg+P2sg+Gen
+D:     günü+Noun+A3sg+P2sg+Gen
+D:     günü+Noun+A3sg+Pnon+Gen
+
+öngörüldüğü:1
+P:     öngör+Verb^DB+Verb+Pass+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+P:     öngör+Verb^DB+Verb+Pass+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+açıklandı:2
+D:     açık+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Past+A3sg
+P:     açıkla+Verb^DB+Verb+Pass+Pos+Past+A3sg
+D:     açık+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Daum:1
+P:     daum+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+geçen:1
+P:     geç+Verb+Pos^DB+Adj+PresPart
+
+yıl:1
+P:     yıl+Noun+A3sg+Pnon+Nom
+D:     yıl+Verb+Pos+Imp+A2sg
+
+kokain:1
+P:     kokain+Noun+A3sg+Pnon+Nom
+
+kullandığının:3
+P:     kul+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Gen
+D:     kul+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P2sg+Gen
+P:     kullan+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Gen
+D:     kullan+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P2sg+Gen
+
+belirlenmesinden:1
+P:     belirle+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+P3sg+Abl
+
+sonra:3
+P:     sonra+Noun+A3sg+Pnon+Nom
+P:     sonra+Adverb
+D:     sonra+Postp
+
+,:1
+P:     ,+Punc
+
+teknik:1
+P:     teknik+Noun+A3sg+Pnon+Nom
+D:     teknik+Adj
+
+direktörlüğünü:1
+P:     direktör+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P3sg+Acc
+D:     direktör+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+P2sg+Acc
+
+yaptığı:1
+P:     yap+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+P:     yap+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+TSV:1
+P:     tsv+Noun+Prop+A3sg+Pnon+Nom
+
+Bayer:1
+P:     bayer+Noun+Prop+A3sg+Pnon+Nom
+
+04:1
+P:     04+Num+Card
+
+Leverkusen:1
+P:     leverkusen+Noun+Prop+A3sg+Pnon+Nom
+
+takımından:1
+P:     takım+Noun+A3sg+P3sg+Abl
+D:     takım+Noun+A3sg+P2sg+Abl
+
+ayrılmıştı:4
+P:     ayır+Verb^DB+Verb+Pass+Pos^DB+Adj+Zero^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     ayır+Verb^DB+Verb+Pass+Pos+Narr+Past+A3sg
+P:     ayrıl+Verb+Pos^DB+Adj+Zero^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     ayrıl+Verb+Pos+Narr+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Alman:4
+P:     alman+Noun+A3sg+Pnon+Nom
+D:     al+Verb+Pos^DB+Noun+Inf2+A3sg+P2sg+Nom
+P:     alman+Adj
+D:     alman+Noun+Prop+A3sg+Pnon+Nom
+
+teknik:1
+D:     teknik+Noun+A3sg+Pnon+Nom
+P:     teknik+Adj
+
+adamın:3
+D:     ada+Noun+A3sg+P1sg+Gen
+D:     adam+Noun+A3sg+P2sg+Nom
+P:     adam+Noun+A3sg+Pnon+Gen
+
+,:1
+P:     ,+Punc
+
+yarın:6
+D:     yar+Noun+A3sg+P2sg+Nom
+P:     yar+Noun+A3sg+Pnon+Gen
+D:     yarı+Noun+A3sg+P2sg+Nom
+P:     yarın+Noun+A3sg+Pnon+Nom
+D:     yar+Verb+Pos+Imp+A2pl
+P:     yarın+Adverb
+D:     yarı+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+
+mahkemeye:1
+P:     mahkeme+Noun+A3sg+Pnon+Dat
+
+çıktıktan:1
+P:     çık+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Abl
+
+sonra:3
+P:     sonra+Noun+A3sg+Pnon+Nom
+P:     sonra+Adverb
+D:     sonra+Postp
+
+akşam:1
+P:     akşam+Noun+A3sg+Pnon+Nom
+D:     akşam+Adverb
+
+saatlerinde:1
+P:     saat+Noun+A3pl+P3sg+Loc
+D:     saat+Noun+A3pl+P2sg+Loc
+D:     saat+Noun+A3sg+P3pl+Loc
+D:     saat+Noun+A3pl+P3pl+Loc
+
+İstanbul'a:1
+D:     istanbul+Noun+Prop+A3sg+Pnon+Dat
+P:     istanbul'a+Noun+Prop+A3sg+Pnon+Nom
+
+döneceği:1
+P:     dön+Verb+Pos^DB+Adj+FutPart^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     dön+Verb+Pos^DB+Adj+FutPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+öğrenildi:1
+P:     öğren+Verb^DB+Verb+Pass+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Bu:2
+D:     bu+Pron+A3sg+Pnon+Nom
+P:     bu+Adj
+
+arada:1
+D:     ara+Adj^DB+Noun+Zero+A3sg+Pnon+Loc
+P:     ara+Noun+A3sg+Pnon+Loc
+
+,:1
+P:     ,+Punc
+
+Daum:1
+P:     daum+Noun+Prop+A3sg+Pnon+Nom
+
+ailesine:1
+P:     aile+Noun+A3sg+P3sg+Dat
+
+ait olan:1
+P:     ait ol+Verb+Pos^DB+Adj+PresPart
+
+köpek:1
+P:     köpek+Noun+A3sg+Pnon+Nom
+
+nedeniyle:1
+P:     neden+Noun+A3sg+P3sg+Ins
+D:     nedeniyle+Adverb
+
+Atatürk:1
+P:     atatürk+Noun+Prop+A3sg+Pnon+Nom
+
+Havalimanı'nda:2
+D:     havalimanı+Noun+Prop+A3sg+P2sg+Loc
+P:     havalimanı+Noun+Prop+A3sg+P3sg+Loc
+D:     havalimanı+Noun+Prop+A3sg+P2sg+Loc
+D:     Havalimanı+Noun+Prop+A3sg+Pnon+Loc
+
+kısa:4
+D:     kısa+Noun+A3sg+Pnon+Nom
+D:     kıs+Verb+Pos+Opt+A3sg
+D:     kısa+Adverb
+P:     kısa+Adj
+
+süreli:1
+P:     süre+Noun+A3sg+Pnon+Nom^DB+Adj+With
+D:     sür+Verb+Pos^DB+Adverb+SinceDoingSo
+
+bir:1
+D:     bir+Num+Card
+D:     bir+Noun+A3sg+Pnon+Nom
+D:     bir+Adverb
+P:     bir+Adj
+
+sorun:2
+D:     soru+Noun+A3sg+P2sg+Nom
+P:     sorun+Noun+A3sg+Pnon+Nom
+D:     sor+Verb+Pos+Imp+A2pl
+D:     soru+Verb^DB+Verb+Pass+Pos+Imp+A2sg
+
+yaşandı:1
+P:     yaşa+Verb^DB+Verb+Pass+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Uçağa:1
+P:     uçak+Noun+A3sg+Pnon+Dat
+
+binen:1
+P:     bin+Verb+Pos^DB+Adj+PresPart
+
+başka:1
+P:     başka+Adj
+D:     başka+Postp
+
+bir:1
+D:     bir+Num+Card
+D:     bir+Noun+A3sg+Pnon+Nom
+D:     bir+Adverb
+P:     bir+Adj
+
+ailenin:2
+D:     aile+Noun+A3sg+P2sg+Gen
+P:     aile+Noun+A3sg+Pnon+Gen
+
+kedisi:1
+P:     kedi+Noun+A3sg+P3sg+Nom
+
+olduğu:1
+P:     ol+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     ol+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+için:4
+D:     iç+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+D:     iç+Adj^DB+Noun+Zero+A3sg+Pnon+Gen
+D:     iç+Verb+Pos+Imp+A2pl
+P:     için+Postp
+
+,:1
+P:     ,+Punc
+
+önce:3
+P:     ön+Noun+A3sg+Pnon^DB+Adverb+Ly
+P:     önce+Noun+A3sg+Pnon+Nom
+P:     önce+Adverb
+P:     ön+Adj^DB+Noun+Zero+A3sg+Pnon^DB+Adverb+Ly
+D:     önce+Postp
+
+köpek:1
+P:     köpek+Noun+A3sg+Pnon+Nom
+
+kabine:1
+P:     kabin+Noun+A3sg+Pnon+Dat
+P:     kabine+Noun+A3sg+Pnon+Nom
+
+alınmak:1
+P:     al+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf1+A3sg+Pnon+Nom
+P:     alın+Verb+Pos^DB+Noun+Inf1+A3sg+Pnon+Nom
+
+istenmezken:1
+P:     iste+Verb^DB+Verb+Pass+Neg+Aor^DB+Adverb+While
+P:     isten+Verb+Neg+Aor^DB+Adverb+While
+
+,:1
+P:     ,+Punc
+
+görüşmeler:1
+P:     görüş+Verb+Pos^DB+Noun+Inf2+A3pl+Pnon+Nom
+P:     görüş+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A3pl
+
+sonunda:1
+P:     son+Noun+A3sg+P3sg+Loc
+D:     son+Noun+A3sg+P2sg+Loc
+P:     sonunda+Adverb
+P:     son+Adj^DB+Noun+Zero+A3sg+P3sg+Loc
+D:     son+Adj^DB+Noun+Zero+A3sg+P2sg+Loc
+
+Daum'un:2
+D:     daum+Noun+Prop+A3sg+P2sg+Nom
+P:     daum+Noun+Prop+A3sg+Pnon+Gen
+P:     daum'un+Noun+Prop+A3sg+Pnon+Nom
+
+süs:1
+P:     süs+Noun+A3sg+Pnon+Nom
+D:     süs+Verb+Pos+Imp+A2sg
+
+köpeği:1
+P:     köpek+Noun+A3sg+P3sg+Nom
+D:     köpek+Noun+A3sg+Pnon+Acc
+
+kabine:1
+P:     kabin+Noun+A3sg+Pnon+Dat
+P:     kabine+Noun+A3sg+Pnon+Nom
+
+alınıp:1
+P:     al+Verb^DB+Verb+Pass+Pos^DB+Adverb+AfterDoingSo
+P:     alın+Verb+Pos^DB+Adverb+AfterDoingSo
+
+,:1
+P:     ,+Punc
+
+kedide:1
+P:     kedi+Noun+A3sg+Pnon+Loc
+
+bagaja:1
+P:     bagaj+Noun+A3sg+Pnon+Dat
+
+verilerek:1
+P:     ver+Verb^DB+Verb+Pass+Pos^DB+Adverb+ByDoingSo
+
+sorun:2
+D:     soru+Noun+A3sg+P2sg+Nom
+P:     sorun+Noun+A3sg+Pnon+Nom
+D:     sor+Verb+Pos+Imp+A2pl
+D:     soru+Verb^DB+Verb+Pass+Pos+Imp+A2sg
+
+halledildi:1
+P:     hallet+Verb^DB+Verb+Pass+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Gol:1
+P:     gol+Noun+A3sg+Pnon+Nom
+
+kralı:1
+P:     kral+Noun+A3sg+P3sg+Nom
+D:     kral+Noun+A3sg+Pnon+Acc
+P:     kral+Adj^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     kral+Adj^DB+Noun+Zero+A3sg+Pnon+Acc
+
+Okan:1
+P:     okan+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+uygun:2
+D:     uygun+Noun+A3sg+Pnon+Nom
+P:     uygun+Adj
+
+adım:3
+D:     ad+Noun+A3sg+P1sg+Nom
+D:     ad+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+P:     adım+Noun+A3sg+Pnon+Nom
+
+.:1
+P:     .+Punc
+
+<S>
+.:1
+P:     .+Punc
+
+<S>
+.:1
+P:     .+Punc
+
+<S>
+Bursaspor'un:2
+P:     Bursaspor+Noun+Prop+A3sg+Pnon+Nom
+P:     Bursaspor+Noun+Prop+A3sg+Pnon+Gen
+
+geçen:1
+P:     geç+Verb+Pos^DB+Adj+PresPart
+
+hafta:2
+P:     haf+Noun+A3sg+Pnon+Loc
+P:     hafta+Noun+A3sg+Pnon+Nom
+
+deplasmanda:1
+P:     deplasman+Noun+A3sg+Pnon+Loc
+
+Ankaragücü'nü:3
+D:     ankaragücü+Noun+Prop+A3sg+P2sg+Acc
+P:     ankaragücü'nü+Noun+Prop+A3sg+Pnon+Nom
+D:     ankaragücü+Noun+Prop+A3sg+Pnon+Acc
+
+1-0:1
+P:     1-0+Num+Range
+
+yendiği:3
+P:     ye+Verb^DB+Verb+Pass+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+P:     ye+Verb^DB+Verb+Pass+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+P:     yen+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+P:     yen+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+maçta:1
+P:     maç+Noun+A3sg+Pnon+Loc
+
+takımına:1
+P:     takım+Noun+A3sg+P3sg+Dat
+D:     takım+Noun+A3sg+P2sg+Dat
+
+galibiyet:1
+P:     galibiyet+Noun+A3sg+Pnon+Nom
+
+getiren:1
+P:     getir+Verb+Pos^DB+Adj+PresPart
+
+golü:2
+P:     gol+Noun+A3sg+P3sg+Nom
+P:     gol+Noun+A3sg+Pnon+Acc
+
+kaydeden:1
+P:     kaydet+Verb+Pos^DB+Adj+PresPart
+
+Okan:1
+P:     okan+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+dün:2
+P:     dün+Noun+A3sg+Pnon+Nom
+P:     dün+Adverb
+
+yapılan:2
+D:     yapı+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos+Imp+A2sg
+P:     yap+Verb^DB+Verb+Pass+Pos^DB+Adj+PresPart
+
+Kocaelispor:1
+P:     kocaelispor+Noun+Prop+A3sg+Pnon+Nom
+
+maçında:1
+P:     maç+Noun+A3sg+P3sg+Loc
+D:     maç+Noun+A3sg+P2sg+Loc
+
+da:1
+P:     de+Conj
+
+skor:1
+P:     skor+Noun+A3sg+Pnon+Nom
+
+1-1:1
+P:     1-1+Num+Range
+
+iken:1
+P:     iken+Adverb
+
+Yeşil:2
+P:     yeşil+Noun+A3sg+Pnon+Nom
+P:     yeşil+Adj
+P:     yeşil+Noun+Prop+A3sg+Pnon+Nom
+
+-:1
+P:     -+Punc
+
+beyazlı:2
+P:     beyaz+Noun+A3sg+Pnon+Nom^DB+Adj+With
+P:     beyaz+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With
+
+ekibe:1
+P:     ekip+Noun+A3sg+Pnon+Dat
+
+3:1
+P:     3+Num+Card
+
+puanı:2
+D:     puan+Noun+A3sg+P3sg+Nom
+P:     puan+Noun+A3sg+Pnon+Acc
+
+taşıyan:1
+P:     taşı+Verb+Pos^DB+Adj+PresPart
+
+golü:2
+P:     gol+Noun+A3sg+P3sg+Nom
+P:     gol+Noun+A3sg+Pnon+Acc
+
+attı:3
+P:     at+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     ad+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     at+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Teknik:1
+D:     teknik+Noun+A3sg+Pnon+Nom
+P:     teknik+Adj
+
+direktör:1
+P:     direktör+Noun+A3sg+Pnon+Nom
+
+Nejat:1
+P:     nejat+Noun+Prop+A3sg+Pnon+Nom
+
+Biyediç'in:2
+P:     Biyediç+Noun+Prop+A3sg+Pnon+Nom
+P:     Biyediç+Noun+Prop+A3sg+Pnon+Gen
+
+,:1
+P:     ,+Punc
+
+ligin:2
+D:     lig+Noun+A3sg+P2sg+Nom
+P:     lig+Noun+A3sg+Pnon+Gen
+
+4:1
+P:     4+Num+Card
+
+haftasında:1
+P:     hafta+Noun+A3sg+P3sg+Loc
+
+ilk:3
+D:     ilk+Noun+A3sg+Pnon+Nom
+D:     ilk+Adverb
+P:     ilk+Adj
+
+11'de:1
+P:     11+Num+Card^DB+Noun+Zero+A3sg+Pnon+Loc
+
+şans:1
+P:     şans+Noun+A3sg+Pnon+Nom
+
+tanımadığı:1
+P:     tanı+Verb+Neg^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     tanı+Verb+Neg^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+genç:2
+D:     genç+Noun+A3sg+Pnon+Nom
+P:     genç+Adj
+
+futbolcu:1
+P:     futbol+Noun+A3sg+Pnon+Nom^DB+Noun+Agt+A3sg+Pnon+Nom
+D:     futbol+Noun+A3sg+Pnon+Nom^DB+Adj+Agt
+
+,:1
+P:     ,+Punc
+
+yedek:1
+P:     yedek+Noun+A3sg+Pnon+Nom
+D:     yedek+Adj
+
+kulübesinde:1
+P:     kulübe+Noun+A3sg+P3sg+Loc
+
+beklemeye:2
+D:     bekle+Verb+Neg+Opt+A3sg
+P:     bekle+Verb+Pos^DB+Noun+Inf2+A3sg+Pnon+Dat
+
+tahammülünün:1
+P:     tahammül+Noun+A3sg+P3sg+Gen
+D:     tahammül+Noun+A3sg+P2sg+Gen
+
+olmadığını:1
+P:     ol+Verb+Neg^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Acc
+D:     ol+Verb+Neg^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P2sg+Acc
+P:     olmadık+Adj^DB+Noun+Zero+A3sg+P3sg+Acc
+D:     olmadık+Adj^DB+Noun+Zero+A3sg+P2sg+Acc
+
+belirterek:1
+P:     belir+Verb^DB+Verb+Caus+Pos^DB+Adverb+ByDoingSo
+
+,:1
+P:     ,+Punc
+
+':1
+P:     '+Punc
+
+Formsuzdum:1
+P:     form+Noun+A3sg+Pnon+Nom^DB+Adj+Without^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A1sg
+P:     formsuzdum+Noun+Prop+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+hocam:1
+P:     hoca+Noun+A3sg+P1sg+Nom
+
+haklı:1
+P:     hak+Noun+A3sg+Pnon+Nom^DB+Adj+With
+P:     hak+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With
+P:     hak+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Adj+With
+
+olarak:1
+P:     ol+Verb+Pos^DB+Adverb+ByDoingSo
+
+bana:3
+D:     ban+Noun+A3sg+Pnon+Dat
+D:     ban+Verb+Pos+Opt+A3sg
+P:     ben+Pron+A1sg+Pnon+Dat
+D:     bana+Adverb
+
+şans:1
+P:     şans+Noun+A3sg+Pnon+Nom
+
+vermedi:1
+P:     ver+Verb+Neg+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Antalya:1
+P:     antalya+Noun+Prop+A3sg+Pnon+Nom
+
+kampı:1
+P:     kamp+Noun+A3sg+P3sg+Nom
+D:     kamp+Noun+A3sg+Pnon+Acc
+
+toparlanmam:4
+D:     topar+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Neg+Aor+A1sg
+P:     topar+Noun+A3sg+Pnon+Nom^DB+Verb+Acquire+Pos^DB+Noun+Inf2+A3sg+P1sg+Nom
+D:     toparla+Verb^DB+Verb+Pass+Neg+Aor+A1sg
+P:     toparla+Verb^DB+Verb+Pass+Pos^DB+Noun+Inf2+A3sg+P1sg+Nom
+
+için:4
+D:     iç+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+D:     iç+Adj^DB+Noun+Zero+A3sg+Pnon+Gen
+D:     iç+Verb+Pos+Imp+A2pl
+P:     için+Postp
+
+iyi:2
+D:     iyi+Noun+A3sg+Pnon+Nom
+D:     iyi+Adverb
+P:     iyi+Adj
+
+oldu:1
+P:     ol+Verb+Pos+Past+A3sg
+P:     ol+Adj^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+
+':1
+P:     '+Punc
+
+diye:1
+D:     de+Verb+Pos+Opt+A3sg
+P:     diye+Adverb
+
+konuştu:2
+P:     kon+Verb+Pos^DB+Noun+Inf3+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     konuş+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Okan:1
+P:     okan+Noun+Prop+A3sg+Pnon+Nom
+
+,:1
+P:     ,+Punc
+
+yaşadığı:1
+P:     yaşa+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+P:     yaşa+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+sıkıntılı:1
+P:     sıkıntı+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+dönemde:1
+P:     dönem+Noun+A3sg+Pnon+Loc
+
+,:1
+P:     ,+Punc
+
+başta:1
+D:     baş+Noun+A3sg+Pnon+Loc
+D:     başta+Adverb
+P:     başta+Adj
+
+teknik:1
+P:     teknik+Noun+A3sg+Pnon+Nom
+D:     teknik+Adj
+
+heyet:1
+P:     heyet+Noun+A3sg+Pnon+Nom
+
+olmak:1
+P:     ol+Verb+Pos^DB+Noun+Inf1+A3sg+Pnon+Nom
+
+üzere:2
+D:     üzer+Noun+A3sg+Pnon+Dat
+P:     üzere+Noun+A3sg+Pnon+Nom
+D:     üzere+Adverb
+
+tüm:1
+D:     tüm+Noun+A3sg+Pnon+Nom
+P:     tüm+Adj
+
+takım:2
+D:     takı+Noun+A3sg+P1sg+Nom
+P:     takım+Noun+A3sg+Pnon+Nom
+D:     tak+Noun+A3sg+P1sg+Nom
+D:     tak+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+
+arkadaşlarının:1
+P:     arkadaş+Noun+A3pl+P3sg+Gen
+D:     arkadaş+Noun+A3pl+P2sg+Gen
+D:     arkadaş+Noun+A3sg+P3pl+Gen
+D:     arkadaş+Noun+A3pl+P3pl+Gen
+
+ve:1
+P:     ve+Conj
+
+yönetimin:2
+D:     yönetim+Noun+A3sg+P2sg+Nom
+P:     yönetim+Noun+A3sg+Pnon+Gen
+
+kendisine:1
+P:     kendisi+Pron+Reflex+A3sg+P3sg+Dat
+
+sahip:1
+P:     sahip+Noun+A3sg+Pnon+Nom
+
+çıktığını:1
+P:     çık+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Acc
+D:     çık+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P2sg+Acc
+
+kaydederek:1
+P:     kaydet+Verb+Pos^DB+Adverb+ByDoingSo
+
+,:1
+P:     ,+Punc
+
+':1
+P:     '+Punc
+
+Takımda:2
+D:     takı+Noun+A3sg+P1sg+Loc
+P:     takım+Noun+A3sg+Pnon+Loc
+D:     tak+Noun+A3sg+P1sg+Loc
+P:     takımda+Noun+Prop+A3sg+Pnon+Nom
+
+arkadaşlık:2
+P:     arkadaş+Noun+A3sg+Pnon+Nom^DB+Adj+FitFor
+P:     arkadaş+Noun+A3sg+Pnon+Nom^DB+Noun+Ness+A3sg+Pnon+Nom
+
+çok:1
+P:     çok+Adverb+AdjMdfy
+D:     çok+Adj
+
+iyi:1
+D:     iyi+Noun+A3sg+Pnon+Nom
+D:     iyi+Adverb
+P:     iyi+Adj
+
+.:1
+P:     .+Punc
+
+<S>
+Son:2
+D:     son+Noun+A3sg+Pnon+Nom
+P:     son+Adj
+
+haftalarda:1
+P:     hafta+Noun+A3pl+Pnon+Loc
+
+iyi:2
+P:     iyi+Noun+A3sg+Pnon+Nom
+P:     iyi+Adverb
+P:     iyi+Adj
+
+de:3
+D:     de+Noun+A3sg+Pnon+Nom
+D:     de+Verb+Pos+Imp+A2sg
+P:     de+Conj
+
+futbol:1
+P:     futbol+Noun+A3sg+Pnon+Nom
+
+oynuyoruz:1
+P:     oyna+Verb+Pos+Prog1+A1pl
+
+.:1
+P:     .+Punc
+
+<S>
+Ankaragücü:1
+P:     ankaragücü+Noun+Prop+A3sg+Pnon+Nom
+
+ve:1
+P:     ve+Conj
+
+Kocaelispor:1
+P:     kocaelispor+Noun+Prop+A3sg+Pnon+Nom
+
+maçlarında:1
+P:     maç+Noun+A3pl+P3sg+Loc
+D:     maç+Noun+A3pl+P2sg+Loc
+D:     maç+Noun+A3sg+P3pl+Loc
+D:     maç+Noun+A3pl+P3pl+Loc
+
+attığım:2
+D:     at+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P1sg+Nom
+P:     at+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+
+gollerle:1
+P:     gol+Noun+A3pl+Pnon+Ins
+
+takımı:3
+D:     takı+Noun+A3sg+P1sg+Acc
+P:     takım+Noun+A3sg+P3sg+Nom
+P:     takım+Noun+A3sg+Pnon+Acc
+D:     tak+Noun+A3sg+P1sg+Acc
+
+galibiyete:1
+P:     galibiyet+Noun+A3sg+Pnon+Dat
+
+taşıdığım:1
+P:     taşı+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P1sg+Nom
+D:     taşı+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+
+için:4
+D:     iç+Adj^DB+Noun+Zero+A3sg+P2sg+Nom
+D:     iç+Adj^DB+Noun+Zero+A3sg+Pnon+Gen
+D:     iç+Verb+Pos+Imp+A2pl
+P:     için+Postp
+
+çok:1
+P:     çok+Adverb+AdjMdfy
+D:     çok+Adj
+
+mutluyum:2
+P:     mut+Noun+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+P:     mutlu+Noun+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+P:     mut+Noun+Prop+A3sg+Pnon+Nom^DB+Adj+With^DB+Noun+Zero+A3sg+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+
+.:1
+P:     .+Punc
+
+<S>
+Ama:3
+D:     am+Noun+A3sg+Pnon+Dat
+D:     ama+Noun+A3sg+Pnon+Nom
+P:     ama+Conj
+
+,:1
+P:     ,+Punc
+
+ben:2
+D:     ben+Noun+A3sg+Pnon+Nom
+P:     ben+Pron+A1sg+Pnon+Nom
+
+olmasaydım:1
+P:     ol+Verb+Neg+Desr+Past+A1sg
+
+başka:1
+P:     başka+Adj
+D:     başka+Postp
+
+arkadaşlarım:1
+P:     arkadaş+Noun+A3pl+P1sg+Nom
+D:     arkadaş+Noun+A3pl+Pnon+Nom^DB+Verb+Zero+Pres+A1sg
+
+da:1
+P:     de+Conj
+
+atardı:1
+P:     at+Verb+Pos+Aor+Past+A3sg
+P:     ata+Verb+Pos+Aor+Past+A3sg
+
+.:1
+P:     .+Punc
+
+<S>
+Kimin:2
+D:     kim+Pron+Ques+A3sg+P2sg+Nom
+P:     kim+Pron+Ques+A3sg+Pnon+Gen
+
+gol:1
+P:     gol+Noun+A3sg+Pnon+Nom
+
+attığı:1
+P:     at+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+P3sg+Nom
+D:     at+Verb+Pos^DB+Adj+PastPart^DB+Noun+Zero+A3sg+Pnon+Acc
+
+önemli:1
+P:     önem+Noun+A3sg+Pnon+Nom^DB+Adj+With
+
+değil:1
+P:     değil+Noun+A3sg+Pnon+Nom
+D:     değ+Verb^DB+Verb+Pass+Pos+Imp+A2sg
+D:     değil+Conj
+
+,:1
+P:     ,+Punc
+
+önemli olan:1
+P:     önemli ol+Verb+Pos^DB+Adj+PresPart
+
+takımın:3
+D:     takı+Noun+A3sg+P1sg+Gen
+D:     takım+Noun+A3sg+P2sg+Nom
+P:     takım+Noun+A3sg+Pnon+Gen
+D:     tak+Noun+A3sg+P1sg+Gen
+
+galip:1
+P:     galip+Noun+A3sg+Pnon+Nom
+D:     galip+Adj
+
+gelmesi:1
+P:     gel+Verb+Pos^DB+Noun+Inf2+A3sg+P3sg+Nom
+
+':1
+P:     '+Punc
+
+diye:1
+D:     de+Verb+Pos+Opt+A3sg
+P:     diye+Adverb
+
+konuştu:2
+P:     kon+Verb+Pos^DB+Noun+Inf3+A3sg+Pnon+Nom^DB+Verb+Zero+Past+A3sg
+P:     konuş+Verb+Pos+Past+A3sg
+
+.:1
+P:     .+Punc
+
