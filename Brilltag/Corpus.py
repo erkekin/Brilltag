@@ -79,6 +79,7 @@ class Corpus:
         for file_path in files:
             f = open(file_path, 'r')
             fullText = f.read()
-            fullText = fullText.replace("<S>\r", "")  # exclude Sentences information <S>
+            fullText = fullText.replace("\r\n", "\n")
+            fullText = fullText.replace("<S>\n", "")  # exclude Sentences information <S>
             words = fullText.split("\n\n")
             self.getWordsAndTheirParses(words)

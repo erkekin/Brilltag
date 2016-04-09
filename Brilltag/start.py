@@ -8,9 +8,12 @@ corpus = Corpus(["./dataset/train/file1.txt"
                  , "./dataset/train/file6.txt"
                  , "./dataset/train/file7.txt"
                  , "./dataset/train/file8.txt"
+
                  ])
 
 corpus.sortWords()
 corpus.outputWords("./Output/MostLikelyMorphParseForWord.txt")
+#corpus.printWords()
 
 print("analysis succesfully finished.")
+
