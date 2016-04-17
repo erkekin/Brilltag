@@ -2,6 +2,7 @@ from Word import Word
 import re
 from collections import Counter
 
+
 class Corpus:
 
     def getKey(self, word):
@@ -48,10 +49,11 @@ class Corpus:
 
             correctMorphParseNumber = splittedFirstLine[1]  # get correct
             correctMorphParseFull = lines[int(correctMorphParseNumber)]
-            correctMorphParseFull = correctMorphParseFull.replace("P:     ", "")  # remove noise
-            correctMorphParseFull = correctMorphParseFull.replace("D:     ", "")  # remove noise
 
             goodWord.addParse(correctMorphParseFull)
+            wordAttachedToCorrectParse = wordText, correctMorphParseFull
+
+            self.allWordsInCorpus.append(wordAttachedToCorrectParse)
 
     def find_all_POS_tags(self, text):
 
@@ -76,19 +78,47 @@ class Corpus:
 
         self.POStags += POSes
 
+    def calculate_precision(self, tagged_order):
+        # Precision = Number of Correctly Tagged Words / Number of Total Words
+        tagged_order += 1
+        number_of_total_words = len(self.allWordsInCorpus)
+        number_of_correctly_tagged_words = 0
+
+        for word in self.allWordsInCorpus:
+            correct_morph_parse = word[1]
+            tagged_morph_parse = word[tagged_order]
+            if correct_morph_parse == tagged_morph_parse:
+                number_of_correctly_tagged_words += 1
+
+        precision = number_of_correctly_tagged_words / number_of_total_words
+        return precision
+
     def tag_words_with_most_likely_morph_parse(self):
-        tagged_words = []
-        for word in self.words:
-            tagged_word = self.tag_word_with_most_likely_morph_parse(word)
-            if tagged_word is not None:
-                tagged_words.append(tagged_word)
+        new_words = []
+        for word in self.allWordsInCorpus:  # a word is a tuple here
+            most_likely_morph_parse = self.get_most_likely_morph_parse(word[0])
 
-        return tagged_words
+            if most_likely_morph_parse is not None:
+                word += (most_likely_morph_parse,)
+                new_words.append(word)
 
-    def tag_word_with_most_likely_morph_parse(self, word):
-        if len(word.parses) > 0:
-            return word.text, word.parses[0].text
+        self.allWordsInCorpus = new_words
+
+    def find_word_by_text(self, text):
+
+        for serialized_word in self.words:
+
+            if serialized_word.text == text:
+                return serialized_word
+
+    def get_most_likely_morph_parse(self, word_text):
+        serialized_word = self.find_word_by_text(word_text)
+
+        if len(serialized_word.parses) > 0:
+
+            return serialized_word.parses[0].text
         else:
+
             return None
 
     def outputPOStags(self, fileName):
@@ -127,6 +157,7 @@ class Corpus:
 
     def __init__(self, files):
         self.words = []
+        self.allWordsInCorpus = []
         self.POStags = []
 
         for file_path in files:
@@ -137,6 +168,8 @@ class Corpus:
 
             fullText = fullText.replace("\r\n", "\n")
             fullText = fullText.replace("<S>\n", "")  # exclude Sentences information <S>
+            fullText = fullText.replace("P:     ", "")  # remove noise
+            fullText = fullText.replace("D:     ", "")  # remove noise
             words = fullText.split("\n\n")
             self.getWordsAndTheirParses(words)
 

@@ -12,7 +12,7 @@ corpus = Corpus(["./dataset/train/file1.txt"
 
                  ])
 
-corpus.sortWords()
+# corpus.sortWords()
 # 1
 corpus.outputWords("./Output/MostLikelyMorphParseForWord.txt")
 print("Most likely morphological parses for words are written to ./Output/MostLikelyMorphParseForWord.txt")
@@ -20,8 +20,9 @@ print("Most likely morphological parses for words are written to ./Output/MostLi
 corpus.outputPOStags("./Output/MostLikelyTag.txt")
 print("Most likely tags are written to ./Output/MostLikelyTag.txt")
 # 3
-tagged_words = corpus.tag_words_with_most_likely_morph_parse()
-print(tagged_words)
+corpus.tag_words_with_most_likely_morph_parse()
+tag_order = 1
+print("Precision for DS" + str(tag_order) + " " + str(corpus.calculate_precision(tag_order)))
 # 4
 
 print("Analysis succesfully finished...")
