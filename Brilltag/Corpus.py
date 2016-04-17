@@ -76,6 +76,21 @@ class Corpus:
 
         self.POStags += POSes
 
+    def tag_words_with_most_likely_morph_parse(self):
+        tagged_words = []
+        for word in self.words:
+            tagged_word = self.tag_word_with_most_likely_morph_parse(word)
+            if tagged_word is not None:
+                tagged_words.append(tagged_word)
+
+        return tagged_words
+
+    def tag_word_with_most_likely_morph_parse(self, word):
+        if len(word.parses) > 0:
+            return word.text, word.parses[0].text
+        else:
+            return None
+
     def outputPOStags(self, fileName):
 
         outputFile = open(fileName, "w+")
