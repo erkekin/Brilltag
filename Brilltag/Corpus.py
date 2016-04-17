@@ -1,4 +1,5 @@
 from Word import Word
+from Parse import Parse
 import re
 from collections import Counter
 
@@ -57,26 +58,13 @@ class Corpus:
 
     def find_all_POS_tags(self, text):
 
-        fullTags = re.findall(re.escape("     ") + "(.*)" + re.escape("\n"), text)
-        POSes = []
+        parses = re.findall(re.escape("     ") + "(.*)" + re.escape("\n"), text)
+        tags = []
 
-        for tag in fullTags:
-            if '^DB' in tag:
+        for parse in parses:
+            tags.append(Parse.convert_parse_to_tag(parse))
 
-                afterDB = tag.split("^DB")[-1]
-
-                afterDBSplitted = afterDB.split("+")
-                afterDBSplitted.remove('')
-
-                if len(afterDBSplitted) > 1:
-                    del afterDBSplitted[1]
-
-                POSes.append("+".join(afterDBSplitted))
-            else:
-                # If the morphological parse does not contain a derivational boundary (^DB), except the root word assume that the rest of the morphological parse as a part of speech tag. See the following examples.
-                POSes.append(tag.partition("+")[-1])
-
-        self.POStags += POSes
+        self.tags += tags
 
     def calculate_precision(self, tagged_order):
         # Precision = Number of Correctly Tagged Words / Number of Total Words
@@ -111,21 +99,20 @@ class Corpus:
             if serialized_word.text == text:
                 return serialized_word
 
+        return None
+
     def get_most_likely_morph_parse(self, word_text):
         serialized_word = self.find_word_by_text(word_text)
-
-        if len(serialized_word.parses) > 0:
-
-            return serialized_word.parses[0].text
-        else:
-
+        if serialized_word is None or len(serialized_word.parses) == 0:
             return None
+
+        return serialized_word.parses[0].text
 
     def outputPOStags(self, fileName):
 
         outputFile = open(fileName, "w+")
 
-        POSTuples = Counter(self.POStags).items()
+        POSTuples = Counter(self.tags).items()
 
         sorted_by_second = sorted(POSTuples, key=lambda tup: tup[1], reverse=True)
         for POS in sorted_by_second:
@@ -158,14 +145,14 @@ class Corpus:
     def __init__(self, files):
         self.words = []
         self.allWordsInCorpus = []
-        self.POStags = []
+        self.tags = []
 
         for file_path in files:
             f = open(file_path, 'r')
             fullText = f.read()
 
             self.find_all_POS_tags(fullText)
-
+            # preprocessing
             fullText = fullText.replace("\r\n", "\n")
             fullText = fullText.replace("<S>\n", "")  # exclude Sentences information <S>
             fullText = fullText.replace("P:     ", "")  # remove noise
