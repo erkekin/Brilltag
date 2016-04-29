@@ -2,6 +2,7 @@ class Parse:
     def __init__(self, text):
         self.text = text
         self.frequency = 1
+        self.tag = Parse.convert_parse_to_tag(text)
 
     @staticmethod
     def convert_parse_to_tag(parse):

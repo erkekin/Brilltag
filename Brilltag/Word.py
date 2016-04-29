@@ -19,7 +19,19 @@ class Word:
         parse = Parse(parseText)
         self.parses.append(parse)
 
+    @staticmethod
+    def find_word_by_text(text, words):
+
+        for serialized_word in words:
+
+            if serialized_word.text == text:
+                return serialized_word
+
+        return None
+
     def __init__(self, text):
         self.text = text
         self.parses = []
+        self.correct_parse = None
+        self.assigned_parse = None
         self.frequency = 1
