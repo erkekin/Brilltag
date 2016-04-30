@@ -18,6 +18,7 @@ class Word:
 
         parse = Parse(parseText)
         self.parses.append(parse)
+        self.sortParses()
 
     @staticmethod
     def find_word_by_text(text, words):

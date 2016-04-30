@@ -54,9 +54,10 @@ class Corpus:
 
             unique_serialized_word.addParse(correctMorphParseFull)
 
-            w = Word(wordText)
-            w.correct_parse = correctMorphParseFull
-            self.all_words_in_corpus.append(w)
+            if "Punc" not in correctMorphParseFull:
+                w = Word(wordText)  # add all words to all_words_in_corpus
+                w.correct_parse = correctMorphParseFull
+                self.all_words_in_corpus.append(w)
 
     def find_all_POS_tags(self, text):
 
@@ -85,13 +86,14 @@ class Corpus:
         for word in self.all_words_in_corpus:
             parse = self.get_most_likely_morph_parse(word.text)
             word.assigned_parse = parse
+            #print(word.text + " " + parse.text)
 
     def get_most_likely_morph_parse(self, word_text):
         serialized_word = Word.find_word_by_text(word_text, self.words)
         if serialized_word is None or len(serialized_word.parses) == 0:
             return None
 
-        return serialized_word.parses[0]
+        return serialized_word.parses[0]  # to get the most likely
 
     def outputPOStags(self, fileName):
 

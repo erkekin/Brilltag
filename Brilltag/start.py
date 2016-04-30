@@ -1,5 +1,5 @@
 from Corpus import Corpus
-from Rule  import PossibleRules
+from Rule import PossibleRules
 
 print("Analysis starting...")
 corpus = Corpus(["./dataset/train/file1.txt"
@@ -30,13 +30,15 @@ print("Analysis succesfully finished...")
 
 print("Possible rules are generating...")
 rules = PossibleRules(corpus.tags[:10]).rules
-
+print(str(len(corpus.all_words_in_corpus)) + "kelime var ")
 for rule in rules:
-    for i in range(1, 100):
-        first_word = corpus.all_words_in_corpus[i]
-        other_word = corpus.all_words_in_corpus[i+1]
-        rule.apply(first_word, other_word, corpus.words)
+    for i in range(1, 1000):
 
-tag_order = 2
-print("Precision for DS" + str(tag_order) + " " + str(corpus.calculate_precision()))
-print("Possible rules are generated.")
+        original_word = corpus.all_words_in_corpus[i]
+        word_after = corpus.all_words_in_corpus[i+1]
+
+        rule_changed_any_tag = rule.apply(original_word, word_after, corpus.words)
+        #if rule_changed_any_tag is True:
+            # print("Precision for " + rule.name + " is " + str(corpus.calculate_precision()))
+
+
