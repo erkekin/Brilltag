@@ -56,7 +56,7 @@ class Corpus:
 
             if "Punc" not in correctMorphParseFull:
                 w = Word(wordText)  # add all words to all_words_in_corpus
-                w.correct_parse = correctMorphParseFull
+                w.correct_parse = Parse(correctMorphParseFull)
                 self.all_words_in_corpus.append(w)
 
     def find_all_POS_tags(self, text):
@@ -76,7 +76,7 @@ class Corpus:
 
         for word in self.all_words_in_corpus:
 
-            if word.correct_parse == word.assigned_parse.text:
+            if word.correct_parse.text == word.assigned_parse.text:
                 number_of_correctly_tagged_words += 1
 
         precision = number_of_correctly_tagged_words / number_of_total_words

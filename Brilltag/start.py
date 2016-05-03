@@ -29,16 +29,16 @@ print("Precision for DS" + str(tag_order) + " " + str(corpus.calculate_precision
 print("Analysis succesfully finished...")
 
 print("Possible rules are generating...")
-rules = PossibleRules(corpus.tags[:10]).rules
+rules = PossibleRules(corpus.tags).rules
 print(str(len(corpus.all_words_in_corpus)) + "kelime var ")
 for rule in rules:
-    for i in range(1, 1000):
+    for i in range(1, len(corpus.all_words_in_corpus)):
 
         original_word = corpus.all_words_in_corpus[i]
         word_after = corpus.all_words_in_corpus[i+1]
 
         rule_changed_any_tag = rule.apply(original_word, word_after, corpus.words)
-        #if rule_changed_any_tag is True:
-            # print("Precision for " + rule.name + " is " + str(corpus.calculate_precision()))
+        if rule_changed_any_tag is True:
+            print("Precision for " + rule.name + " is " + str(corpus.calculate_precision()))
 
 
