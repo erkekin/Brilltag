@@ -54,10 +54,10 @@ class Corpus:
 
             unique_serialized_word.addParse(correctMorphParseFull)
 
-            if "Punc" not in correctMorphParseFull:
-                w = Word(wordText)  # add all words to all_words_in_corpus
-                w.correct_parse = Parse(correctMorphParseFull)
-                self.all_words_in_corpus.append(w)
+           # if "Punc" not in correctMorphParseFull:
+            w = Word(wordText)  # add all words to all_words_in_corpus
+            w.correct_parse = Parse(correctMorphParseFull)
+            self.all_words_in_corpus.append(w)
 
     def find_all_POS_tags(self, text):
 
@@ -105,6 +105,16 @@ class Corpus:
         for POS in sorted_by_second:
             line = POS[0] + "\t" + str(POS[1]) + "\r"
             outputFile.writelines(line)
+
+        outputFile.close()
+
+
+    def output_rules(self, fileName, learned_rules_with_precision):
+        outputFile = open(fileName, "w+")
+
+        for rule in learned_rules_with_precision:
+            outputFile.write(rule[0].text + "\t" + str(rule[1]))
+            outputFile.write("\r")
 
         outputFile.close()
 
