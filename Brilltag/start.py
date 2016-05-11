@@ -24,7 +24,7 @@ tag_order = 1
 print("TRAIN: Precision for DS" + str(tag_order) + " " + str(train_corpus.calculate_precision()))
 
 print("Possible rules are generating...")
-rules = PossibleRules(train_corpus.tags[:20]).rules
+rules = PossibleRules(train_corpus.tags[:20]).rules  # just try first 20 words in the training corpus since it is expensive to walk through all the words
 print(str(len(train_corpus.all_words_in_corpus)) + " words in training set.")
 
 learned_rules_with_precision = []
